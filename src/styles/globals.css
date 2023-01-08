@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next {
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+li[role="option"] {
+  color: black !important;
+}
