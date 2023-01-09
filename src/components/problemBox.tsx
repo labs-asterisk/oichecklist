@@ -89,9 +89,9 @@ const ProblemBox: React.FC<ProblemBoxProps> = ({
     attemptingState === "Untouched"
       ? "Start Solving"
       : attemptingState === "Attempting"
-      ? "Implement Solution"
+      ? "Finish Solving"
       : attemptingState === "Unimplemented"
-      ? "Finish Implementation"
+      ? "Finish Implementing"
       : "Reset";
 
   return (

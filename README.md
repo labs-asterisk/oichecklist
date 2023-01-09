@@ -19,6 +19,8 @@ All contributions are welcome! You can add functionality, edit the problem datab
 - [ ] Make problem list more extensive (update to add 2022 contests, tags for problems)
 - [ ] Enhance problem crowdsourcing
 - [ ] Add support for Google Authentication
+- [ ] Add option to hide tags
+- [ ] Add option to collapse section
 
 # License
 The code is licensed under the MIT license.
