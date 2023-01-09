@@ -14,6 +14,7 @@ python3 update_tags.py
 All contributions are welcome! You can add functionality, edit the problem database, or make any other improvements. When you're done, [submit a pull request](https://github.com/labs-asterisk/oichecklist/pulls)!
 
 ## Future Improvements
+- [ ] Add option to load user data from previous OI Checklist automatically 
 - [ ] Customized problem lists
 - [ ] Automatically update status based on judge activity
 - [ ] Make problem list more extensive (update to add 2022 contests, tags for problems)
