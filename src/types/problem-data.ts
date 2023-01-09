@@ -18,7 +18,7 @@ export interface Problem {
   editorial: string;
   link: string;
   solves: number;
-  tags: any[];
+  tags: string[];
 }
 
 export enum AttemptingState {

@@ -60,7 +60,7 @@ const ViewPage: NextPage = () => {
         <ProblemCounts userId={userId as string} />
       </Flex>
       <Box p={8} pt={0}>
-        {problems.sections.map(({ sectionName, problems }, i) => (
+        {problems.sections.map(({ sectionName, years }, i) => (
           <Box
             p={8}
             pt={2}
@@ -76,31 +76,58 @@ const ViewPage: NextPage = () => {
             <ProgressBar olympiad={sectionName} userId={userId as string} />
 
             <Grid
-              templateColumns="repeat(10, 1fr)"
+              templateColumns="100px auto"
               gap="1px"
               p="1px"
               background="gray.100"
               my={4}
+              overflowX="auto"
             >
-              {problems.map((problem, j) => {
-                const userP = data?.userProbs.find(
-                  (obj) => obj.problemSlug === problem.slug
-                );
-
-                let initAS = AttemptingState.Untouched;
-                if (userP) {
-                  initAS = userP.attemptingState as AttemptingState;
-                }
-
+              {years.map((year, j) => {
                 return (
-                  <GridItem background="white" key={j}>
-                    <ProblemViewBox
-                      initAttemptingState={initAS}
-                      problem={problem as Problem}
-                      olympiadName={sectionName}
-                    />
-                  </GridItem>
-                );
+                  [<GridItem key={j} background ="white" rowStart={j+1}>
+                    <Flex
+                      position="relative"
+                      userSelect="none"
+                      height="100%"
+                      width="100%"
+                      alignItems="center"
+                      justifyContent="center"
+                      zIndex={1}
+                      p={3}
+                      bgColor="rgba(234, 234, 234, 0.17)"
+                    >
+                      <Text
+                        fontSize="14px"
+                        textAlign="center"
+                        fontWeight="bold">
+                        {year.year}
+                      </Text>
+                    </Flex>
+                    
+                  </GridItem>,
+                  year.problems.map((problem, k) => {
+                    const userP = data?.userProbs.find(
+                      (obj) => obj.problemSlug === problem.slug
+                    );
+    
+                    let initAS = AttemptingState.Untouched;
+                    if (userP) {
+                      initAS = userP.attemptingState as AttemptingState;
+                    }
+    
+                    return (
+                      <GridItem background="white" key={k} rowStart={j+1}>
+                        <ProblemViewBox
+                          initAttemptingState={initAS}
+                          problem={problem as Problem}
+                          olympiadName={sectionName}
+                        />
+                      </GridItem>
+                    );
+                  })
+                  ]
+                )
               })}
             </Grid>
           </Box>

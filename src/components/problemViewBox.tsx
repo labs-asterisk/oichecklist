@@ -81,6 +81,7 @@ const ProblemViewBox: React.FC<ProblemViewBoxProps> = ({
             <TagsBox
               typeTags={tags}
               editorial={editorial}
+              solveCount={solves}
             />
           </PopoverHeader>
         </PopoverContent>

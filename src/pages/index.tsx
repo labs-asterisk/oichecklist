@@ -61,10 +61,9 @@ const ProblemsPage: NextPage = () => {
       <Box p={8} pt={0}>
         {problems.sections
           .map(({ sectionName, years }, i) => {
-
             return status === "unauthenticated" ? (
               <ProblemGrid
-                years={years as Year[]}
+                years={years as unknown as Year[]}
                 sectionName={sectionName}
                 userProbs={problemAttemptingStates as UserProblem[]}
                 key={i}
@@ -72,7 +71,7 @@ const ProblemsPage: NextPage = () => {
               />
             ) : (
               <ProblemGrid
-                years={years as Year[]}
+                years={years as unknown as Year[]}
                 sectionName={sectionName}
                 userProbs={problemAttemptingStates as UserProblem[]}
                 key={i}

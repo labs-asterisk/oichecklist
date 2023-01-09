@@ -117,8 +117,7 @@ const ProblemGrid: React.FC<ProblemGridProps> = ({
             })
             ]
           )
-        })
-      }
+        })}
       </Grid>
     </Box>
   );
