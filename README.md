@@ -1,4 +1,4 @@
-# OI Checklist [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/labs-asterisk/interview-checklist/blob/main/LICENSE) [![inspiration](https://img.shields.io/badge/inspiration-OIChecklist-yellow)](https://img.shields.io/badge/inspiration-OIChecklist-yellow)
+# OI Checklist [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/labs-asterisk/interview-checklist/blob/main/LICENSE) [![inspiration](https://img.shields.io/badge/inspiration-OIChecklist-yellow)](https://img.shields.io/badge/inspiration-OIChecklist-yellow) [![cf](https://img.shields.io/badge/codeforces-blog-red)](https://codeforces.com/blog/entry/111186)
 This codebase is based off our [Interview Checklist](https://github.com/labs-asterisk/interview-checklist), please check it out if you're interested! 
 
 ## Contributing
