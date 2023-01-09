@@ -16,11 +16,11 @@ import { useSession } from "next-auth/react";
 import data from "../data/problem_data.json"
 
 type ProgressBarProps = {
-  company: string;
+  olympiad: string;
   userId?: string;
 };
 
-const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
+const ProgressBar: React.FC<ProgressBarProps> = ({ olympiad, userId }) => {
   const { status } = useSession();
 
   const solvedProblemsQuery = trpc.view.getSolvedSlugs.useQuery(
@@ -30,16 +30,18 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
   const [solvedSlugs, setSolvedSlugs] = React.useState<
     { problemSlug: string; status: string }[]
   >([]);
-  const companySlugs = data.sections
-    .find((s) => s.sectionName === company)
-    .problems.map((x) => x.slug);
-
+  let olympiadSlugs = data.sections
+    .find((s) => s.sectionName === olympiad)
+    .years.map((x) => x.problems
+    .map((p) => p.slug));
+  
+  olympiadSlugs = [].concat.apply([], olympiadSlugs);
+  
   React.useEffect(() => {
     const ss = (solvedProblemsQuery.data ?? [])
-      .filter((x) => companySlugs.includes(x.problemSlug))
+      .filter((x) => olympiadSlugs.includes(x.problemSlug))
       .map((x) => ({ problemSlug: x.problemSlug, status: x.attemptingState }));
     setSolvedSlugs(ss);
-    // const solvedSlugs = solvedProblemsQuery.data.filter(x => companySlugs.includes(x));
   }, [solvedProblemsQuery.data]);
 
   return (
@@ -67,7 +69,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
               width={
                 String(
                   (solvedSlugs.filter((x) => x.status === "Solved").length /
-                    companySlugs.length) *
+                    olympiadSlugs.length) *
                     100
                 ) + "%"
               }
@@ -87,7 +89,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
                 String(
                   Math.round(
                     (solvedSlugs.filter((x) => x.status === "Solved").length /
-                      companySlugs.length) *
+                      olympiadSlugs.length) *
                       10000
                   ) / 100
                 ) +
@@ -110,7 +112,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
                 String(
                   (solvedSlugs.filter((x) => x.status === "Unimplemented")
                     .length /
-                    companySlugs.length) *
+                    olympiadSlugs.length) *
                     100
                 ) + "%"
               }
@@ -131,7 +133,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
                   Math.round(
                     (solvedSlugs.filter((x) => x.status === "Unimplemented")
                       .length /
-                      companySlugs.length) *
+                      olympiadSlugs.length) *
                       10000
                   ) / 100
                 ) +
@@ -153,7 +155,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
               width={
                 String(
                   (solvedSlugs.filter((x) => x.status === "Attempting").length /
-                    companySlugs.length) *
+                    olympiadSlugs.length) *
                     100
                 ) + "%"
               }
@@ -174,7 +176,7 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
                   Math.round(
                     (solvedSlugs.filter((x) => x.status === "Attempting")
                       .length /
-                      companySlugs.length) *
+                      olympiadSlugs.length) *
                       10000
                   ) / 100
                 ) +
@@ -205,8 +207,8 @@ const ProgressBar: React.FC<ProgressBarProps> = ({ company, userId }) => {
               {"Unsolved: " +
                 String(
                   Math.round(
-                    ((companySlugs.length - solvedSlugs.length) /
-                      companySlugs.length) *
+                    ((olympiadSlugs.length - solvedSlugs.length) /
+                      olympiadSlugs.length) *
                       10000
                   ) / 100
                 ) +

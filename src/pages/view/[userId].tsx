@@ -73,7 +73,7 @@ const ViewPage: NextPage = () => {
               {sectionName}
             </Text>
 
-            <ProgressBar company={sectionName} userId={userId as string} />
+            <ProgressBar olympiad={sectionName} userId={userId as string} />
 
             <Grid
               templateColumns="repeat(10, 1fr)"
@@ -97,7 +97,7 @@ const ViewPage: NextPage = () => {
                     <ProblemViewBox
                       initAttemptingState={initAS}
                       problem={problem as Problem}
-                      companyName={sectionName}
+                      olympiadName={sectionName}
                     />
                   </GridItem>
                 );

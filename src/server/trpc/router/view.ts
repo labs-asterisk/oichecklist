@@ -23,28 +23,13 @@ export const viewRouter = router({
       });
     }),
   getProgress: protectedProcedure
-    .input(z.object({ companyName: z.string() }))
+    .input(z.object({ olympiadName: z.string() }))
     .query(async ({ ctx, input }) => {
-      const { companyName } = input;
+      const { olympiadName } = input;
       const { id: userId } = ctx.session.user;
 
       console.log({ data });
 
-      // const allProbsCount = (
-      //   await data.sections.filter((o: any) => o.sectionName === companyName)
-      // ).length;
-
-      // const allProbsCount = await data.sections.reduce(async (acc, v) => {
-      //   if (v.sectionName !== companyName) {
-      //     return acc;
-      //   }
-
-      //   return acc.concat
-      // })
-
-      // const allProbsCount = [
-      //   ...data.sections.map((o) => o.sectionName === companyName),
-      // ].length;
 
       const solvingProbsCount = await ctx.prisma.userProblem.count({
         where: {
@@ -64,7 +49,7 @@ export const viewRouter = router({
       });
 
       const filteredProbs = _.filter(data.sections, {
-        sectionName: companyName,
+        sectionName: olympiadName,
       });
 
       // @ts-ignore

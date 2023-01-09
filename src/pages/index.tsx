@@ -61,17 +61,6 @@ const ProblemsPage: NextPage = () => {
       <Box p={8} pt={0}>
         {problems.sections
           .map(({ sectionName, years }, i) => {
-            // const {
-            //   isLoading: isProgressLoading,
-            //   data: progressData,
-            //   isError: isProgressError,
-            // } = trpc.view.getProgress.useQuery({
-            //   companyName: sectionName,
-            // });
-
-            // if (!isProgressLoading) {
-            //   console.log({ progressData });
-            // }
 
             return status === "unauthenticated" ? (
               <ProblemGrid
@@ -90,63 +79,6 @@ const ProblemsPage: NextPage = () => {
               />
             );
 
-            // return (
-            //   <Box
-            //     p={8}
-            //     borderBottomColor="gray.100"
-            //     borderBottomStyle="solid"
-            //     borderBottomWidth={2}
-            //     key={i}
-            //   >
-            //     <Text fontSize="2xl" fontWeight="bold" color="gray.700">
-            //       {sectionName}
-            //     </Text>
-
-            //     <Grid
-            //       templateColumns="repeat(10, 1fr)"
-            //       gap="1px"
-            //       p="1px"
-            //       background="gray.100"
-            //       my={4}
-            //     >
-            //       {problems.map((problem, j) => {
-            //         if (status === "unauthenticated") {
-            //           return (
-            //             <GridItem background="white" key={j}>
-            //               <ProblemBox
-            //                 initAttemptingState={AttemptingState.Untouched}
-            //                 companyName={sectionName}
-            //                 problem={problem as Problem}
-            //               />
-            //             </GridItem>
-            //           );
-            //         }
-
-            //         let userP;
-            //         if (problemAttemptingStates) {
-            //           userP = problemAttemptingStates.find(
-            //             (obj) => obj.problemSlug === problem.slug
-            //           );
-            //         }
-
-            //         let initAS = AttemptingState.Untouched;
-            //         if (userP) {
-            //           initAS = userP.attemptingState as AttemptingState;
-            //         }
-
-            //         return (
-            //           <GridItem background="white" key={j}>
-            //             <ProblemBox
-            //               initAttemptingState={initAS}
-            //               companyName={sectionName}
-            //               problem={problem as Problem}
-            //             />
-            //           </GridItem>
-            //         );
-            //       })}
-            //     </Grid>
-            //   </Box>
-            // );
           })}
       </Box>
     </Layout>

@@ -15,17 +15,19 @@ const ProblemCounts: React.FC<OverallProgressBarProps> = ({ userId }) => {
   const [solvedSlugs, setSolvedSlugs] = React.useState<
     { problemSlug: string; status: string }[]
   >([]);
-  const tempCompanySlugs = data.sections.map((s) =>
-    s.problems.map((x) => x.slug)
+  let olympiadSlugs = data.sections
+    .map((s) => s.years
+    .map((x) => x.problems
+    .map((p) => p.slug))
   );
-  const companySlugs = [].concat.apply([], tempCompanySlugs);
+  olympiadSlugs = [].concat.apply([], olympiadSlugs);
+  olympiadSlugs = [].concat.apply([], olympiadSlugs);
 
   React.useEffect(() => {
     const ss = (solvedProblemsQuery.data ?? [])
-      .filter((x) => companySlugs.includes(x.problemSlug))
+      .filter((x) => olympiadSlugs.includes(x.problemSlug))
       .map((x) => ({ problemSlug: x.problemSlug, status: x.attemptingState }));
     setSolvedSlugs(ss);
-    // const solvedSlugs = solvedProblemsQuery.data.filter(x => companySlugs.includes(x));
   }, [solvedProblemsQuery.data]);
   return (
     <>

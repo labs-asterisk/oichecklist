@@ -32,7 +32,7 @@ const ProblemGrid: React.FC<ProblemGridProps> = ({
     isError: isProgressError,
   } = trpc.view.getProgress.useQuery(
     {
-      companyName: sectionName,
+      olympiadName: sectionName,
     },
     { enabled: status === "authenticated" }
   );
@@ -53,7 +53,7 @@ const ProblemGrid: React.FC<ProblemGridProps> = ({
         {sectionName}
       </Text>
 
-      {viewOnly ? <></> : <ProgressBar company={sectionName} />}
+      {viewOnly ? <></> : <ProgressBar olympiad={sectionName} />}
 
       <Grid
         templateColumns="100px auto"
