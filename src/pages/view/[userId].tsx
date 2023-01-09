@@ -60,7 +60,9 @@ const ViewPage: NextPage = () => {
         <ProblemCounts userId={userId as string} />
       </Flex>
       <Box p={8} pt={0}>
-        {problems.sections.map(({ sectionName, years }, i) => (
+        {problems.sections
+        .filter((section) => section.years.some((year) => year.problems.length > 0))
+        .map(({ sectionName, years }, i) => (
           <Box
             p={8}
             pt={2}
@@ -83,7 +85,9 @@ const ViewPage: NextPage = () => {
               my={4}
               overflowX="auto"
             >
-              {years.map((year, j) => {
+              {years
+              .filter((year) => year.problems.length > 0)
+              .map((year, j) => {
                 return (
                   [<GridItem key={j} background ="white" rowStart={j+1}>
                     <Flex

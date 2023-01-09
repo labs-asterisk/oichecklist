@@ -64,7 +64,9 @@ const ProblemGrid: React.FC<ProblemGridProps> = ({
         overflowX="auto"
 
       >
-        {years.map((year, j) => {
+        {years
+        .filter((year) => year.problems.length > 0)
+        .map((year, j) => {
           return (
             [<GridItem key={j} background ="white" rowStart={j+1}>
               <Flex

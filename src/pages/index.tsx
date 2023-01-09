@@ -60,6 +60,7 @@ const ProblemsPage: NextPage = () => {
 
       <Box p={8} pt={0}>
         {problems.sections
+          .filter((section) => section.years.some((year) => year.problems.length > 0))
           .map(({ sectionName, years }, i) => {
             return status === "unauthenticated" ? (
               <ProblemGrid

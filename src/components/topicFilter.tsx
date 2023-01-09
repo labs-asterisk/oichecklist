@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { Select } from "@chakra-ui/react";
+import { MenuOptionGroup, Select } from "@chakra-ui/react";
 import { MultiSelect, useMultiSelect } from "chakra-multiselect";
 import { Box, Text } from "@chakra-ui/react";
 
@@ -10,7 +10,6 @@ import filterTags from "../data/filter_tags.json";
 import {
   problemsAtom,
   filterTopicsAtom,
-  filterDifficultyAtom,
 } from "../utils/store";
 
 import problems from "../data/problem_data.json";
@@ -37,7 +36,6 @@ const filterTopicsOptions = Object.entries(filterTags.topicWise).map(
 const TopicFilterMenu = () => {
   const [_, setProblems] = useAtom(problemsAtom);
   const [filterTopics, setFilterTopics] = useAtom(filterTopicsAtom);
-  const [filterDifficulties] = useAtom(filterDifficultyAtom);
   const [value, setValue] = useState<string[]>([]);
 
   return (
@@ -51,19 +49,21 @@ const TopicFilterMenu = () => {
             _value.length === 0
               ? filterTopicsOptions.map((option) => option.value)
               : _value;
-          console.log({ _topics });
           setProblems({
             sections: problems.sections.map((section) => ({
               ...section,
-              problems: section.problems.filter(
-                (problem) =>
-                  problem.tags.some((tag) => _topics.includes(tag)) &&
-                  filterDifficulties.includes(problem.difficulty)
-              ),
-            })),
+              years: section.years.map((year) => ({
+                ...year,
+                problems: year.problems.filter((problem) =>
+                 (_value.length === 0 || (problem.tags.some((tag) => _topics.includes(tag))))
+                ),
+              })),
+            }))
           });
           setFilterTopics(_topics);
           setValue(_value);
+          console.log({_});
+
         }}
         value={value}
         // label="Filter Topicwise"

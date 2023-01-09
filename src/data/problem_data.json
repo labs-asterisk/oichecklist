@@ -118,7 +118,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2019",
                             "link": "https://oj.uz/problem/view/IOI19_shoes",
                             "solves": 171,
-                            "tags": []
+                            "tags": ["Greedy", "Implementation", "Fenwick Tree"]
                         },
                         {
                             "slug": "IOI_19_02_split",
@@ -134,7 +134,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-rect.txt",
                             "link": "https://oj.uz/problem/view/IOI19_rect",
                             "solves": 23,
-                            "tags": []
+                            "tags": ["Data Structures", "Stack", "Segment Tree"]
                         },
                         {
                             "slug": "IOI_19_04_line",
@@ -142,7 +142,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-line.txt",
                             "link": "https://oj.uz/problem/view/IOI19_line",
                             "solves": 0,
-                            "tags": []
+                            "tags": ["Ad-hoc", "Implementation"]
                         },
                         {
                             "slug": "IOI_19_05_vision",
@@ -150,7 +150,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-vision.txt",
                             "link": "https://oj.uz/problem/view/IOI19_vision",
                             "solves": 47,
-                            "tags": []
+                            "tags": ["Implementation", "Ad-hoc", "Constructive"]
                         },
                         {
                             "slug": "IOI_19_06_walk",
@@ -171,7 +171,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Combo.txt",
                             "link": "https://oj.uz/problem/view/IOI18_combo",
                             "solves": 187,
-                            "tags": []
+                            "tags": ["Ad-hoc"]
                         },
                         {
                             "slug": "IOI_18_02_seats",
@@ -179,7 +179,7 @@
                             "editorial": "https://github.com/nikolapesic2802/Programming-Practice/blob/master/Seats/IOI%25202018%2520Seats.txt",
                             "link": "https://oj.uz/problem/view/IOI18_seats",
                             "solves": 1,
-                            "tags": []
+                            "tags": ["Segment Tree", "Implementation"]
                         },
                         {
                             "slug": "IOI_18_03_werewolf",
@@ -187,7 +187,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Werewolf.txt",
                             "link": "https://oj.uz/problem/view/IOI18_werewolf",
                             "solves": 17,
-                            "tags": []
+                            "tags": ["Graph", "Disjoint Set Union", "Fenwick Tree"]
                         },
                         {
                             "slug": "IOI_18_04_doll",
@@ -195,7 +195,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Doll.txt",
                             "link": "https://oj.uz/problem/view/IOI18_doll",
                             "solves": 36,
-                            "tags": []
+                            "tags": ["Segment Tree", "Constructive", "Simulation"]
                         },
                         {
                             "slug": "IOI_18_05_highway",
@@ -203,7 +203,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2018",
                             "link": "https://oj.uz/problem/view/IOI18_highway",
                             "solves": 1,
-                            "tags": []
+                            "tags": ["Graph", "Dijkstra", "Binary Search", "Implementation"]
                         },
                         {
                             "slug": "IOI_18_06_meetings",
@@ -211,7 +211,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-meetings.txt",
                             "link": "https://oj.uz/problem/view/IOI18_meetings",
                             "solves": 0,
-                            "tags": []
+                            "tags": ["Segment Tree"]
                         }
                     ]
                 },
@@ -232,7 +232,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-wiring.txt",
                             "link": "https://oj.uz/problem/view/IOI17_wiring",
                             "solves": 45,
-                            "tags": []
+                            "tags": ["Dynamic Programming", "Ad-hoc", "Observations"]
                         },
                         {
                             "slug": "IOI_17_03_train",
@@ -240,7 +240,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-toytrain.txt",
                             "link": "https://oj.uz/problem/view/IOI17_train",
                             "solves": 4,
-                            "tags": []
+                            "tags": ["Game Theory", "Topological Sort"]
                         },
                         {
                             "slug": "IOI_17_04_prize",
@@ -248,7 +248,7 @@
                             "editorial": "https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Prize2017.cpp",
                             "link": "https://oj.uz/problem/view/IOI17_prize",
                             "solves": 27,
-                            "tags": []
+                            "tags": ["Ad-hoc", "Divide and Conquer", "Interactive"]
                         },
                         {
                             "slug": "IOI_17_05_simurgh",
@@ -256,7 +256,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-simurgh.txt",
                             "link": "https://oj.uz/problem/view/IOI17_simurgh",
                             "solves": 4,
-                            "tags": []
+                            "tags": ["Graph", "Strongly Connected Components", "Binary Search", "Interactive"]
                         },
                         {
                             "slug": "IOI_17_06_books",
@@ -264,7 +264,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2017",
                             "link": "https://oj.uz/problem/view/IOI17_books",
                             "solves": 15,
-                            "tags": []
+                            "tags": ["Graph", "Constructive"]
                         }
                     ]
                 },
@@ -277,7 +277,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
                             "link": "https://oj.uz/problem/view/IOI16_molecules",
                             "solves": 159,
-                            "tags": []
+                            "tags": ["Two Pointers", "Greedy"]
                         },
                         {
                             "slug": "IOI_16_02_railroad",
@@ -285,7 +285,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
                             "link": "https://oj.uz/problem/view/IOI16_railroad",
                             "solves": 4,
-                            "tags": []
+                            "tags": ["Graph", "Minimum Spanning Tree"]
                         },
                         {
                             "slug": "IOI_16_03_shortcut",
@@ -293,7 +293,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
                             "link": "https://oj.uz/problem/view/IOI16_shortcut",
                             "solves": 1,
-                            "tags": []
+                            "tags": ["Graph", "Data Structures", "Math"]
                         },
                         {
                             "slug": "IOI_16_04_paint",
@@ -301,7 +301,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-paint.txt",
                             "link": "https://oj.uz/problem/view/IOI16_paint",
                             "solves": 91,
-                            "tags": []
+                            "tags": ["Dynamic Programming"]
                         },
                         {
                             "slug": "IOI_16_05_messy",
@@ -309,7 +309,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-messy.txt",
                             "link": "https://oj.uz/problem/view/IOI16_messy",
                             "solves": 62,
-                            "tags": []
+                            "tags": ["Ad-hoc", "Interactive", "Divide and Conquer", "Bitwise"]
                         },
                         {
                             "slug": "IOI_16_06_aliens",
@@ -317,7 +317,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-aliens.txt",
                             "link": "https://oj.uz/problem/view/IOI16_aliens",
                             "solves": 1,
-                            "tags": []
+                            "tags": ["Dynamic Programming"]
                         }
                     ]
                 },
@@ -1114,7 +1114,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-19-strange_device.txt",
                             "link": "https://oj.uz/problem/view/APIO19_strange_device",
                             "solves": 111,
-                            "tags": []
+                            "tags": ["Disjoint Set Union", "SQRT Decomposition"]
                         },
                         {
                             "slug": "APIO_19_02_bridges",
@@ -1122,7 +1122,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-19-bridges.txt",
                             "link": "https://oj.uz/problem/view/APIO19_bridges",
                             "solves": 15,
-                            "tags": []
+                            "tags": ["Math", "Sorting"]
                         },
                         {
                             "slug": "APIO_19_03_street",
@@ -1130,7 +1130,7 @@
                             "editorial": "https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/APIO%252019-street_lamps",
                             "link": "https://oj.uz/problem/view/APIO19_street_lamps",
                             "solves": 21,
-                            "tags": []
+                            "tags": ["Segment Tree", "Implementation"]
                         }
                     ]
                 },
@@ -1143,7 +1143,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-18-newhome.txt",
                             "link": "https://oj.uz/problem/view/APIO18_new_home",
                             "solves": 7,
-                            "tags": []
+                            "tags": ["Segment Tree", "Divide and Conquer", "Data Structures"]
                         },
                         {
                             "slug": "APIO_18_02_circleselection",
@@ -1151,7 +1151,7 @@
                             "editorial": "https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/CircleSelection2018.cpp",
                             "link": "https://oj.uz/problem/view/APIO18_circle_selection",
                             "solves": 1,
-                            "tags": []
+                            "tags": ["Geometry", "Sweep Line", "Greedy"]
                         },
                         {
                             "slug": "APIO_18_03_duathlon",
@@ -1159,7 +1159,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-18-duathlon.txt",
                             "link": "https://oj.uz/problem/view/APIO18_duathlon",
                             "solves": 8,
-                            "tags": []
+                            "tags": ["Graph", "Centroid", "Strongly Connected Components"]
                         }
                     ]
                 },
@@ -1172,7 +1172,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-17-rainbow.txt",
                             "link": "https://oj.uz/problem/view/APIO17_rainbow",
                             "solves": 5,
-                            "tags": []
+                            "tags": ["Segment Tree", "Persistence"]
                         },
                         {
                             "slug": "APIO_17_02_merchant",
@@ -1180,7 +1180,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-17-merchant.txt",
                             "link": "https://oj.uz/problem/view/APIO17_merchant",
                             "solves": 44,
-                            "tags": []
+                            "tags": ["Graph", "Binary Search"]
                         },
                         {
                             "slug": "APIO_17_03_koala",
@@ -1188,7 +1188,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/official/2017",
                             "link": "https://oj.uz/problem/view/APIO17_koala",
                             "solves": 2,
-                            "tags": []
+                            "tags": ["Binary Search", "Interactive", "Implementation"]
                         }
                     ]
                 },
@@ -1201,7 +1201,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-boat.txt",
                             "link": "https://oj.uz/problem/view/APIO16_boat",
                             "solves": 32,
-                            "tags": []
+                            "tags": ["Dynamic Programming", "Math"]
                         },
                         {
                             "slug": "APIO_16_02_fireworks",
@@ -1209,7 +1209,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-fireworks.txt",
                             "link": "https://oj.uz/problem/view/APIO16_fireworks",
                             "solves": 4,
-                            "tags": []
+                            "tags": ["Dynamic Programming", "Data Structures"]
                         },
                         {
                             "slug": "APIO_16_03_gap",
@@ -1217,7 +1217,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-gap.txt",
                             "link": "https://oj.uz/problem/view/APIO16_gap",
                             "solves": 40,
-                            "tags": []
+                            "tags": ["Ad-hoc", "Divide and Conquer", "Interactive"]
                         }
                     ]
                 },
@@ -1230,7 +1230,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-sculpture.txt",
                             "link": "https://oj.uz/problem/view/APIO15_sculpture",
                             "solves": 61,
-                            "tags": []
+                            "tags": ["Greedy", "Dynamic Programming"]
                         },
                         {
                             "slug": "APIO_15_02_skyscraper",
@@ -1238,7 +1238,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-skyscraper.txt",
                             "link": "https://oj.uz/problem/view/APIO15_skyscraper",
                             "solves": 63,
-                            "tags": []
+                            "tags": ["Graph", "Dijkstra"]
                         },
                         {
                             "slug": "APIO_15_03_bridge",
@@ -1246,7 +1246,7 @@
                             "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-bridge.txt",
                             "link": "https://oj.uz/problem/view/APIO15_bridge",
                             "solves": 22,
-                            "tags": []
+                            "tags": ["Math", "Data Structures"]
                         }
                     ]
                 },
