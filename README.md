@@ -4,12 +4,17 @@ This codebase is based off our [Interview Checklist](https://github.com/labs-ast
 ## Contributing
 The problem metadata is located [here](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problem_data.json). To add a problem, follow these steps:
 1. Fork the repository.
-2. Edit the [problem data JSON file](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problem_data.json) as you see fit.
-3. Run this [script](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/update_tags.py) to update the tags (it will edit the file [filter_tags.json](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/filter_tags.json) automatically).
+2. Edit the corresponding problem JSON, or create a new one [here](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problems) as you see fit.
+3. If you're adding a new olympiad, make sure to add that to the order file [here](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problems/order.txt).
+4. Run this [script](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/combine.py) to update the combined [JSON file](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problem_data.json) the webapp actually pulls data from.
+```bash
+python3 combine.py
+```
+5. Run this [script](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/update_tags.py) to update the tags (it will edit the file [filter_tags.json](https://github.com/labs-asterisk/oichecklist/blob/main/src/data/filter_tags.json) automatically).
 ```bash
 python3 update_tags.py
 ```
-4. Open up a [pull request](https://github.com/labs-asterisk/oichecklist/pulls) with your changes!
+6. Open up a [pull request](https://github.com/labs-asterisk/oichecklist/pulls) with your changes!
 
 All contributions are welcome! You can add functionality, edit the problem database, or make any other improvements. When you're done, [submit a pull request](https://github.com/labs-asterisk/oichecklist/pulls)!
 
