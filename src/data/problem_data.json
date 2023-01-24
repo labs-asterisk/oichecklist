@@ -10191,6 +10191,91 @@
       "sectionName": "Croatian Open Competition in Informatics",
       "years": [
         {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "COCI_22_Desni",
+              "name": "Desni",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c1p1",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_\u010cokolade",
+              "name": "\u010cokolade",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c1p2",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Berilij",
+              "name": "Berilij",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c1p3",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Iksevi",
+              "name": "Iksevi",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c1p4",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Neboderi",
+              "name": "Neboderi",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c1p5",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Tramvaji",
+              "name": "Tramvaji",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c2p1",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Ekspert",
+              "name": "Ekspert",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c2p2",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Lampice",
+              "name": "Lampice",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c2p3",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Prijateljice",
+              "name": "Prijateljice",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c2p4",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COCI_22_Kruhologija",
+              "name": "Kruhologija",
+              "editorial": "",
+              "link": "https://dmoj.ca/problem/coci22c2p5",
+              "solves": -1,
+              "tags": []
+            }
+          ]
+        },
+        {
           "year": 2021,
           "problems": [
             {
