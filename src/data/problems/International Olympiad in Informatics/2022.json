@@ -1,0 +1,53 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "IOI_22_01_fish",
+      "name": "Fish",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_fish",
+      "solves": 47,
+      "tags": []
+    },
+    {
+      "slug": "IOI_22_02_prison",
+      "name": "Prison",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_prison",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "IOI_22_03_towers",
+      "name": "Towers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_towers",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_22_04_circuit",
+      "name": "Circuit",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_circuit",
+      "solves": 51,
+      "tags": []
+    },
+    {
+      "slug": "IOI_22_05_insects",
+      "name": "Insects",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_insects",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_22_06_islands",
+      "name": "Islands",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI22_islands",
+      "solves": 6,
+      "tags": []
+    }
+  ]
+}
