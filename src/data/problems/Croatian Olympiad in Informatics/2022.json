@@ -1,0 +1,37 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "COI_22_01_mađioničar",
+      "name": "Mađioničar",
+      "editorial": "",
+      "link": "https://evaluator.hsin.hr/tasks/SS202241madionicar/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_22_02_mensza",
+      "name": "Mensza",
+      "editorial": "",
+      "link": "https://evaluator.hsin.hr/tasks/SS202242mensza/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_22_03_povjerenstvo",
+      "name": "Povjerenstvo",
+      "editorial": "",
+      "link": "https://evaluator.hsin.hr/tasks/SS202243povjerenstvo/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_22_04_vinjete",
+      "name": "Vinjete",
+      "editorial": "",
+      "link": "https://evaluator.hsin.hr/tasks/SS202244vinjete/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}
