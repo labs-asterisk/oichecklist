@@ -4,6 +4,59 @@
       "sectionName": "International Olympiad in Informatics",
       "years": [
         {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "IOI_22_01_fish",
+              "name": "Fish",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_fish",
+              "solves": 47,
+              "tags": []
+            },
+            {
+              "slug": "IOI_22_02_prison",
+              "name": "Prison",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_prison",
+              "solves": 8,
+              "tags": []
+            },
+            {
+              "slug": "IOI_22_03_towers",
+              "name": "Towers",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_towers",
+              "solves": 9,
+              "tags": []
+            },
+            {
+              "slug": "IOI_22_04_circuit",
+              "name": "Circuit",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_circuit",
+              "solves": 51,
+              "tags": []
+            },
+            {
+              "slug": "IOI_22_05_insects",
+              "name": "Insects",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_insects",
+              "solves": 9,
+              "tags": []
+            },
+            {
+              "slug": "IOI_22_06_islands",
+              "name": "Islands",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/IOI22_islands",
+              "solves": 6,
+              "tags": []
+            }
+          ]
+        },
+        {
           "year": 2021,
           "problems": [
             {
@@ -1121,6 +1174,35 @@
       "sectionName": "Asia Pacific Informatics Olympiad",
       "years": [
         {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "APIO_22_01_mars",
+              "name": "Mars",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/APIO22_mars",
+              "solves": 13,
+              "tags": []
+            },
+            {
+              "slug": "APIO_22_02_game",
+              "name": "Game",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/APIO22_game",
+              "solves": 3,
+              "tags": []
+            },
+            {
+              "slug": "APIO_22_03_permutation",
+              "name": "Permutation",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/APIO22_perm",
+              "solves": 71,
+              "tags": []
+            }
+          ]
+        },
+        {
           "year": 2021,
           "problems": [
             {
@@ -1610,6 +1692,107 @@
     {
       "sectionName": "USA Computing Olympiad",
       "years": [
+        {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "USACO_22_01_Tickets",
+              "name": "Tickets",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1164",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_02_PairedUp",
+              "name": "PairedUp",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1165",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_03_HILO",
+              "name": "HILO",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1166",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_04_MinimizingHaybales",
+              "name": "Minimizing Haybales",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1188",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_05_CountingHaybales",
+              "name": "Counting Haybales",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1189",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_06_Test",
+              "name": "Test",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1190",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_07_Paint",
+              "name": "Paint",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1212",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_08_Sleeping",
+              "name": "Sleeping",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1213",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_09_PhoneNumbers",
+              "name": "Phone Numbers",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1214",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_10_262144",
+              "name": "262144",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1236",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_11_HoofandBrain",
+              "name": "Hoof and Brain",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1237",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "USACO_22_12_UpDown",
+              "name": "Up Down",
+              "editorial": "",
+              "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1238",
+              "solves": -1,
+              "tags": []
+            }
+          ]
+        },
         {
           "year": 2021,
           "problems": [
@@ -2621,6 +2804,59 @@
       "sectionName": "Central-European Olympiad in Informatics",
       "years": [
         {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "CEOI_22_01_Abracadabra",
+              "name": "Abracadabra",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/CEOI22_abracadabra",
+              "solves": 10,
+              "tags": []
+            },
+            {
+              "slug": "CEOI_22_02_Homework",
+              "name": "Homework",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/CEOI22_homework",
+              "solves": 30,
+              "tags": []
+            },
+            {
+              "slug": "CEOI_22_03_Prize",
+              "name": "Prize",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/CEOI22_prize",
+              "solves": 2,
+              "tags": []
+            },
+            {
+              "slug": "CEOI_22_04_Drawing",
+              "name": "Drawing",
+              "editorial": "https://oj.uz/problem/view/CEOI22_drawing",
+              "link": "",
+              "solves": 0,
+              "tags": []
+            },
+            {
+              "slug": "CEOI_22_05_Measures",
+              "name": "Measures",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/CEOI22_measures",
+              "solves": 9,
+              "tags": []
+            },
+            {
+              "slug": "CEOI_22_06_Parking",
+              "name": "Parking",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/CEOI22_parking",
+              "solves": 8,
+              "tags": []
+            }
+          ]
+        },
+        {
           "year": 2021,
           "problems": [
             {
@@ -3526,6 +3762,59 @@
     {
       "sectionName": "Baltic Olympiad in Informatics",
       "years": [
+        {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "Baltic_22_01_art",
+              "name": "Art",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_art",
+              "solves": 40,
+              "tags": []
+            },
+            {
+              "slug": "Baltic_22_02_events",
+              "name": "EventHopping",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_events",
+              "solves": 14,
+              "tags": []
+            },
+            {
+              "slug": "Baltic_22_03_vault",
+              "name": "Vault",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_vault",
+              "solves": 0,
+              "tags": []
+            },
+            {
+              "slug": "Baltic_22_04_communication",
+              "name": "Communication",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_communication",
+              "solves": 0,
+              "tags": []
+            },
+            {
+              "slug": "Baltic_22_05_island",
+              "name": "Island",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_island",
+              "solves": 25,
+              "tags": []
+            },
+            {
+              "slug": "Baltic_22_06_passes",
+              "name": "Passes",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/BOI22_passes",
+              "solves": 11,
+              "tags": []
+            }
+          ]
+        },
         {
           "year": 2021,
           "problems": [
@@ -6120,6 +6409,35 @@
       "sectionName": "Japanese Olympiad in Informatics: Open Contest",
       "years": [
         {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "JOIOC_22_01_Seesaw",
+              "name": "Seesaw",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_seesaw",
+              "solves": 33,
+              "tags": []
+            },
+            {
+              "slug": "JOIOC_22_02_Giraffes",
+              "name": "Giraffes",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_giraffes",
+              "solves": 5,
+              "tags": []
+            },
+            {
+              "slug": "JOIOC_22_03_SchoolRoad",
+              "name": "SchoolRoad",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_schoolroad",
+              "solves": 16,
+              "tags": []
+            }
+          ]
+        },
+        {
           "year": 2021,
           "problems": [
             {
@@ -6417,6 +6735,107 @@
     {
       "sectionName": "Japanese Olympiad in Informatics: Spring Camp",
       "years": [
+        {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "JOISC_22_01_Jail",
+              "name": "Jail",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_jail",
+              "solves": 70,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_02_Kyoto",
+              "name": "Kyoto",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_kyoto",
+              "solves": 23,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_03_Misspelling",
+              "name": "Misspelling",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_misspelling",
+              "solves": 91,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_04_Copypaste3",
+              "name": "Copypaste 3",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_copypaste3",
+              "solves": 133,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_05_Flights",
+              "name": "Flights",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_flights",
+              "solves": 0,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_06_Team",
+              "name": "Team",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_team",
+              "solves": 191,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_07_Device2",
+              "name": "Device 2",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_device2",
+              "solves": 0,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_08_Sprinkler",
+              "name": "Sprinkler",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_sprinkler",
+              "solves": 189,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_09_Sugar",
+              "name": "Sugar",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_sugar",
+              "solves": 15,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_10_Dango3",
+              "name": "Dango 3",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_dango3",
+              "solves": 198,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_11_Fish2",
+              "name": "Fish 2",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_fish2",
+              "solves": 32,
+              "tags": []
+            },
+            {
+              "slug": "JOISC_22_12_Reconstruction",
+              "name": "Reconstruction",
+              "editorial": "",
+              "link": "https://oj.uz/problem/view/JOI22_reconstruction",
+              "solves": 42,
+              "tags": []
+            }
+          ]
+        },
         {
           "year": 2021,
           "problems": [
@@ -7355,6 +7774,43 @@
     {
       "sectionName": "Croatian Olympiad in Informatics",
       "years": [
+        {
+          "year": 2022,
+          "problems": [
+            {
+              "slug": "COI_22_01_ma\u0111ioni\u010dar",
+              "name": "Ma\u0111ioni\u010dar",
+              "editorial": "",
+              "link": "https://evaluator.hsin.hr/tasks/SS202241madionicar/",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COI_22_02_mensza",
+              "name": "Mensza",
+              "editorial": "",
+              "link": "https://evaluator.hsin.hr/tasks/SS202242mensza/",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COI_22_03_povjerenstvo",
+              "name": "Povjerenstvo",
+              "editorial": "",
+              "link": "https://evaluator.hsin.hr/tasks/SS202243povjerenstvo/",
+              "solves": -1,
+              "tags": []
+            },
+            {
+              "slug": "COI_22_04_vinjete",
+              "name": "Vinjete",
+              "editorial": "",
+              "link": "https://evaluator.hsin.hr/tasks/SS202244vinjete/",
+              "solves": -1,
+              "tags": []
+            }
+          ]
+        },
         {
           "year": 2021,
           "problems": [
