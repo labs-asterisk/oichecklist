@@ -1,0 +1,101 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "USACO_22_01_Tickets",
+      "name": "Tickets",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1164",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_02_PairedUp",
+      "name": "PairedUp",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1165",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_03_HILO",
+      "name": "HILO",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1166",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_04_MinimizingHaybales",
+      "name": "Minimizing Haybales",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1188",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_05_CountingHaybales",
+      "name": "Counting Haybales",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1189",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_06_Test",
+      "name": "Test",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1190",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_07_Paint",
+      "name": "Paint",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1212",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_08_Sleeping",
+      "name": "Sleeping",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1213",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_09_PhoneNumbers",
+      "name": "Phone Numbers",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1214",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_10_262144",
+      "name": "262144",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1236",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_11_HoofandBrain",
+      "name": "Hoof and Brain",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1237",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_22_12_UpDown",
+      "name": "Up Down",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1238",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}
