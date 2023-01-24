@@ -1,0 +1,53 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "CEOI_22_01_Abracadabra",
+      "name": "Abracadabra",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI22_abracadabra",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_22_02_Homework",
+      "name": "Homework",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI22_homework",
+      "solves": 30,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_22_03_Prize",
+      "name": "Prize",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI22_prize",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_22_04_Drawing",
+      "name": "Drawing",
+      "editorial": "https://oj.uz/problem/view/CEOI22_drawing",
+      "link": "",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_22_05_Measures",
+      "name": "Measures",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI22_measures",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_22_06_Parking",
+      "name": "Parking",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI22_parking",
+      "solves": 8,
+      "tags": []
+    }
+  ]
+}
