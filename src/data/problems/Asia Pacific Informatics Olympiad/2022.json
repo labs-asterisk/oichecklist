@@ -6,7 +6,7 @@
       "name": "Mars",
       "editorial": "",
       "link": "https://oj.uz/problem/view/APIO22_mars",
-      "solves": 0,
+      "solves": 13,
       "tags": []
     },
     {
@@ -14,7 +14,7 @@
       "name": "Game",
       "editorial": "",
       "link": "https://oj.uz/problem/view/APIO22_game",
-      "solves": 50,
+      "solves": 3,
       "tags": []
     },
     {
@@ -22,7 +22,7 @@
       "name": "Permutation",
       "editorial": "",
       "link": "https://oj.uz/problem/view/APIO22_perm",
-      "solves": 35,
+      "solves": 71,
       "tags": []
     }
   ]
