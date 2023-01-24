@@ -1,0 +1,29 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "APIO_22_01_mars",
+      "name": "Mars",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO22_mars",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "APIO_22_02_game",
+      "name": "Game",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO22_game",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "APIO_22_03_permutation",
+      "name": "Permutation",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO22_perm",
+      "solves": 71,
+      "tags": []
+    }
+  ]
+}

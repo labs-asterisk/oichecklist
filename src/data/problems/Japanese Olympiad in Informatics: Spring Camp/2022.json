@@ -1,0 +1,101 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "JOISC_22_01_Jail",
+      "name": "Jail",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_jail",
+      "solves": 70,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_02_Kyoto",
+      "name": "Kyoto",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_kyoto",
+      "solves": 23,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_03_Misspelling",
+      "name": "Misspelling",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_misspelling",
+      "solves": 91,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_04_Copypaste3",
+      "name": "Copypaste 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_copypaste3",
+      "solves": 133,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_05_Flights",
+      "name": "Flights",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_flights",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_06_Team",
+      "name": "Team",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_team",
+      "solves": 191,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_07_Device2",
+      "name": "Device 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_device2",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_08_Sprinkler",
+      "name": "Sprinkler",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_sprinkler",
+      "solves": 189,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_09_Sugar",
+      "name": "Sugar",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_sugar",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_10_Dango3",
+      "name": "Dango 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_dango3",
+      "solves": 198,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_11_Fish2",
+      "name": "Fish 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_fish2",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_22_12_Reconstruction",
+      "name": "Reconstruction",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_reconstruction",
+      "solves": 42,
+      "tags": []
+    }
+  ]
+}
