@@ -1,0 +1,53 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "Baltic_22_01_art",
+      "name": "Art",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_art",
+      "solves": 40,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_22_02_events",
+      "name": "EventHopping",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_events",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_22_03_vault",
+      "name": "Vault",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_vault",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_22_04_communication",
+      "name": "Communication",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_communication",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_22_05_island",
+      "name": "Island",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_island",
+      "solves": 25,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_22_06_passes",
+      "name": "Passes",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI22_passes",
+      "solves": 11,
+      "tags": []
+    }
+  ]
+}
