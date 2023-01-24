@@ -1,0 +1,72 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "IOI_17_01_nowruz",
+      "name": "Nowruz",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI17_nowruz",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_17_02_wiring",
+      "name": "Wiring",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-wiring.txt",
+      "link": "https://oj.uz/problem/view/IOI17_wiring",
+      "solves": 45,
+      "tags": [
+        "Dynamic Programming",
+        "Ad-hoc",
+        "Observations"
+      ]
+    },
+    {
+      "slug": "IOI_17_03_train",
+      "name": "Train",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-toytrain.txt",
+      "link": "https://oj.uz/problem/view/IOI17_train",
+      "solves": 4,
+      "tags": [
+        "Game Theory",
+        "Topological Sort"
+      ]
+    },
+    {
+      "slug": "IOI_17_04_prize",
+      "name": "Prize",
+      "editorial": "https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/IOI/Prize2017.cpp",
+      "link": "https://oj.uz/problem/view/IOI17_prize",
+      "solves": 27,
+      "tags": [
+        "Ad-hoc",
+        "Divide and Conquer",
+        "Interactive"
+      ]
+    },
+    {
+      "slug": "IOI_17_05_simurgh",
+      "name": "Simurgh",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-17-simurgh.txt",
+      "link": "https://oj.uz/problem/view/IOI17_simurgh",
+      "solves": 4,
+      "tags": [
+        "Graph",
+        "Strongly Connected Components",
+        "Binary Search",
+        "Interactive"
+      ]
+    },
+    {
+      "slug": "IOI_17_06_books",
+      "name": "Books",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2017",
+      "link": "https://oj.uz/problem/view/IOI17_books",
+      "solves": 15,
+      "tags": [
+        "Graph",
+        "Constructive"
+      ]
+    }
+  ]
+}

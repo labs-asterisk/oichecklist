@@ -1,0 +1,53 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "IZHO_20_01_Lines",
+      "name": "Lines",
+      "editorial": "https://codeforces.com/blog/entry/73433",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265564/problem/A",
+      "solves": 68,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_20_02_Annoying",
+      "name": "Annoying",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265564/problem/B",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_20_03_Nasty",
+      "name": "Nasty",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265564/problem/C",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_20_04_DNA",
+      "name": "DNA",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265827/problem/A",
+      "solves": 34,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_20_05_KazHackStan",
+      "name": "KazHackStan",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265827/problem/B",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_20_06_Queries",
+      "name": "Queries",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/265827/problem/C",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

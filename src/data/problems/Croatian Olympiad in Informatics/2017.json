@@ -1,0 +1,37 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "COI_17_01_ili",
+      "name": "Ili",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI+17-ili.txt",
+      "link": "https://oj.uz/problem/view/COI17_ili",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_17_02_raspad",
+      "name": "Raspad",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI17_raspad",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_17_03_trapezi",
+      "name": "Trapezi",
+      "editorial": "https://codeforces.com/blog/entry/51198",
+      "link": "https://oj.uz/problem/view/COI17_trapezi",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_17_04_zagrade",
+      "name": "Zagrade",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-17-zagrade.txt",
+      "link": "https://oj.uz/problem/view/COI17_zagrade",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

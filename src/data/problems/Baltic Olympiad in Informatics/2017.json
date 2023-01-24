@@ -1,0 +1,53 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "Baltic_17_01_PoliticalDevelopment",
+      "name": "Political Development",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-17-PoliticalDevelopment.txt",
+      "link": "https://cses.fi/202/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_17_02_Railway",
+      "name": "Railway",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-17-Railway.txt",
+      "link": "https://cses.fi/202/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_17_03_Toll",
+      "name": "Toll",
+      "editorial": "https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic17-toll.cpp",
+      "link": "https://cses.fi/202/list/",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_17_04_Cat",
+      "name": "Cat",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-17-Cat.txt",
+      "link": "https://cses.fi/203/list/",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_17_05_Friends",
+      "name": "Friends",
+      "editorial": "https://codeforces.com/blog/entry/51740?%23comment-356943",
+      "link": "https://cses.fi/203/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_17_06_PlusMinus",
+      "name": "Plusminus",
+      "editorial": "https://codeforces.com/blog/entry/51740?%23comment-356940",
+      "link": "https://cses.fi/203/list/",
+      "solves": 8,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "year": 2004,
+  "problems": [
+    {
+      "slug": "POI_04_01_Game",
+      "name": "Game",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/JIRgi7mvHIkqfldzgqILaMqr/site/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_02_Poohsticks",
+      "name": "Poohsticks",
+      "editorial": "",
+      "link": "",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_03_EastWest",
+      "name": "East West",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/KiL8P3oSgImWGI5GT4QMCQpO/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_04_Islands",
+      "name": "Islands",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/o09s2TblWuB1BP9isQT7VIkG/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_05_C-algae",
+      "name": "C-algae",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/cKsx92et8fGp6MOzI2HTNmQY/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_06_Maximal",
+      "name": "Maximal",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/lGqKS9urITMjTXhpdaHqyoEL/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_07_PIN",
+      "name": "PIN",
+      "editorial": "",
+      "link": "",
+      "solves": 285,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_08_Strings",
+      "name": "Strings",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/JyanwtKuk_ER10eZ7Yv0q72d/site/",
+      "solves": 31,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_09_Spies",
+      "name": "Spies",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/r6tMTfvQFPAEfQioYMCQndQe/site/",
+      "solves": 189,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_10_Competition",
+      "name": "Competition",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Jnq0pGf9q3nVm-b1h6Bg23G9/site/",
+      "solves": 74,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_11_Gates",
+      "name": "Gates",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/L_1w_HVIsvm4fBksvCo7fYJT/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_12_Cave",
+      "name": "Cave",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/5Z9PRRPP-R90WhmbSY_qHd-1/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_13_Passage",
+      "name": "Passage",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/uE3dNVOWuXj4SSOrCrNoFSgF/site/",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "POI_04_14_Tournament",
+      "name": "Tournament",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/dq_rM2gOy4-8jYIsE7xgo-9l/site/",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "CEOI_12_01_Jobs",
+      "name": "Jobs",
+      "editorial": "",
+      "link": "https://cses.fi/181/list/",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_12_02_Circuit",
+      "name": "Circuit",
+      "editorial": "",
+      "link": "https://cses.fi/181/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_12_03_Race",
+      "name": "Race",
+      "editorial": "",
+      "link": "https://cses.fi/181/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_12_04_Highway",
+      "name": "Highway",
+      "editorial": "",
+      "link": "https://cses.fi/182/list/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_12_05_Wagon",
+      "name": "Wagon",
+      "editorial": "",
+      "link": "https://cses.fi/182/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_12_06_Network",
+      "name": "Network",
+      "editorial": "",
+      "link": "https://cses.fi/182/list/",
+      "solves": 13,
+      "tags": []
+    }
+  ]
+}

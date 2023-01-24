@@ -1,0 +1,29 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "APIO_09_01_Oil",
+      "name": "Oil",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-09-Oil.txt",
+      "link": "https://dmoj.ca/problem/apio09p1",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "APIO_09_02_Convention",
+      "name": "Convention",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-09-Convention.txt",
+      "link": "https://dmoj.ca/problem/apio09p2",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "APIO_09_03_ATM",
+      "name": "Atm",
+      "editorial": "https://github.com/goar5670/CompetitiveProgramming/blob/master/APIO%252009-ATM.cpp",
+      "link": "https://dmoj.ca/problem/apio09p3",
+      "solves": 20,
+      "tags": []
+    }
+  ]
+}

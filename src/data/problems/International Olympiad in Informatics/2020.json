@@ -1,0 +1,53 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "IOI_20_01_plants",
+      "name": "Plants",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_plants",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_20_02_supertrees",
+      "name": "Supertrees",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_supertrees",
+      "solves": 152,
+      "tags": []
+    },
+    {
+      "slug": "IOI_20_03_tickets",
+      "name": "Tickets",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_tickets",
+      "solves": 39,
+      "tags": []
+    },
+    {
+      "slug": "IOI_20_04_biscuits",
+      "name": "BIscuits",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_biscuits",
+      "solves": 36,
+      "tags": []
+    },
+    {
+      "slug": "IOI_20_05_mushrooms",
+      "name": "Mushrooms",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_mushrooms",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_20_06_stations",
+      "name": "Stations",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI20_stations",
+      "solves": 92,
+      "tags": []
+    }
+  ]
+}

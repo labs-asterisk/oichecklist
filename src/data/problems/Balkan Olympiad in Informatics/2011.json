@@ -1,0 +1,53 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "Balkan_11_01_2circles",
+      "name": "2Circles",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-11-2circles.txt",
+      "link": "https://oj.uz/problem/view/balkan11_2circles",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_11_02_decrypt",
+      "name": "Decrypt",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-11-decrypt.txt",
+      "link": "https://dunjudge.me/analysis/problems/573/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_11_03_Medians",
+      "name": "Medians",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-11-Medians.txt",
+      "link": "https://oj.uz/problems/source/113",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_11_04_cmp",
+      "name": "Cmp",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2011/cmp-sol.pdf",
+      "link": "https://oj.uz/problem/view/balkan11_cmp",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_11_05_timeismoney",
+      "name": "Time is money",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BkOI/11-Time_Is_Money.cpp",
+      "link": "https://oj.uz/problem/view/balkan11_timeismoney",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_11_06_Trapezoid",
+      "name": "Trapezoid",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-11-Trapezoid.txt",
+      "link": "https://oj.uz/problem/view/balkan11_trapezoid",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

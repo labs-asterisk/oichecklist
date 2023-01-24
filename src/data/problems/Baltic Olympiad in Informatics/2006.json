@@ -1,0 +1,53 @@
+{
+  "year": 2006,
+  "problems": [
+    {
+      "slug": "Baltic_06_01_Bitwise",
+      "name": "Bitwise",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-06-Bitwise.txt",
+      "link": "https://cses.fi/109/list/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_06_02_Coin",
+      "name": "Coin",
+      "editorial": "",
+      "link": "https://cses.fi/109/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_06_03_Countries",
+      "name": "Countries",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-06-Countries.txt",
+      "link": "https://cses.fi/109/list/",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_06_04_City",
+      "name": "City",
+      "editorial": "",
+      "link": "https://cses.fi/110/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_06_05_RLE",
+      "name": "Rle",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-06-RLE.txt",
+      "link": "https://cses.fi/110/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_06_06_Jump",
+      "name": "Jump",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2006_solutions",
+      "link": "https://cses.fi/110/list/",
+      "solves": 26,
+      "tags": []
+    }
+  ]
+}

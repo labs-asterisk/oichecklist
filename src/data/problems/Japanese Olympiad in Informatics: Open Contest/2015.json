@@ -1,0 +1,29 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "JOIOC_15_01_Tiles",
+      "name": "Tiles",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI15_colored_tiles",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_15_02_Election",
+      "name": "Election",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI15_election_campaign",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_15_03_Sterilizing",
+      "name": "Sterilizing",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI15_sterilizing",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

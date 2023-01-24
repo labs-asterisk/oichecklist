@@ -1,0 +1,53 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "CEOI_17_01_OneWay",
+      "name": "One Way",
+      "editorial": "",
+      "link": "https://cses.fi/164/list/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_17_02_Bet",
+      "name": "Bet",
+      "editorial": "",
+      "link": "https://cses.fi/164/list/",
+      "solves": 49,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_17_03_Mousetrap",
+      "name": "Mousetrap",
+      "editorial": "",
+      "link": "https://cses.fi/164/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_17_04_Bridges",
+      "name": "Bridges",
+      "editorial": "",
+      "link": "https://cses.fi/165/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_17_05_Palindromic",
+      "name": "Palindromic",
+      "editorial": "",
+      "link": "https://cses.fi/165/list/",
+      "solves": 28,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_17_06_Chase",
+      "name": "Chase",
+      "editorial": "",
+      "link": "https://cses.fi/165/list/",
+      "solves": 13,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "IZHO_15_01_Permutation",
+      "name": "Permutation",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day1-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_15_02_Matrix",
+      "name": "Matrix",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day1-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_15_03_Heroes",
+      "name": "Heroes",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day1-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_15_04_Crystals",
+      "name": "Crystals",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day2-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_15_05_GCD",
+      "name": "GCD",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day2-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_15_06_Magican",
+      "name": "Magican",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/day2-en-1.pdf",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

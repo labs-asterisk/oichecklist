@@ -1,0 +1,53 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "Balkan_17_01_sheets",
+      "name": "Sheets",
+      "editorial": "",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-1/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_17_02_strings",
+      "name": "Strings",
+      "editorial": "",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-1/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_17_03_tale",
+      "name": "Tale",
+      "editorial": "",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-1/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_17_04_Cats",
+      "name": "Cats",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-17-Cats.txt",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-2/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_17_05_Monsters",
+      "name": "Monsters",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-17-Monsters.txt",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-2/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_17_06_CityAttractions",
+      "name": "Cityattractions",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-17-CityAttractions.txt",
+      "link": "https://csacademy.com/contest/balkan-oi-2017-day-2/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

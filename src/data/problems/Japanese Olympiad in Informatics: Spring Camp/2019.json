@@ -1,0 +1,101 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "JOISC_19_01_Examination",
+      "name": "Examination",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_examination",
+      "solves": 40,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_02_Cake3",
+      "name": "Cake 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_cake3",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_03_Mergers",
+      "name": "Mergers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_mergers",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_04_Minerals",
+      "name": "Minerals",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_minerals",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_05_Naan",
+      "name": "Naan",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_naan",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_06_Meetings",
+      "name": "Meetings",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_meetings",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_07_Antennas",
+      "name": "Antennas",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_antennas",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_08_Dishes",
+      "name": "Dishes",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_dishes",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_09_Transportations",
+      "name": "Transportations",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_transportations",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_10_Cities",
+      "name": "Cities",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_designated_cities",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_11_Lamps",
+      "name": "Lamps",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_lamps",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_19_12_Timeleap",
+      "name": "Timeleap",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_timeleap",
+      "solves": 5,
+      "tags": []
+    }
+  ]
+}

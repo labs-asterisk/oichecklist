@@ -1,0 +1,53 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "CEOI_15_01_Potemkin",
+      "name": "Potemkin",
+      "editorial": "",
+      "link": "https://cses.fi/172/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_15_02_Calvinball",
+      "name": "Calvinball",
+      "editorial": "",
+      "link": "https://cses.fi/172/list/",
+      "solves": 17,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_15_03_Pipes",
+      "name": "Pipes",
+      "editorial": "",
+      "link": "https://cses.fi/172/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_15_04_IceHockey",
+      "name": "Ice Hockey",
+      "editorial": "",
+      "link": "https://cses.fi/173/list/",
+      "solves": 22,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_15_05_Nuclearia",
+      "name": "Nuclearia",
+      "editorial": "",
+      "link": "https://cses.fi/173/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_15_06_CalAgain",
+      "name": "Cal. Again",
+      "editorial": "",
+      "link": "https://cses.fi/173/list/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "COI_21_01_autobahn",
+      "name": "Autobahn",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI21_autobahn",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_21_02_cigle",
+      "name": "Cigle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI21_cigle",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_21_03_izvanzemaljci",
+      "name": "Izvanzemaljci",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI21_izvanzemaljci",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_21_04_malnarisc",
+      "name": "MalnaRISC",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI21_malnarisc",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

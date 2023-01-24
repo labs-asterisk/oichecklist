@@ -1,0 +1,117 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "POI_09_01_Fire",
+      "name": "Fire",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/kZ-a2gIkpjJEOzq6pJ5jUW7f/site/",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_02_Arrays",
+      "name": "Arrays",
+      "editorial": "",
+      "link": "",
+      "solves": 31,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_03_Words",
+      "name": "Words",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/CP4mQc-h-Vkg--I1g49xovQj/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_04_Island",
+      "name": "Island",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/X_XFcxCm1xIAk2alKtQLN79O/site/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_05_TheCode",
+      "name": "The Code",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/pBkLSmvYN2S1-4G9s8UqOB7s/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_06_TheSearch",
+      "name": "The Search",
+      "editorial": "",
+      "link": "",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_07_Pebbles",
+      "name": "Pebbles",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/E4CCHJSbYzxeGWXMnBZHkPnm/site/",
+      "solves": 359,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_08_Speedup",
+      "name": "Speedup",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/-MwFkVBU5fdldohfNl-xSjHa/site/",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_09_Elephants",
+      "name": "Elephants",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Z8dyWFvoZuAJMjzLhqu4IH2o/site/",
+      "solves": 380,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_10_Brigade",
+      "name": "Brigade",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/NuGiXg5BO8iuLFU7vmhCmNWK/site/",
+      "solves": 35,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_11_Inspector",
+      "name": "Inspector",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/uABxo7lIMMVDn0-HB1wCE02w/site/",
+      "solves": 37,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_12_TheWalk",
+      "name": "The Walk",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/F_PC7j8VzjiPwlNqg9Jr_tFg/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_13_Architect",
+      "name": "Architect",
+      "editorial": "",
+      "link": "",
+      "solves": 50,
+      "tags": []
+    },
+    {
+      "slug": "POI_09_14_IceSkates",
+      "name": "Ice Skates",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/EwpbJWZPly_zZ5i4ytg_8fDE/site/",
+      "solves": 7,
+      "tags": []
+    }
+  ]
+}

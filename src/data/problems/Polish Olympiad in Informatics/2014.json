@@ -1,0 +1,125 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "POI_14_01_Salad",
+      "name": "Salad",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/d30xri2XGeuQ45CDrB7DWijK/site/",
+      "solves": 183,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_02_Around",
+      "name": "Around",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/ghEjb6qGVGsGk_KgYqdXZNna/site/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_03_Ants",
+      "name": "Ants",
+      "editorial": "",
+      "link": "",
+      "solves": 44,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_04_Tourist",
+      "name": "Tourist",
+      "editorial": "",
+      "link": "",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_05_Lamps",
+      "name": "Lamps",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/2yK6zUTXvAjhxSDfbjE4Zx7k/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_06_Panels",
+      "name": "Panels",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/rfG3gSJfUHoOk3t6379xduHr/site/",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_07_Freight",
+      "name": "Freight",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/i5L29vV7ud8D_VU-PXyaA_2L/site/",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_08_Hotels",
+      "name": "Hotels",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/gDw3iFkeVm7ZA3j_16-XR7jI/site/",
+      "solves": 196,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_09_Bricks",
+      "name": "Bricks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/hepq5oWcHLsMo3oOy-dp3OZC/site/",
+      "solves": 167,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_10_Couriers",
+      "name": "Couriers",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Cs38m8lWFnOfDskXf43HR3lN/site/",
+      "solves": 122,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_11_Snake",
+      "name": "Snake",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/3zwfwt3ZGc2f6NndNgzS3Dfu/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_12_Criminals",
+      "name": "Criminals",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/APWi6y6XTt5ujve8ynI_FNJ1/site/",
+      "solves": 57,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_13_Supercom",
+      "name": "Supercom",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/e9ycK_efBDBt4aPs-QeqYpwR/site/",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_14_LittleBird",
+      "name": "Little Bird",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xfpVU8vFP2RzZ0hrqWq9kTZM/site/",
+      "solves": 51,
+      "tags": []
+    },
+    {
+      "slug": "POI_14_15_Rally",
+      "name": "Rally",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/BnzEADCfeJFjjev1Y9iHQANg/site/",
+      "solves": 14,
+      "tags": []
+    }
+  ]
+}

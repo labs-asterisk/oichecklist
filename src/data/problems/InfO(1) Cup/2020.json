@@ -1,0 +1,37 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "InfOCup_20_01_TableTennis",
+      "name": "Table Tennis",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup20_tabletennis",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_20_02_Trampoline",
+      "name": "Trampoline",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup20_trampoline",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_20_03_Football",
+      "name": "Football",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup20_football",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_20_04_Cheerleaders",
+      "name": "Cheerleaders",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup20_cheerleaders",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "JOISC_16_01_Matryoshka",
+      "name": "Matryoshka",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_a",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_02_Skating",
+      "name": "Skating",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_j",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_03_Snowy",
+      "name": "Snowy",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_k",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_04_Reporter2",
+      "name": "Reporter 2",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_l",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_05_Memory2",
+      "name": "Memory 2",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_b",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_06_Solitaire",
+      "name": "Solitaire",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_c",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_07_Employment",
+      "name": "Employment",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_d",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_08_Sandwich",
+      "name": "Sandwich",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_e",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_09_Toilets",
+      "name": "Toilets",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_f",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_10_Dungeon2",
+      "name": "Dungeon 2",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_g",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_11_Sushi",
+      "name": "Sushi",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_h",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_16_12_Telegraph",
+      "name": "Telegraph",
+      "editorial": "",
+      "link": "https://joisc2016.contest.atcoder.jp/tasks/joisc2016_i",
+      "solves": 4,
+      "tags": []
+    }
+  ]
+}

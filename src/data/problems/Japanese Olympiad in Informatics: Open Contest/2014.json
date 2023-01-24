@@ -1,0 +1,53 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "JOIOC_14_01_Factories",
+      "name": "Factories",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_factories",
+      "solves": 28,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_14_02_Fortune2",
+      "name": "Fortune 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_fortune_telling2",
+      "solves": 59,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_14_03_Pirate",
+      "name": "Pirate",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_space_pirate",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_14_04_Migration",
+      "name": "Migration",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_migration",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_14_05_Pinball",
+      "name": "Pinball",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_pinball",
+      "solves": 66,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_14_06_Secret",
+      "name": "Secret",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI14_secret",
+      "solves": 68,
+      "tags": []
+    }
+  ]
+}

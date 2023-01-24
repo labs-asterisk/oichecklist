@@ -1,0 +1,53 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "Baltic_12_01_Brackets",
+      "name": "Brackets",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-12-Brackets.txt",
+      "link": "https://cses.fi/98/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_12_02_mobile",
+      "name": "Mobile",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-12-mobile.txt",
+      "link": "https://cses.fi/98/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_12_03_Peaks",
+      "name": "Peaks",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-12-Peaks.txt",
+      "link": "https://cses.fi/98/list/",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_12_04_Fire",
+      "name": "Fire",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-12-Fire.txt",
+      "link": "https://cses.fi/99/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_12_05_Melody",
+      "name": "Melody",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-12-Melody.txt",
+      "link": "https://cses.fi/99/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_12_06_Tiny",
+      "name": "Tiny",
+      "editorial": "",
+      "link": "https://cses.fi/99/list/",
+      "solves": 1,
+      "tags": []
+    }
+  ]
+}

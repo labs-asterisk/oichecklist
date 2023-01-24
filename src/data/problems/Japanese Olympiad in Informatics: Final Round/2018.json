@@ -1,0 +1,45 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "JOI_18_01_Stove",
+      "name": "Stove",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_stove",
+      "solves": 41,
+      "tags": []
+    },
+    {
+      "slug": "JOI_18_02_Art",
+      "name": "Art",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_art",
+      "solves": 31,
+      "tags": []
+    },
+    {
+      "slug": "JOI_18_03_DangoMaker",
+      "name": "Dango Maker",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_dango_maker",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "JOI_18_04_CommuterPass",
+      "name": "Commuter Pass",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_commuter_pass",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "JOI_18_05_SnakeEscaping",
+      "name": "Snake Escaping",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_snake_escaping",
+      "solves": 7,
+      "tags": []
+    }
+  ]
+}

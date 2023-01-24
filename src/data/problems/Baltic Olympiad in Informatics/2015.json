@@ -1,0 +1,53 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "Baltic_15_01_bow",
+      "name": "Bowling",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-bow.txt",
+      "link": "https://oj.uz/problem/view/BOI15_bow",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_15_02_edi",
+      "name": "Editor",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-edi.txt",
+      "link": "https://oj.uz/problem/view/BOI15_edi",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_15_03_net",
+      "name": "Network",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-net.txt",
+      "link": "https://oj.uz/problem/view/BOI15_net",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_15_04_fil",
+      "name": "File Paths",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-fil.txt",
+      "link": "https://oj.uz/problem/view/BOI15_fil",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_15_05_hac",
+      "name": "Hacker",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-hac.txt",
+      "link": "https://oj.uz/problem/view/BOI15_hac",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_15_06_tug",
+      "name": "Tug of War",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-15-tug.txt",
+      "link": "https://oj.uz/problem/view/BOI15_tug",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

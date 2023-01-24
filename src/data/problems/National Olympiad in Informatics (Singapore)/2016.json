@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "NOI_16_01_lunchbox",
+      "name": "Lunchbox",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/954/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_16_02_fabric",
+      "name": "Fabric",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/955/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_16_03_rock",
+      "name": "Rock",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/956/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_16_04_pandaski",
+      "name": "Pandaski",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/957/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_16_05_unlucky",
+      "name": "Unlucky",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/958/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

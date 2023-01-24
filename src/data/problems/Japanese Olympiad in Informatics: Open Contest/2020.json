@@ -1,0 +1,29 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "JOIOC_20_01_Furniture",
+      "name": "Furniture",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_furniture",
+      "solves": 76,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_20_02_Monochrome",
+      "name": "Monochrome",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_monochrome",
+      "solves": 47,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_20_03_Power",
+      "name": "Power",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_power",
+      "solves": 110,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "USACO_21_01_Cows",
+      "name": "Cows",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1068",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_02_UnitedCows",
+      "name": "United Cows",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1140",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_03_Schemes",
+      "name": "Schemes",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1141",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_04_Subsets",
+      "name": "Subsets",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1142",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_05_Spaceship",
+      "name": "Spaceship",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1069",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_06_Cowmistry",
+      "name": "Cowmistry",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1070",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_07_Distances",
+      "name": "Distances",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1092",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_08_Paths",
+      "name": "Paths",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1093",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_09_Letters",
+      "name": "Letters",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=1094",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_10_Time",
+      "name": "Time",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1116",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_11_Edges",
+      "name": "Edges",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1117",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_21_12_Graphs",
+      "name": "Graphs",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1118",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

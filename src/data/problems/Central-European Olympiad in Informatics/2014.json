@@ -1,0 +1,53 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "CEOI_14_01_Carnival",
+      "name": "Carnival",
+      "editorial": "",
+      "link": "https://cses.fi/183/list/",
+      "solves": 23,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_14_02_Fangorn",
+      "name": "Fangorn",
+      "editorial": "",
+      "link": "https://cses.fi/183/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_14_03_Question",
+      "name": "Question",
+      "editorial": "",
+      "link": "https://cses.fi/183/list/",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_14_04_7",
+      "name": "`007",
+      "editorial": "",
+      "link": "https://cses.fi/184/list/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_14_05_Cake",
+      "name": "Cake",
+      "editorial": "",
+      "link": "https://cses.fi/184/list/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_14_06_Wall",
+      "name": "Wall",
+      "editorial": "",
+      "link": "https://cses.fi/184/list/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

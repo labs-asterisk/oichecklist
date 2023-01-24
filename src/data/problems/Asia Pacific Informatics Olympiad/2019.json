@@ -1,0 +1,38 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "APIO_19_01_strange",
+      "name": "Strange Device",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-19-strange_device.txt",
+      "link": "https://oj.uz/problem/view/APIO19_strange_device",
+      "solves": 111,
+      "tags": [
+        "Disjoint Set Union",
+        "SQRT Decomposition"
+      ]
+    },
+    {
+      "slug": "APIO_19_02_bridges",
+      "name": "Bridges",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-19-bridges.txt",
+      "link": "https://oj.uz/problem/view/APIO19_bridges",
+      "solves": 15,
+      "tags": [
+        "Math",
+        "Sorting"
+      ]
+    },
+    {
+      "slug": "APIO_19_03_street",
+      "name": "Street Lamps",
+      "editorial": "https://github.com/Evilandrew228/CompetitiveProgramming/blob/master/APIO%252019-street_lamps",
+      "link": "https://oj.uz/problem/view/APIO19_street_lamps",
+      "solves": 21,
+      "tags": [
+        "Segment Tree",
+        "Implementation"
+      ]
+    }
+  ]
+}

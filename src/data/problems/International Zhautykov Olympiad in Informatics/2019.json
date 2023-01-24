@@ -1,0 +1,53 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "IZHO_19_01_Stones",
+      "name": "Stones",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_stones",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_19_02_SortBooks",
+      "name": "Sort Books",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_sortbooks",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_19_03_XORSum",
+      "name": "XOR Sum",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_xorsum",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_19_04_Xoractive",
+      "name": "Xoractive",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_xoractive",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_19_05_Segments",
+      "name": "Segments",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_segments",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_19_06_Lyuboyn",
+      "name": "Lyuboyn",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO19_lyuboyn",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

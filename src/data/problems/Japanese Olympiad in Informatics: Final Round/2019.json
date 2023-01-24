@@ -1,0 +1,45 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "JOI_19_01_Bitaro",
+      "name": "Bitaro",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_ho_t1",
+      "solves": 86,
+      "tags": []
+    },
+    {
+      "slug": "JOI_19_02_Exhibition",
+      "name": "Exhibition",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_ho_t2",
+      "solves": 41,
+      "tags": []
+    },
+    {
+      "slug": "JOI_19_03_GrowingVegetable",
+      "name": "Growing Vegetable",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_ho_t3",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "JOI_19_04_CoinCollecting",
+      "name": "Coin Collecting",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_ho_t4",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOI_19_05_UniqueCities",
+      "name": "Unique Cities",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_ho_t5",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

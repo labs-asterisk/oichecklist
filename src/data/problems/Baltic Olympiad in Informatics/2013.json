@@ -1,0 +1,53 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "Baltic_13_01_ballmachine",
+      "name": "Ballmachine",
+      "editorial": "https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Baltic/13-ballmachine.cpp",
+      "link": "https://oj.uz/problem/view/BOI13_ballmachine",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_13_02_numbers",
+      "name": "Numbers",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-13-numbers.txt",
+      "link": "https://oj.uz/problem/view/BOI13_numbers",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_13_03_pipes",
+      "name": "Pipes",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-13-pipes.txt",
+      "link": "https://oj.uz/problem/view/BOI13_pipes",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_13_04_brunhilda",
+      "name": "Brunhilda",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-13-brunhilda.txt",
+      "link": "https://oj.uz/problem/view/BOI13_brunhilda",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_13_05_tracks",
+      "name": "Tracks",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-13-tracks.txt",
+      "link": "https://oj.uz/problem/view/BOI13_tracks",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_13_06_vim",
+      "name": "Vim",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-13-vim.txt",
+      "link": "https://oj.uz/problem/view/BOI13_vim",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

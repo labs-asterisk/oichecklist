@@ -1,0 +1,109 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "JOISC_14_01_Bus",
+      "name": "Bus",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_a",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_02_Voltage",
+      "name": "Voltage",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_j",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_03_Constellation2",
+      "name": "Constellation 2",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_k",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_04_Kanji",
+      "name": "Kanji",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_l",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_05_Straps",
+      "name": "Straps",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_m",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_06_Vegetable",
+      "name": "Vegetable",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_b",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_07_Historical",
+      "name": "Historical",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_c",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_08_Ramen",
+      "name": "Ramen",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_d",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_09_Bottle",
+      "name": "Bottle",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_e",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_10_Friends",
+      "name": "Friends",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_f",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_11_Stamps",
+      "name": "Stamps",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_g",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_12_JOIOJI",
+      "name": "JOIOJI",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_h",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_14_13_Scarecrow",
+      "name": "Scarecrow",
+      "editorial": "",
+      "link": "https://joisc2014.contest.atcoder.jp/tasks/joisc2014_i",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

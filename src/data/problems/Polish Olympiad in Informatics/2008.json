@@ -1,0 +1,117 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "POI_08_01_Toll",
+      "name": "Toll",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xDISetKx9cPPrOT_t2ZqgEyr/site/",
+      "solves": 229,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_02_Kingdom",
+      "name": "Kingdom",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/0EGjXu64CRLc5S2-EQOZ0eR1/site/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_03_Triangles",
+      "name": "Triangles",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/ci05UTAWBFeYYWnidnK1zzQl/site/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_04_Plot",
+      "name": "Plot",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/hwbyoUkNFPXQLOPcw3x5huTR/site/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_05_Station",
+      "name": "Station",
+      "editorial": "",
+      "link": "",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_06_Permutation",
+      "name": "Permutation",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/etwe8b5zlM4uVn4dpxr32ua8/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_07_Blocks",
+      "name": "Blocks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/KC7c6nYfAXCbCGszqhIeOGxP/site/",
+      "solves": 179,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_08_Postering",
+      "name": "Postering",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/NZhJzNZct1iBas2bPCvlvls5/site/",
+      "solves": 359,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_09_Robinson",
+      "name": "Robinson",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/oSpFEpvAxKNk0Il-nOe5L9El/site/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_10_Mirror",
+      "name": "Mirror",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/XcJ1RDGPzzspbYBm4xHCVpWM/site/",
+      "solves": 128,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_11_BBB",
+      "name": "BBB",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Fej8rGpqWzXEi_qjK2Cmfe4Y/site/",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_12_Trains",
+      "name": "Trains",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/zQvxlGgoPvqRrAK0TuLeWIRD/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_13_Mafia",
+      "name": "Mafia",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/w3YAoAT3ej27YeiaNWjK57_G/site/",
+      "solves": 51,
+      "tags": []
+    },
+    {
+      "slug": "POI_08_14_Escape",
+      "name": "Escape",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/XNaC6RSk8o9MIJkuaL6O4t0u/site/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

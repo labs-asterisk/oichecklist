@@ -1,0 +1,125 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "POI_19_01_Club2",
+      "name": "Club 2",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/iNO3dMisUj2wQ_ywbKfWLlpi/site/",
+      "solves": 242,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_02_Congress",
+      "name": "Congress",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/bS_effBgQtuS7NXJA_dn7Ogm/site/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_03_Renovation",
+      "name": "Renovation",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xNjwUvwdHQoQTFBrmyG8vD1O/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_04_Racing",
+      "name": "Racing",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/S8phA644ooC9arh6FhXzvbiH/site/",
+      "solves": 36,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_05_Travels",
+      "name": "Travels",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/QHh99tBu4p9FMsFohv4da7S7/site/",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_06_Divisors",
+      "name": "Divisors",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/k4iPPyQbhkKRE3kLi6zjUbWz/site/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_07_Ornithologist",
+      "name": "Ornithologist",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/3QSA66sDeX0fi-Ry_gX1WXhy/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_08_Nonchalance",
+      "name": "Nonchalance",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/PIWHXi6DUtOUJJ0Z2KFUCuYI/site/",
+      "solves": 84,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_09_Subsequences",
+      "name": "Subsequences",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/6YZi3T3LFlZYgr3oZ5iUOrRc/site/",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_10_Necklaces",
+      "name": "Necklaces",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/OtqvpeGnW8TDwTXsatPekUcF/site/",
+      "solves": 207,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_11_Robot",
+      "name": "Robot",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/p4hlBS7BwoH_rymSj2wtb5_J/site/",
+      "solves": 181,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_12_Dinners",
+      "name": "Dinners",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/CACYTyPO4YJxyZzNumr0zr5e/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_13_Stars",
+      "name": "Stars",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/vE94xK5yr-lSfcAMD3IKFd7F/site/",
+      "solves": 68,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_14_Zones",
+      "name": "Zones",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/nldsb4EW1YuZykBlf4lcZL1Y/site/",
+      "solves": 86,
+      "tags": []
+    },
+    {
+      "slug": "POI_19_15_CyclicShifts",
+      "name": "Cyclic Shifts",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/e86SVYtB-4G3yVTFi2unCZWa/site/",
+      "solves": 27,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "IZHO_13_01_Gorlum",
+      "name": "Gorlum",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_expgorl",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_02_Cube",
+      "name": "Cube",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_riddicks",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_03_Schools",
+      "name": "Schools",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_school",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_04_SpacialGraph",
+      "name": "Spacial Graph",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_specialg",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_05_Crazy",
+      "name": "Crazy",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_crazy",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_06_Burrow",
+      "name": "Burrow",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_burrow",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_07_Words",
+      "name": "Words",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_rowords",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_13_08_Trading",
+      "name": "Trading",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO13_trading",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

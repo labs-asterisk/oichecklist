@@ -1,0 +1,29 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "NOI_13_01_gw",
+      "name": "Global Warming",
+      "editorial": "https://github.com/sjhuang26/competitive-programming/blob/master/noi/NOI%252013-gw.cpp",
+      "link": "https://oj.uz/problem/view/NOI13_gw",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_13_02_diesel",
+      "name": "Diesel",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://dunjudge.me/analysis/problems/281/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_13_03_ferries",
+      "name": "Ferries",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI13_ferries",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

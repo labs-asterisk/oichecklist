@@ -1,0 +1,29 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "APIO_12_01_Dispatching",
+      "name": "Dispatching",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-12-Dispatching.txt",
+      "link": "https://dmoj.ca/problem/apio12p1",
+      "solves": 22,
+      "tags": []
+    },
+    {
+      "slug": "APIO_12_02_Guard",
+      "name": "Guard",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/apio12p2",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "APIO_12_03_Kunai",
+      "name": "Kunai",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/12-Kunai.cpp",
+      "link": "https://dmoj.ca/problem/apio12p3",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

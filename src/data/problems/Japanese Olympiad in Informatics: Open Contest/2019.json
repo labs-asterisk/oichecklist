@@ -1,0 +1,29 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "JOIOC_19_01_Jumps",
+      "name": "Jumps",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_jumps",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_19_02_Remittance",
+      "name": "Remittance",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_remittance",
+      "solves": 86,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_19_03_Virus",
+      "name": "Virus",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI19_virus",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

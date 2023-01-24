@@ -1,0 +1,101 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "USACO_18_01_StandingOut",
+      "name": "Standing Out",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=768",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_02_Sort",
+      "name": "Sort",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem&cpid=828",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_03_Train",
+      "name": "Train",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem&cpid=829",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_04_Disrupt",
+      "name": "Disrupt",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem&cpid=830",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_05_PushaBox",
+      "name": "Push a Box",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=769",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_06_Greedy",
+      "name": "Greedy",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=770",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_07_Lifeguards",
+      "name": "Lifeguards",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=792",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_08_CowatLarge",
+      "name": "Cow at Large",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=793",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_09_Sprinklers",
+      "name": "Sprinklers",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=794",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_10_Slingshot",
+      "name": "Slingshot",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem&cpid=804",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_11_NewBarn",
+      "name": "New Barn",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=805",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_18_12_Gymnast",
+      "name": "Gymnast",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=806",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

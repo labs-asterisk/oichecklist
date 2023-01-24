@@ -1,0 +1,101 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "USACO_20_01_PieEaters",
+      "name": "Pie Eaters",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=972",
+      "solves": 76,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_02_Sprinklers2",
+      "name": "Sprinklers 2",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1044",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_03_Exercise",
+      "name": "Exercise",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1045",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_04_Circus",
+      "name": "Circus",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1046",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_05_SnowCow",
+      "name": "Snow Cow",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=973",
+      "solves": 92,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_06_TreeDepth",
+      "name": "Tree Depth",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=974",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_07_CavePaintings",
+      "name": "Cave Paintings",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=996",
+      "solves": 59,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_08_Non-Decreasing",
+      "name": "Non-Decreasing",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=997",
+      "solves": 44,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_09_FallingPortals",
+      "name": "Falling Portals",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=998",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_10_Delegation",
+      "name": "Delegation",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1020",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_11_EquilateralTriangle",
+      "name": "Equilateral Triangle",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1021",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_20_12_HelpYourself",
+      "name": "Help Yourself",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=1022",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

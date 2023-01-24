@@ -1,0 +1,45 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "JOI_16_01_Orange",
+      "name": "Orange",
+      "editorial": "",
+      "link": "https://joi2016ho.contest.atcoder.jp/tasks/joi2016ho_a",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "JOI_16_02_Stamp2",
+      "name": "Stamp 2",
+      "editorial": "",
+      "link": "https://joi2016ho.contest.atcoder.jp/tasks/joi2016ho_b",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "JOI_16_03_Rail",
+      "name": "Rail",
+      "editorial": "",
+      "link": "https://joi2016ho.contest.atcoder.jp/tasks/joi2016ho_c",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOI_16_04_Territory",
+      "name": "Territory",
+      "editorial": "",
+      "link": "https://joi2016ho.contest.atcoder.jp/tasks/joi2016ho_d",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOI_16_05_Fault",
+      "name": "Fault",
+      "editorial": "",
+      "link": "https://joi2016ho.contest.atcoder.jp/tasks/joi2016ho_e",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

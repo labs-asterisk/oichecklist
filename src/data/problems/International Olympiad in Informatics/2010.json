@@ -1,0 +1,69 @@
+{
+  "year": 2010,
+  "problems": [
+    {
+      "slug": "IOI_10_01_cluedo",
+      "name": "Cluedo",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2010",
+      "link": "https://contest.yandex.ru/ioi/contest/570/enter/",
+      "solves": 269,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_02_hottercolder",
+      "name": "Hottercolder",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2010",
+      "link": "https://oj.uz/problem/view/IOI10_hottercolder",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_03_quality",
+      "name": "Quality",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-10-quality.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/570/problems/C/",
+      "solves": 64,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_04_languages",
+      "name": "Languages",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2010",
+      "link": "https://oj.uz/problem/view/IOI10_languages",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_05_memory",
+      "name": "Memory",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2010",
+      "link": "https://contest.yandex.ru/ioi/contest/570/enter/",
+      "solves": 275,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_06_traffic",
+      "name": "Traffic",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-10-traffic.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/570/enter/",
+      "solves": 188,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_07_maze",
+      "name": "Maze",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2010",
+      "link": "https://oj.uz/problem/view/IOI10_maze",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_10_08_saveit",
+      "name": "Saveit",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-10-saveit.txt",
+      "link": "https://ioi2010.contest.atcoder.jp/tasks/ioi2010_2_4",
+      "solves": 6,
+      "tags": []
+    }
+  ]
+}

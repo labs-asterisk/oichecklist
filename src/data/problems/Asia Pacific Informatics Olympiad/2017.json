@@ -1,0 +1,39 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "APIO_17_01_rainbow",
+      "name": "Rainbow",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-17-rainbow.txt",
+      "link": "https://oj.uz/problem/view/APIO17_rainbow",
+      "solves": 5,
+      "tags": [
+        "Segment Tree",
+        "Persistence"
+      ]
+    },
+    {
+      "slug": "APIO_17_02_merchant",
+      "name": "Merchant",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-17-merchant.txt",
+      "link": "https://oj.uz/problem/view/APIO17_merchant",
+      "solves": 44,
+      "tags": [
+        "Graph",
+        "Binary Search"
+      ]
+    },
+    {
+      "slug": "APIO_17_03_koala",
+      "name": "Koala",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/official/2017",
+      "link": "https://oj.uz/problem/view/APIO17_koala",
+      "solves": 2,
+      "tags": [
+        "Binary Search",
+        "Interactive",
+        "Implementation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "JOIOC_17_01_Park",
+      "name": "Park",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_amusement_park",
+      "solves": 34,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_17_02_Bulldozer",
+      "name": "Bulldozer",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_bulldozer",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_17_03_Golf",
+      "name": "Golf",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_golf",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

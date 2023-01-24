@@ -1,0 +1,53 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "IOI_12_01_odometer",
+      "name": "Odometer",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-editorials.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/572/enter/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "IOI_12_02_rings",
+      "name": "Rings",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/12-Rings.cpp",
+      "link": "https://oj.uz/problem/view/IOI12_rings",
+      "solves": 22,
+      "tags": []
+    },
+    {
+      "slug": "IOI_12_03_scrivener",
+      "name": "Scrivener",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-scrivener.txt",
+      "link": "https://oj.uz/problem/view/IOI12_scrivener",
+      "solves": 82,
+      "tags": []
+    },
+    {
+      "slug": "IOI_12_04_city",
+      "name": "City",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-city.txt",
+      "link": "https://oj.uz/problem/view/IOI12_city",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "IOI_12_05_supper",
+      "name": "Supper",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-editorials.txt",
+      "link": "https://oj.uz/problem/view/IOI12_supper",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_12_06_tournament",
+      "name": "Tournament",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-12-tournament.txt",
+      "link": "https://oj.uz/problem/view/IOI12_tournament",
+      "solves": 38,
+      "tags": []
+    }
+  ]
+}

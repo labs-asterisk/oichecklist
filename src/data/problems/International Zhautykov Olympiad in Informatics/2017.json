@@ -1,0 +1,53 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "IZHO_17_01_Bootfall",
+      "name": "Bootfall",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_bootfall",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_17_02_Money",
+      "name": "Money",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_money",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_17_03_Subsequence",
+      "name": "Subsequence",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_subsequence",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_17_04_Game",
+      "name": "Game",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_game",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_17_05_Bomb",
+      "name": "Bomb",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_bomb",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_17_06_Road",
+      "name": "Road",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO17_road",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "APIO_08_01_Beads",
+      "name": "Beads",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-08-Beads.txt",
+      "link": "https://tlx.toki.id/problems/apio-2008/A",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_08_02_Roads",
+      "name": "Roads",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-08-Roads.txt",
+      "link": "https://tlx.toki.id/problems/apio-2008/B",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_08_03_DNA",
+      "name": "Dna",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-08-DNA.txt",
+      "link": "https://tlx.toki.id/problems/apio-2008/C",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

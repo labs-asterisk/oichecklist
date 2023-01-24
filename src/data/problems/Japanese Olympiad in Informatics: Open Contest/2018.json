@@ -1,0 +1,37 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "JOIOC_18_01_Bubble2",
+      "name": "Bubble 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_bubblesort2",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_18_02_Catdog",
+      "name": "Catdog",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_catdog",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_18_03_Collapse",
+      "name": "Collapse",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_collapse",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_18_04_Xylophone",
+      "name": "Xylophone",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_xylophone",
+      "solves": 84,
+      "tags": []
+    }
+  ]
+}

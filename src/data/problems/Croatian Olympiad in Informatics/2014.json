@@ -1,0 +1,69 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "COI_14_01_css",
+      "name": "Css",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI14_css",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_02_histogrami",
+      "name": "Histogrami",
+      "editorial": "",
+      "link": "",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_03_mostovi",
+      "name": "Mostovi",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2014",
+      "link": "https://oj.uz/problem/view/COI14_mostovi",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_04_nizovi",
+      "name": "Nizovi",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2014",
+      "link": "https://oj.uz/problem/view/COI14_nizovi",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_05_gta",
+      "name": "Gta",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-14-gta.txt",
+      "link": "https://oj.uz/problem/view/COI14_gta",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_06_kosta",
+      "name": "Kosta",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2014",
+      "link": "https://oj.uz/problem/view/COI14_kosta",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_07_grad",
+      "name": "Grad",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2014",
+      "link": "https://oj.uz/problem/view/COI14_grad",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_14_08_krave",
+      "name": "Krave",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-14-krave.txt",
+      "link": "https://oj.uz/problem/view/COI14_krave",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

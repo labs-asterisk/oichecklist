@@ -1,0 +1,53 @@
+{
+  "year": 2005,
+  "problems": [
+    {
+      "slug": "Baltic_05_01_Camp",
+      "name": "Camp",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2005_solutions",
+      "link": "https://cses.fi/115/list/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_05_02_Magic",
+      "name": "Magic",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/JOI/Baltic/Baltic-05-Magic.txt",
+      "link": "https://cses.fi/115/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_05_03_Maze",
+      "name": "Maze",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2005_solutions",
+      "link": "https://cses.fi/115/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_05_04_Ancient",
+      "name": "Ancient",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2005_solutions",
+      "link": "https://cses.fi/116/list/",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_05_05_Bus",
+      "name": "Bus",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-05-Bus_Trip.txt",
+      "link": "https://cses.fi/116/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_05_06_Polygon",
+      "name": "Polygon",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-05-Polygon.txt",
+      "link": "https://cses.fi/116/list/",
+      "solves": 5,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "Balkan_18_01_election",
+      "name": "Election",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-18-election.txt",
+      "link": "https://oj.uz/problem/view/BOI18_election",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_18_02_homecoming",
+      "name": "Homecoming",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/BOI18_homecoming",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_18_03_minmaxtree",
+      "name": "Minmaxtree",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-18-minmaxtree.txt",
+      "link": "https://oj.uz/problem/view/BOI18_minmaxtree",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_18_04_parentrises",
+      "name": "Parentrises",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/official/2018/",
+      "link": "https://oj.uz/problem/view/BOI18_parentrises",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_18_05_popa",
+      "name": "Popa",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-18-popa.txt",
+      "link": "https://oj.uz/problem/view/BOI18_popa",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_18_06_zalmoxis",
+      "name": "Zalmoxis",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-18-zalmoxis.txt",
+      "link": "https://oj.uz/problem/view/BOI18_zalmoxis",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

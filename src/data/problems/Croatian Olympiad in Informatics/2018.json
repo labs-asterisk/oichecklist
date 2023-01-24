@@ -1,0 +1,37 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "COI_18_01_paprike",
+      "name": "Paprike",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI18_paprike",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_18_02_pick",
+      "name": "Pick",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI18_pick",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_18_03_svjetlost",
+      "name": "Svjetlost",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI18_svjetlost",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_18_04_zagonetka",
+      "name": "Zagonetka",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/COI18_zagonetka",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

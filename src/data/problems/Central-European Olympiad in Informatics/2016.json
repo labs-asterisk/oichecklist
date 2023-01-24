@@ -1,0 +1,53 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "CEOI_16_01_ICC",
+      "name": "ICC",
+      "editorial": "",
+      "link": "https://cses.fi/193/list/",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_16_02_Kangaroo",
+      "name": "Kangaroo",
+      "editorial": "",
+      "link": "https://cses.fi/193/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_16_03_Trick",
+      "name": "Trick",
+      "editorial": "",
+      "link": "https://cses.fi/193/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_16_04_Match",
+      "name": "Match",
+      "editorial": "",
+      "link": "https://cses.fi/194/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_16_05_Popeala",
+      "name": "Popeala",
+      "editorial": "",
+      "link": "https://cses.fi/194/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_16_06_Router",
+      "name": "Router",
+      "editorial": "",
+      "link": "https://cses.fi/194/list/",
+      "solves": 8,
+      "tags": []
+    }
+  ]
+}

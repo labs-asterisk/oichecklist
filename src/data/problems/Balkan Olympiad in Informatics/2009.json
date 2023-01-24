@@ -1,0 +1,29 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "Balkan_09_01_NewBeginning",
+      "name": "New beginning",
+      "editorial": "",
+      "link": "https://www.acmicpc.net/problem/7080",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_09_02_Reading",
+      "name": "Reading",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-09-Reading.txt",
+      "link": "https://www.acmicpc.net/problem/7081",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_09_03_Strip",
+      "name": "Strip",
+      "editorial": "",
+      "link": "https://www.acmicpc.net/problem/7082",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "USACO_17_01_Triangles",
+      "name": "Triangles",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=672",
+      "solves": 92,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_02_Art",
+      "name": "Art",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=744",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_03_Grass",
+      "name": "Grass",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=745",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_04_CowBasic",
+      "name": "Cow Basic",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=746",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_05_Team",
+      "name": "Team",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=673",
+      "solves": 231,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_06_RoboticHerd",
+      "name": "Robotic Herd",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=674",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_07_Promote",
+      "name": "Promote",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=696",
+      "solves": 237,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_08_TallBarn",
+      "name": "Tall Barn",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=697",
+      "solves": 67,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_09_SubRev",
+      "name": "SubRev",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=698",
+      "solves": 91,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_10_MinCross",
+      "name": "Min Cross",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=720",
+      "solves": 189,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_11_NoCross",
+      "name": "No Cross",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=721",
+      "solves": 195,
+      "tags": []
+    },
+    {
+      "slug": "USACO_17_12_FriendCross",
+      "name": "Friend Cross",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=722",
+      "solves": 81,
+      "tags": []
+    }
+  ]
+}

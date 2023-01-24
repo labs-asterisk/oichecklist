@@ -1,0 +1,45 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "JOI_13_01_Illumination",
+      "name": "Illumination",
+      "editorial": "",
+      "link": "https://joi2013ho.contest.atcoder.jp/tasks/joi2013ho1",
+      "solves": 46,
+      "tags": []
+    },
+    {
+      "slug": "JOI_13_02_IOITrain",
+      "name": "IOI Train",
+      "editorial": "",
+      "link": "https://joi2013ho.contest.atcoder.jp/tasks/joi2013ho2",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "JOI_13_03_Mansion",
+      "name": "Mansion",
+      "editorial": "",
+      "link": "https://joi2013ho.contest.atcoder.jp/tasks/joi2013ho3",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOI_13_04_JOIOI",
+      "name": "JOIOI",
+      "editorial": "",
+      "link": "https://joi2013ho.contest.atcoder.jp/tasks/joi2013ho4",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOI_13_05_Bubble",
+      "name": "Bubble",
+      "editorial": "",
+      "link": "https://joi2013ho.contest.atcoder.jp/tasks/joi2013ho5",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

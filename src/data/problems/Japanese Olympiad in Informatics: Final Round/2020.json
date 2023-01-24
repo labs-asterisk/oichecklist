@@ -1,0 +1,45 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "JOI_20_01_LongNeckties",
+      "name": "Long Neckties",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ho_t1",
+      "solves": 66,
+      "tags": []
+    },
+    {
+      "slug": "JOI_20_02_JJOOII2",
+      "name": "JJOOII 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ho_t2",
+      "solves": 62,
+      "tags": []
+    },
+    {
+      "slug": "JOI_20_03_CollectingStamps3",
+      "name": "Collecting Stamps 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ho_t3",
+      "solves": 44,
+      "tags": []
+    },
+    {
+      "slug": "JOI_20_04_OlympicBus",
+      "name": "Olympic Bus",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ho_t4",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "JOI_20_05_Fire",
+      "name": "Fire",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ho_t5",
+      "solves": 12,
+      "tags": []
+    }
+  ]
+}

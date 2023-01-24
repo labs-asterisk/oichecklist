@@ -1,0 +1,53 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "IOI_15_01_boxes",
+      "name": "Boxes",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-15-boxes.txt",
+      "link": "https://oj.uz/problem/view/IOI15_boxes",
+      "solves": 96,
+      "tags": []
+    },
+    {
+      "slug": "IOI_15_02_scales",
+      "name": "Scales",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2015",
+      "link": "https://oj.uz/problem/view/IOI15_scales",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_15_03_teams",
+      "name": "Teams",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2015",
+      "link": "https://oj.uz/problem/view/IOI15_teams",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "IOI_15_04_horses",
+      "name": "Horses",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2015",
+      "link": "https://oj.uz/problem/view/IOI15_horses",
+      "solves": 117,
+      "tags": []
+    },
+    {
+      "slug": "IOI_15_05_sorting",
+      "name": "Sorting",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-15-sorting.txt",
+      "link": "https://oj.uz/problem/view/IOI15_sorting",
+      "solves": 59,
+      "tags": []
+    },
+    {
+      "slug": "IOI_15_06_towns",
+      "name": "Towns",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-15-towns.txt",
+      "link": "https://oj.uz/problem/view/IOI15_towns",
+      "solves": 7,
+      "tags": []
+    }
+  ]
+}

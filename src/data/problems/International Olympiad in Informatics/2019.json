@@ -1,0 +1,68 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "IOI_19_01_shoes",
+      "name": "Shoes",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2019",
+      "link": "https://oj.uz/problem/view/IOI19_shoes",
+      "solves": 171,
+      "tags": [
+        "Greedy",
+        "Implementation",
+        "Fenwick Tree"
+      ]
+    },
+    {
+      "slug": "IOI_19_02_split",
+      "name": "Split",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2019",
+      "link": "https://oj.uz/problem/view/IOI19_split",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "IOI_19_03_rect",
+      "name": "Rect",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-rect.txt",
+      "link": "https://oj.uz/problem/view/IOI19_rect",
+      "solves": 23,
+      "tags": [
+        "Data Structures",
+        "Stack",
+        "Segment Tree"
+      ]
+    },
+    {
+      "slug": "IOI_19_04_line",
+      "name": "Line",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-line.txt",
+      "link": "https://oj.uz/problem/view/IOI19_line",
+      "solves": 0,
+      "tags": [
+        "Ad-hoc",
+        "Implementation"
+      ]
+    },
+    {
+      "slug": "IOI_19_05_vision",
+      "name": "Vision",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-19-vision.txt",
+      "link": "https://oj.uz/problem/view/IOI19_vision",
+      "solves": 47,
+      "tags": [
+        "Implementation",
+        "Ad-hoc",
+        "Constructive"
+      ]
+    },
+    {
+      "slug": "IOI_19_06_walk",
+      "name": "Walk",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/IOI/official/2019",
+      "link": "https://oj.uz/problem/view/IOI19_walk",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

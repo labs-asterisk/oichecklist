@@ -1,0 +1,125 @@
+{
+  "year": 2005,
+  "problems": [
+    {
+      "slug": "POI_05_01_Cash",
+      "name": "Cash",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/p5XIDH2wrPz6KrUOJCv2RjGq/site/",
+      "solves": 208,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_02_Doublerow",
+      "name": "Doublerow",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/cB5m-M5ddsFOWLds2CwcYKge/site/",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_03_Parties",
+      "name": "Parties",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/eC-cABL-jWd4JdZDmfWufeeQ/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_04_Manoeuvres",
+      "name": "Manoeuvres",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/mjJWZowf-KgF_KX1Hi0bUDZN/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_05_Camel",
+      "name": "Camel",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/kxK8IowlpnNmHqkDDoK-hIeZ/site/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_06_TheBus",
+      "name": "The Bus",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Syg2bcb2gzeOcCBXcL4ap80b/site/",
+      "solves": 23,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_07_Mirror",
+      "name": "Mirror",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/DKfNUFPEex9M2RZxld6pPcxT/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_08_Points",
+      "name": "Points",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/w_-1ZgA1RSQ0IpPqx_1BXb6M/site/",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_09_ToyCars",
+      "name": "Toy Cars",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/TPo3Eb_q2NKymvHo6kNvd5yx/site/",
+      "solves": 256,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_10_Banks",
+      "name": "Banks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/VENspsedQ1oO5IorYs8Ergdn/site/",
+      "solves": 304,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_11_Knights",
+      "name": "Knights",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/oTpPdueVv1-3g247_-ejjcR_/site/",
+      "solves": 214,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_12_Banknote",
+      "name": "Banknote",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/klvaggzD-q4Acz_WLtkn0JXJ/site/",
+      "solves": 38,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_13_Fibonacci",
+      "name": "Fibonacci",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/98e_K-Vvcg5TnMG4-hXTNsFG/site/",
+      "solves": 22,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_14_Template",
+      "name": "Template",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/PT4yHRX9Mmz85ndhNPGCi_WB/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_05_15_Dicing",
+      "name": "Dicing",
+      "editorial": "",
+      "link": "",
+      "solves": 3,
+      "tags": []
+    }
+  ]
+}

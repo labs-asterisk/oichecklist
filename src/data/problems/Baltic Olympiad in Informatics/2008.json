@@ -1,0 +1,53 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "Baltic_08_01_Game",
+      "name": "Game",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-08-Game.txt",
+      "link": "https://cses.fi/113/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_08_02_Gates",
+      "name": "Gates",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-08-Gates.txt",
+      "link": "https://cses.fi/113/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_08_03_Magical",
+      "name": "Magical",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-08-Magical.txt",
+      "link": "https://cses.fi/113/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_08_04_Elections",
+      "name": "Elections",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2008_solutions",
+      "link": "https://cses.fi/114/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_08_05_Grid",
+      "name": "Grid",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-08-Grid.txt",
+      "link": "https://cses.fi/114/list/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_08_06_Gloves",
+      "name": "Gloves",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-08-Gloves.txt",
+      "link": "https://cses.fi/114/list/",
+      "solves": 4,
+      "tags": []
+    }
+  ]
+}

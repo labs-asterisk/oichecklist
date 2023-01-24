@@ -1,0 +1,125 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "POI_15_01_Sorcerer",
+      "name": "Sorcerer",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/fuTBSUcQ2U9sVPYJUDI4JwIe/site/",
+      "solves": 25,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_02_Car",
+      "name": "Car",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/kYVp05sX8lzHWNwn93xjcYwH/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_03_Direction",
+      "name": "Direction",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/4roJ2TqCXhLN6ftK2jiWKlO9/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_04_Trous",
+      "name": "Trous",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/07Q0fFk7fU2TmGr6wpPeDCZj/site/",
+      "solves": 37,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_05_Collector",
+      "name": "Collector",
+      "editorial": "",
+      "link": "",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_06_Highway",
+      "name": "Highway",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/z0rincXf7fi157ycO_Sl0bCb/site/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_07_Trips",
+      "name": "Trips",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/zKf5Ua8okcS0jngsrTgKVM9L/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_08_Movie",
+      "name": "Movie",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/k-RYEjhwNTo_XdaCidXQUGMU/site/",
+      "solves": 148,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_09_Squares",
+      "name": "Squares",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/VeQ6A1Xb8DUSlbUb8eQncsFX/site/",
+      "solves": 192,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_10_Gluttons",
+      "name": "Gluttons",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Hj7Ko64-xPs_FrzJ4WucMde9/site/",
+      "solves": 236,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_11_Seals",
+      "name": "Seals",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/VbW8KlWy9WK3aYvK55X96X7P/site/",
+      "solves": 288,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_12_Necklace",
+      "name": "Necklace",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/SbvfueoDtZe2DQFHrywTIakc/site/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_13_Desert",
+      "name": "Desert",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/_PLjXEFyR0XMBQ-kZ1k_GgHE/site/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_14_Speed",
+      "name": "Speed",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/vX48bEW0i5IRszoCOP_f78Dc/site/",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "POI_15_15_Three",
+      "name": "Three",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Grfouq9u3g_TYktFXO2sNjCU/site/",
+      "solves": 28,
+      "tags": []
+    }
+  ]
+}

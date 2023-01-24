@@ -1,0 +1,77 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "NOI_19_01_palindrome",
+      "name": "Palindromic FizzBuzz",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_palindrome",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_02_lostarray",
+      "name": "Lost Array",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_lostarray",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_03_charges",
+      "name": "Charges",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_charges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_04_squarerect",
+      "name": "Square Rectangle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_squarerect",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_05_pilot",
+      "name": "Pilot",
+      "editorial": "https://github.com/MohamedAhmed04/Competitive-programming/blob/master/SingaporeNOI/2019-Pilot.cpp",
+      "link": "https://oj.uz/problem/view/NOI19_pilot",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_06_lasers",
+      "name": "Lasers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_lasers",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_07_feast",
+      "name": "Feast",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-19-feast.txt",
+      "link": "https://oj.uz/problem/view/NOI19_feast",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_08_riggedroads",
+      "name": "Riggedroads",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-19-riggedroads.txt",
+      "link": "https://oj.uz/problem/view/NOI19_riggedroads",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_19_09_shuffle",
+      "name": "Shuffle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI19_shuffle",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

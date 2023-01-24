@@ -1,0 +1,53 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "CEOI_08_01_Dominance",
+      "name": "Dominance",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-08-Dominance.txt",
+      "link": "https://cses.fi/189/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_08_02_Knights",
+      "name": "Knights",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-08-Knights.txt",
+      "link": "https://cses.fi/189/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_08_03_Information",
+      "name": "Information",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2008",
+      "link": "https://cses.fi/189/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_08_04_Snake",
+      "name": "Snake",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-08-Snake.txt",
+      "link": "https://cses.fi/190/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_08_05_Order",
+      "name": "Order",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2008",
+      "link": "https://cses.fi/190/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_08_06_Fence",
+      "name": "Fence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-08-Fence.txt",
+      "link": "https://cses.fi/190/list/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

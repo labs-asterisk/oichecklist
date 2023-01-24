@@ -1,0 +1,53 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "CEOI_11_01_Balloons",
+      "name": "Balloons",
+      "editorial": "",
+      "link": "https://cses.fi/174/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_11_02_Matching",
+      "name": "Matching",
+      "editorial": "",
+      "link": "https://cses.fi/174/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_11_03_Treasure",
+      "name": "Treasure",
+      "editorial": "",
+      "link": "https://cses.fi/174/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_11_04_Hotel",
+      "name": "Hotel",
+      "editorial": "",
+      "link": "https://cses.fi/175/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_11_05_Teams",
+      "name": "Teams",
+      "editorial": "",
+      "link": "https://cses.fi/175/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_11_06_Traffic",
+      "name": "Traffic",
+      "editorial": "",
+      "link": "https://cses.fi/175/list/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

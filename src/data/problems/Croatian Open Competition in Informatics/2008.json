@@ -1,0 +1,293 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "COCI_08_10_Svada",
+      "name": "Svada",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_11_Setnja",
+      "name": "Setnja",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_12_Cavli",
+      "name": "Cavli",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_13_Pet",
+      "name": "Pet",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_14_Kemija",
+      "name": "Kemija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_15_Cross",
+      "name": "Cross",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_16_Matrica",
+      "name": "Matrica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_17_BST",
+      "name": "BST",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_18_Najkraci",
+      "name": "Najkraci",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c3p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_19_Mjehuric",
+      "name": "Mjehuric",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_1_Skocimis",
+      "name": "Skocimis",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_20_Datum",
+      "name": "Datum",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_21_Rot",
+      "name": "Rot",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_22_Slikar",
+      "name": "Slikar",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_23_Trezor",
+      "name": "Trezor",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_24_Periodni",
+      "name": "Periodni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c4p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_25_Ljesnjak",
+      "name": "Ljesnjak",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_26_Jabuka",
+      "name": "Jabuka",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_27_Jagoda",
+      "name": "Jagoda",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_28_Lubenica",
+      "name": "Lubenica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_29_Tresnja",
+      "name": "Tresnja",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_2_Ptice",
+      "name": "Ptice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_30_Kruska",
+      "name": "Kruska",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c5p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_31_Buka",
+      "name": "Buka",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_32_Bazen",
+      "name": "Bazen",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_33_Nered",
+      "name": "Nered",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_34_Cuskija",
+      "name": "Cuskija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_35_Dostava",
+      "name": "Dostava",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_36_Slicice",
+      "name": "Slicice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c6p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_3_Mravojed",
+      "name": "Mravojed",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_4_Jez",
+      "name": "Jez",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_5_Skakavac",
+      "name": "Skakavac",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_6_Krtica",
+      "name": "Krtica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c1p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_7_Kornislav",
+      "name": "Kornislav",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_8_Reseto",
+      "name": "Reseto",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_08_9_Perket",
+      "name": "Perket",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci08c2p3",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

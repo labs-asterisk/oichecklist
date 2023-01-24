@@ -1,0 +1,53 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "Baltic_20_01_colors",
+      "name": "Colors",
+      "editorial": "",
+      "link": "https://cses.fi/335/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_20_02_mixture",
+      "name": "Mixture",
+      "editorial": "",
+      "link": "https://cses.fi/335/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_20_03_joker",
+      "name": "Joker",
+      "editorial": "",
+      "link": "https://cses.fi/335/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_20_04_graph",
+      "name": "Graph",
+      "editorial": "",
+      "link": "https://cses.fi/336/list/",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_20_05_village",
+      "name": "Village",
+      "editorial": "",
+      "link": "https://cses.fi/336/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_20_06_viruses",
+      "name": "Viruses",
+      "editorial": "",
+      "link": "https://cses.fi/336/list/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

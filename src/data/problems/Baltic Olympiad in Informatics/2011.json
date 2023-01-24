@@ -1,0 +1,69 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "Baltic_11_01_Trees",
+      "name": "Trees",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-11-grow.txt",
+      "link": "https://cses.fi/100/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_02_Ice",
+      "name": "Ice",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2011_solutions",
+      "link": "https://cses.fi/100/list/",
+      "solves": 42,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_03_Lamp",
+      "name": "Lamp",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-11-Lamp.txt",
+      "link": "https://cses.fi/100/list/",
+      "solves": 23,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_04_Vikings",
+      "name": "Vikings",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-11-Vikings.txt",
+      "link": "https://cses.fi/100/list/",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_05_Meetings",
+      "name": "Meetings",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-11-Meetings.txt",
+      "link": "https://cses.fi/101/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_06_Plagarism",
+      "name": "Plagarism",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2011_solutions",
+      "link": "https://cses.fi/101/list/",
+      "solves": 36,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_07_Polygon",
+      "name": "Polygon",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2011_solutions",
+      "link": "https://cses.fi/101/list/",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_11_08_Mirroring",
+      "name": "Mirroring",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-11-Mirroring.txt",
+      "link": "https://cses.fi/101/list/",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

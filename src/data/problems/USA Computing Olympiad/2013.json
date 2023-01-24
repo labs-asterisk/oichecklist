@@ -1,0 +1,149 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "USACO_13_01_BBreeds",
+      "name": "BBreeds",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=193",
+      "solves": 46,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_02_Partition",
+      "name": "Partition",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=247",
+      "solves": 62,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_03_Taxi",
+      "name": "Taxi",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=248",
+      "solves": 33,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_04_Route",
+      "name": "Route",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=249",
+      "solves": 31,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_05_CowRun",
+      "name": "Cow Run",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=265",
+      "solves": 91,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_06_Hillwalk",
+      "name": "Hillwalk",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=266",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_07_Necklace",
+      "name": "Necklace",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=267",
+      "solves": 35,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_08_Photo",
+      "name": "Photo",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=285",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_09_YinYang",
+      "name": "Yin Yang",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=286",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_10_Eight",
+      "name": "Eight",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=287",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_11_CBS",
+      "name": "CBS",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=194",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_12_BTree",
+      "name": "BTree",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=195",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_13_Gangs",
+      "name": "Gangs",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=211",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_14_First",
+      "name": "First",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=212",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_15_Runaway",
+      "name": "Runaway",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=213",
+      "solves": 25,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_16_Lineup",
+      "name": "Lineup",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=229",
+      "solves": 64,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_17_Island",
+      "name": "Island",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=230",
+      "solves": 45,
+      "tags": []
+    },
+    {
+      "slug": "USACO_13_18_Seating",
+      "name": "Seating",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=231",
+      "solves": 22,
+      "tags": []
+    }
+  ]
+}

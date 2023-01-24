@@ -1,0 +1,37 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "COI_16_01_dijament",
+      "name": "Dijament",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2016",
+      "link": "https://oj.uz/problem/view/COI16_dijament",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_16_02_palinilap",
+      "name": "Palinilap",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-16-palinilap.txt",
+      "link": "https://oj.uz/problem/view/COI16_palinilap",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_16_03_relay",
+      "name": "Relay",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-16-relay.txt",
+      "link": "https://oj.uz/problem/view/COI16_relay",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_16_04_torrent",
+      "name": "Torrent",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-16-torrent.txt",
+      "link": "https://oj.uz/problem/view/COI16_torrent",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

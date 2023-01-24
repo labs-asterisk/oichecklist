@@ -1,0 +1,39 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "APIO_16_01_boat",
+      "name": "Boat",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-boat.txt",
+      "link": "https://oj.uz/problem/view/APIO16_boat",
+      "solves": 32,
+      "tags": [
+        "Dynamic Programming",
+        "Math"
+      ]
+    },
+    {
+      "slug": "APIO_16_02_fireworks",
+      "name": "Fireworks",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-fireworks.txt",
+      "link": "https://oj.uz/problem/view/APIO16_fireworks",
+      "solves": 4,
+      "tags": [
+        "Dynamic Programming",
+        "Data Structures"
+      ]
+    },
+    {
+      "slug": "APIO_16_03_gap",
+      "name": "Gap",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-16-gap.txt",
+      "link": "https://oj.uz/problem/view/APIO16_gap",
+      "solves": 40,
+      "tags": [
+        "Ad-hoc",
+        "Divide and Conquer",
+        "Interactive"
+      ]
+    }
+  ]
+}

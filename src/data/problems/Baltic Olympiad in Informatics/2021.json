@@ -1,0 +1,53 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "Baltic_21_01_books",
+      "name": "DifficultyChoice",
+      "editorial": "",
+      "link": "https://cses.fi/360/list/",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_21_02_servers",
+      "name": "Information",
+      "editorial": "",
+      "link": "https://cses.fi/360/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_21_03_watchmen",
+      "name": "HackstoSnitches",
+      "editorial": "",
+      "link": "https://cses.fi/360/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_21_04_prison",
+      "name": "Redemption",
+      "editorial": "",
+      "link": "https://cses.fi/361/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_21_05_swaps",
+      "name": "Collection",
+      "editorial": "",
+      "link": "https://cses.fi/361/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_21_06_xanadu",
+      "name": "XanaCoup",
+      "editorial": "",
+      "link": "https://cses.fi/361/list/",
+      "solves": 42,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "IOI_21_01_candies",
+      "name": "Candies",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_candies",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "IOI_21_02_keys",
+      "name": "Keys",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_keys",
+      "solves": 17,
+      "tags": []
+    },
+    {
+      "slug": "IOI_21_03_parks",
+      "name": "Parks",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_parks",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "IOI_21_04_dna",
+      "name": "DNA",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_dna",
+      "solves": 304,
+      "tags": []
+    },
+    {
+      "slug": "IOI_21_05_dungeons",
+      "name": "Dungeons",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_dungeons",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "IOI_21_06_registers",
+      "name": "Registers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI21_registers",
+      "solves": 7,
+      "tags": []
+    }
+  ]
+}

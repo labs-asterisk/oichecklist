@@ -1,0 +1,53 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "IOI_07_01_aliens",
+      "name": "Aliens",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2007",
+      "link": "https://oj.uz/problem/view/IOI07_aliens",
+      "solves": 60,
+      "tags": []
+    },
+    {
+      "slug": "IOI_07_02_flood",
+      "name": "Flood",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-07-flood.txt",
+      "link": "https://oj.uz/problem/view/IOI07_flood",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "IOI_07_03_sails",
+      "name": "Sails",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-07-sails.txt",
+      "link": "https://oj.uz/problem/view/IOI07_sails",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "IOI_07_04_miners",
+      "name": "Miners",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2007",
+      "link": "https://oj.uz/problem/view/IOI07_miners",
+      "solves": 131,
+      "tags": []
+    },
+    {
+      "slug": "IOI_07_05_pairs",
+      "name": "Pairs",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2007",
+      "link": "https://oj.uz/problem/view/IOI07_pairs",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_07_06_training",
+      "name": "Training",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-07-training.txt",
+      "link": "https://oj.uz/problem/view/IOI07_training",
+      "solves": 3,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "POI_16_01_Hydro",
+      "name": "Hydro",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/y9HM1ctDU8V8xLMRUYACDIRs/site/",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_02_Messenger",
+      "name": "Messenger",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Mk-9GNDtSal6h_8T4n9Ezq9M/site/",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_03_Johny",
+      "name": "Johny",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/_cVmDXXn2TjF0dF1rW6eazA0/site/",
+      "solves": 41,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_04_Hedge",
+      "name": "Hedge",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/dABzva_j1-BvzKMsyxkuRoue/site/",
+      "solves": 47,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_05_Club",
+      "name": "Club",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/3Kqkgeapr-W-MBprNjUDGICL/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_06_Journey",
+      "name": "Journey",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/YY6-3ua-C1rt7q-97laWc0UP/site/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_07_Parade",
+      "name": "Parade",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/1QaUWE_ePAmitZjgAszOVD1U/site/",
+      "solves": 63,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_08_Necklace",
+      "name": "Necklace",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/z8Vva6nazo2Cy3CF67kT6IWe/site/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_09_Transmit",
+      "name": "Transmit",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/sKmyIHBMNi9EV3WO6GQ4xoFt/site/",
+      "solves": 79,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_10_Nim",
+      "name": "Nim",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/X6IwPa2H9FSd3Ly6bYp5t8Vu/site/",
+      "solves": 38,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_11_WaterPark",
+      "name": "Water Park",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/70I-ks8dXjgq3xwzRzLV1w4p/site/",
+      "solves": 165,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_12_Streets",
+      "name": "Streets",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/9TaxfuNdAv2FPpQ6PeB-vlti/site/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_13_Stutter",
+      "name": "Stutter",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Orc2Z7ti1xLaUUQDT1a6RGR5/site/",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_14_Arkanoid",
+      "name": "Arkanoid",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/O730xgZEVynTWBmscBinhMbD/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_16_15_NotNim",
+      "name": "Not Nim",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/M5CruI5eCu8elnNFHuiXBrvV/site/",
+      "solves": 10,
+      "tags": []
+    }
+  ]
+}

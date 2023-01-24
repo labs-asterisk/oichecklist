@@ -1,0 +1,69 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "COI_15_01_cvenk",
+      "name": "Cvenk",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-15-cvenk.txt",
+      "link": "https://oj.uz/problem/view/COI15_cvenk",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_02_kovanice",
+      "name": "Kovanice",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/COI/15-Koviance.cpp",
+      "link": "https://oj.uz/problem/view/COI15_kovanice",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_03_ogledala",
+      "name": "Ogledala",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015",
+      "link": "https://oj.uz/problem/view/COI15_ogledala",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_04_sir",
+      "name": "Sir",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015",
+      "link": "https://oj.uz/problem/view/COI15_sir",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_05_ruka",
+      "name": "Ruka",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-15-ruka.txt",
+      "link": "https://oj.uz/problem/view/COI15_ruka",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_06_zarulje",
+      "name": "Zarulje",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-15-zarulje.txt",
+      "link": "https://oj.uz/problem/view/COI15_zarulje",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_07_dostava",
+      "name": "Dostava",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/COI/official/2015",
+      "link": "",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_15_08_nafta",
+      "name": "Nafta",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-15-nafta.txt",
+      "link": "https://oj.uz/problem/view/COI15_nafta",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

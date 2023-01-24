@@ -1,0 +1,53 @@
+{
+  "year": 2004,
+  "problems": [
+    {
+      "slug": "IOI_04_01_artemis",
+      "name": "Artemis",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-04-artemis.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "IOI_04_02_hermes",
+      "name": "Hermes",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2004",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 47,
+      "tags": []
+    },
+    {
+      "slug": "IOI_04_03_polygon",
+      "name": "Polygon",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-04-polygon.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_04_04_empodia",
+      "name": "Empodia",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-04-empodia.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "IOI_04_05_farmer",
+      "name": "Farmer",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-04-farmer.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 65,
+      "tags": []
+    },
+    {
+      "slug": "IOI_04_06_phidias",
+      "name": "Phidias",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2004",
+      "link": "https://contest.yandex.ru/ioi/contest/560/enter/",
+      "solves": 76,
+      "tags": []
+    }
+  ]
+}

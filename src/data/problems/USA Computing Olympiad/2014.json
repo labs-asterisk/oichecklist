@@ -1,0 +1,149 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "USACO_14_01_Empty",
+      "name": "Empty",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=346",
+      "solves": 61,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_02_RBlock",
+      "name": "RBlock",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=400",
+      "solves": 169,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_03_Dec",
+      "name": "Dec",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=401",
+      "solves": 91,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_04_Boarding",
+      "name": "Boarding",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=402",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_05_Lazy",
+      "name": "Lazy",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=418",
+      "solves": 38,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_06_Sabotage",
+      "name": "Sabotage",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=419",
+      "solves": 34,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_07_FCount",
+      "name": "FCount",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=420",
+      "solves": 83,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_08_FairPhoto",
+      "name": "Fair Photo",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=436",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_09_Optics",
+      "name": "Optics",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=437",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_10_Code",
+      "name": "Code",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=438",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_11_Sight",
+      "name": "Sight",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=347",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_12_NoChange",
+      "name": "No Change",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=348",
+      "solves": 51,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_13_Vacation",
+      "name": "Vacation",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=364",
+      "solves": 46,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_14_OptMilk",
+      "name": "Opt Milk",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=365",
+      "solves": 54,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_15_Shuffle",
+      "name": "Shuffle",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=366",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_16_Curling",
+      "name": "Curling",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=382",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_17_SkiCourse",
+      "name": "Ski Course",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=383",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "USACO_14_18_SkiLevel",
+      "name": "Ski Level",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=384",
+      "solves": 52,
+      "tags": []
+    }
+  ]
+}

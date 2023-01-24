@@ -1,0 +1,53 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "CEOI_20_01_FancyFence",
+      "name": "Fancy Fence",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1402/problem/A",
+      "solves": 41,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_20_02_Roads",
+      "name": "Roads",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1402/problem/B",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_20_03_StarTrek",
+      "name": "Star Trek",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1402/problem/C",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_20_04_Potion",
+      "name": "Potion",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1403/problem/A",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_20_05_Cleaning",
+      "name": "Cleaning",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1403/problem/B",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_20_06_ChessRush",
+      "name": "Chess Rush",
+      "editorial": "",
+      "link": "https://codeforces.com/contest/1403/problem/C",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

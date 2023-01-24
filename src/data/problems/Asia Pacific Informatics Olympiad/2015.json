@@ -1,0 +1,38 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "APIO_15_01_sculpture",
+      "name": "Sculpture",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-sculpture.txt",
+      "link": "https://oj.uz/problem/view/APIO15_sculpture",
+      "solves": 61,
+      "tags": [
+        "Greedy",
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "slug": "APIO_15_02_skyscraper",
+      "name": "Skyscraper",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-skyscraper.txt",
+      "link": "https://oj.uz/problem/view/APIO15_skyscraper",
+      "solves": 63,
+      "tags": [
+        "Graph",
+        "Dijkstra"
+      ]
+    },
+    {
+      "slug": "APIO_15_03_bridge",
+      "name": "Bridge",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-15-bridge.txt",
+      "link": "https://oj.uz/problem/view/APIO15_bridge",
+      "solves": 22,
+      "tags": [
+        "Math",
+        "Data Structures"
+      ]
+    }
+  ]
+}

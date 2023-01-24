@@ -1,0 +1,53 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "Baltic_19_01_flash",
+      "name": "Flash",
+      "editorial": "",
+      "link": "https://cses.fi/247/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_19_02_nautilus",
+      "name": "Nautilus",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-19-nautilus.txt",
+      "link": "https://oj.uz/problem/view/BOI19_nautilus",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_19_03_valley",
+      "name": "Valley",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-19-valley.txt",
+      "link": "https://oj.uz/problem/view/BOI19_valley",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_19_04_kitchen",
+      "name": "Kitchen",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2019_solutions",
+      "link": "https://oj.uz/problem/view/BOI19_kitchen",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_19_05_necklace1",
+      "name": "Necklace1",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-19-necklace1.txt",
+      "link": "https://oj.uz/problem/view/BOI19_necklace1",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_19_06_olympiads",
+      "name": "Olympiads",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-19-olympiads.txt",
+      "link": "https://oj.uz/problem/view/BOI19_olympiads",
+      "solves": 4,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "POI_11_01_Conspiracy",
+      "name": "Conspiracy",
+      "editorial": "",
+      "link": "",
+      "solves": 117,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_02_Party",
+      "name": "Party",
+      "editorial": "",
+      "link": "",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_03_Inspection",
+      "name": "Inspection",
+      "editorial": "",
+      "link": "",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_04_Periodicity",
+      "name": "Periodicity",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/H6hUSie6S-cBVL4PG5rqQnmj/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_05_Contest",
+      "name": "Contest",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/VwDLJhYqi1z_sZrb2NyfvQ5e/site/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_06_Meteors",
+      "name": "Meteors",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/7JrCYZ7LhEK4nBR5zbAXpcmM/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_07_Sticks",
+      "name": "Sticks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/m-sRYpN7sKp20M1JuugoePG8/site/",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_08_Lollipop",
+      "name": "Lollipop",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/YPme8cPuC1zbS3oA0euLxywx/site/",
+      "solves": 278,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_09_Conductor",
+      "name": "Conductor",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/iYVwsAcHHCRZzAtQh0QFKbsu/site/",
+      "solves": 56,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_10_Shift",
+      "name": "Shift",
+      "editorial": "",
+      "link": "",
+      "solves": 138,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_11_Plot",
+      "name": "Plot",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/mzrTn1kzVBOAwVYn55LUeAai/site/",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_12_Difference",
+      "name": "Difference",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xmyBMI5AsEiW30_RyePNSXiG/site/",
+      "solves": 35,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_13_Garbage",
+      "name": "Garbage",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Oa79BU5CwOGRXG_BHQN1tZJ8/site/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_14_Rotation",
+      "name": "Rotation",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/sUe3qzxBtasek-RAWmZaxY_p/site/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "POI_11_15_Temp",
+      "name": "Temp",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/WePkBWRjS5vpsqQxi9TldHB1/site/",
+      "solves": 46,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "JOIOC_16_01_Joiris",
+      "name": "Joiris",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI16_joiris",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_16_02_RNA",
+      "name": "RNA",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI16_selling_rna",
+      "solves": 55,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_16_03_Skyscraper",
+      "name": "Skyscraper",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI16_skyscraper",
+      "solves": 9,
+      "tags": []
+    }
+  ]
+}

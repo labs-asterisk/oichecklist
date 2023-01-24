@@ -1,0 +1,29 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "APIO_11_01_Color",
+      "name": "Color",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-11-Color.txt",
+      "link": "https://dmoj.ca/problem/apio11p1",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_11_02_Path",
+      "name": "Path",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-11-Path.txt",
+      "link": "https://dmoj.ca/problem/apio11p2",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "APIO_11_03_guessword",
+      "name": "Guessword",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/apio11p3",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

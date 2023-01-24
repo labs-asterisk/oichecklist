@@ -1,0 +1,53 @@
+{
+  "year": 2008,
+  "problems": [
+    {
+      "slug": "IOI_08_01_printer",
+      "name": "Printer",
+      "editorial": "https://github.com/updown2/OI-Practice/blob/master/IOI/IOI%25202008/Type%2520Printer.cpp",
+      "link": "https://oj.uz/problem/view/IOI08_printer",
+      "solves": 118,
+      "tags": []
+    },
+    {
+      "slug": "IOI_08_02_islands",
+      "name": "Islands",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2008",
+      "link": "https://oj.uz/problem/view/IOI08_islands",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "IOI_08_03_fish",
+      "name": "Fish",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2008",
+      "link": "https://oj.uz/problem/view/IOI08_fish",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_08_04_linear",
+      "name": "Linear",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-08-linear.txt",
+      "link": "https://oj.uz/problem/view/IOI08_linear_garden",
+      "solves": 82,
+      "tags": []
+    },
+    {
+      "slug": "IOI_08_05_pyramid",
+      "name": "Pyramid",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-08-pyramid_base.txt",
+      "link": "https://oj.uz/problem/view/IOI08_pyramid_base",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_08_06_teleporters",
+      "name": "Teleporters",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2008",
+      "link": "https://oj.uz/problem/view/IOI08_teleporters",
+      "solves": 25,
+      "tags": []
+    }
+  ]
+}

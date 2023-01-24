@@ -1,0 +1,125 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "POI_18_01_Stone",
+      "name": "Stone",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/NZSCUwz2ACePsBKuVCIVzrRt/site/",
+      "solves": 185,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_02_Fence",
+      "name": "Fence",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/guoc36QCEe4q47qruYB7HBV-/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_03_Numbers",
+      "name": "Numbers",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/GfNdWdsmfgHxoByl0ETuZW9c/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_04_Triinformathlon",
+      "name": "Triinformathlon",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/URPMk7vthz60i1J3MT3XbIIO/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_05_Polynomial",
+      "name": "Polynomial",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/9JvSAnyf5d1FlPAEXEdUAtCz/site/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_06_Taxis",
+      "name": "Taxis",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/pxbqUTPy3IuPDul9FdT2_Sth/site/",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_07_Candy",
+      "name": "Candy",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Kmofhbw9cTx06gSZg-C5MiBU/site/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_08_Subway",
+      "name": "Subway",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/vvd6w7n7EXFVEg3nkqGxEirV/site/",
+      "solves": 240,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_09_Flood",
+      "name": "Flood",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xCiDtZ0ZX70fyac1Sav8d37J/site/",
+      "solves": 256,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_10_Lawyers",
+      "name": "Lawyers",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/KkN5UonnNGIG3AuMqoI6xr62/site/",
+      "solves": 311,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_11_Diversity",
+      "name": "Diversity",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/eHGwrk9xShVF-z_2f7K4Yyb_/site/",
+      "solves": 41,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_12_Bike",
+      "name": "Bike",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/aKKSmtjWTtDOEHDqnmQ3-eAA/site/",
+      "solves": 91,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_13_Conductor",
+      "name": "Conductor",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/lbADmW7d353d0F0iw4kXTjsl/site/",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_14_Transceivers",
+      "name": "Transceivers",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/GmAagCBetbskP0qiKlgVd-6A/site/",
+      "solves": 54,
+      "tags": []
+    },
+    {
+      "slug": "POI_18_15_Poetry",
+      "name": "Poetry",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Hhip15j-8Ro2dOb_4oB98C-G/site/",
+      "solves": 20,
+      "tags": []
+    }
+  ]
+}

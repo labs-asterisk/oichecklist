@@ -1,0 +1,53 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "CEOI_18_01_Cloud",
+      "name": "Cloud",
+      "editorial": "",
+      "link": "https://cses.fi/206/list/",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_18_02_Warming",
+      "name": "Warming",
+      "editorial": "",
+      "link": "https://cses.fi/206/list/",
+      "solves": 27,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_18_03_Lottery",
+      "name": "Lottery",
+      "editorial": "",
+      "link": "https://cses.fi/206/list/",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_18_04_Fibonacci",
+      "name": "Fibonacci",
+      "editorial": "",
+      "link": "https://cses.fi/207/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_18_05_Toys",
+      "name": "Toys",
+      "editorial": "",
+      "link": "https://cses.fi/207/list/",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_18_06_Triangles",
+      "name": "Triangles",
+      "editorial": "",
+      "link": "https://cses.fi/207/list/",
+      "solves": 18,
+      "tags": []
+    }
+  ]
+}

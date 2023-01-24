@@ -1,0 +1,29 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "APIO_21_01_hexagon",
+      "name": "Hexagon",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO21_hexagon",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "APIO_21_02_jumps",
+      "name": "Jumps",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO21_jumps",
+      "solves": 50,
+      "tags": []
+    },
+    {
+      "slug": "APIO_21_03_roads",
+      "name": "Roads",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO21_roads",
+      "solves": 35,
+      "tags": []
+    }
+  ]
+}

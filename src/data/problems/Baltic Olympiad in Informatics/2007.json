@@ -1,0 +1,53 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "Baltic_07_01_Escape",
+      "name": "Escape",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-07-Escape.txt",
+      "link": "https://cses.fi/111/list/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_07_02_Sorting",
+      "name": "Sorting",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2007_solutions",
+      "link": "https://cses.fi/111/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_07_03_Sound",
+      "name": "Sound",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2007_solutions",
+      "link": "https://cses.fi/111/list/",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_07_04_Fence",
+      "name": "Fence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-07-Fence.txt",
+      "link": "https://cses.fi/112/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_07_05_Points",
+      "name": "Points",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-07-Points.txt",
+      "link": "https://cses.fi/112/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_07_06_Sequence",
+      "name": "Sequence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-07-Sequence.txt",
+      "link": "https://cses.fi/112/list/",
+      "solves": 13,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "JOISC_18_01_Construction",
+      "name": "Construction",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_construction",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_02_Candies",
+      "name": "Candies",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_candies",
+      "solves": 24,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_03_Library",
+      "name": "Library",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_library",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_04_WildBoar",
+      "name": "Wild Boar",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_wild_boar",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_05_Fences",
+      "name": "Fences",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_fences",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_06_Tents",
+      "name": "Tents",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_tents",
+      "solves": 34,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_07_Ascenticism",
+      "name": "Ascenticism",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_asceticism",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_08_Road",
+      "name": "Road",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_road_service",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_09_Reporter3",
+      "name": "Reporter 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_worst_reporter3",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_10_Airline",
+      "name": "Airline",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_airline",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_11_Bitaro",
+      "name": "Bitaro",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_bitaro",
+      "solves": 25,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_18_12_Security",
+      "name": "Security",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI18_security_gate",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

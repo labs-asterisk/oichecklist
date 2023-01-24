@@ -1,0 +1,117 @@
+{
+  "year": 2006,
+  "problems": [
+    {
+      "slug": "POI_06_01_TheDisks",
+      "name": "The Disks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/d5W4-JZbz1vSmQCLIJ91__9N/site/",
+      "solves": 327,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_02_Aesthetics",
+      "name": "Aesthetics",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/RLQLNV4gL3Y22K9B2GgEMQIj/site/",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_03_Crystals",
+      "name": "Crystals",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/YbQn6MpKAzvIhTNUXtp_ypXQ/site/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_04_Palindrome",
+      "name": "Palindrome",
+      "editorial": "",
+      "link": "",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_05_Sophie",
+      "name": "Sophie",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/7Tut6VBMo0evZZ34EhdNuuOm/site/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_06_Teddies",
+      "name": "Teddies",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xFjhysZvLsUxEXMI-nHXao74/site/",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_07_Periods",
+      "name": "Periods",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/k9UKIj11V6iPRc3LaiYQYHyi/site/",
+      "solves": 276,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_08_Professor",
+      "name": "Professor",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/EijIYL4qkxxGJGHaVVnvdmgY/site/",
+      "solves": 117,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_09_Tetris3D",
+      "name": "Tetris 3D",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/OQjANSOOD_-c38gh8p6g3Gxp/site/",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_10_Frogs",
+      "name": "Frogs",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/HH7LQVRVHom1g8YRe9423d1P/site/",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_11_Subway",
+      "name": "Subway",
+      "editorial": "",
+      "link": "",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_12_Invasion",
+      "name": "Invasion",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/4yTtNIf4H61mJrquuAIhoSh_/site/",
+      "solves": 17,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_13_Postman",
+      "name": "Postman",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/IH9hAbMpppkTPAjBSZRg-QGH/site/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_06_14_Ploughing",
+      "name": "Ploughing",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/6YiP6JA5U15hY94pLwuHoYPg/site/",
+      "solves": 4,
+      "tags": []
+    }
+  ]
+}

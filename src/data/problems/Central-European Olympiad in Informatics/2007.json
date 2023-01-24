@@ -1,0 +1,53 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "CEOI_07_01_Ministry",
+      "name": "Ministry",
+      "editorial": "",
+      "link": "https://cses.fi/187/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_07_02_Nasty",
+      "name": "Nasty",
+      "editorial": "",
+      "link": "https://cses.fi/187/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_07_03_Sail",
+      "name": "Sail",
+      "editorial": "",
+      "link": "https://cses.fi/187/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_07_04_Airport",
+      "name": "Airport",
+      "editorial": "",
+      "link": "https://cses.fi/188/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_07_05_Necklace",
+      "name": "Necklace",
+      "editorial": "",
+      "link": "https://cses.fi/188/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_07_06_Treasury",
+      "name": "Treasury",
+      "editorial": "",
+      "link": "https://cses.fi/188/list/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

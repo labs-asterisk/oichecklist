@@ -87,7 +87,7 @@ const Navbar: React.FC = () => {
             <TopicFilterMenu />
             <Flex flexDir="row" gap={1}>
               <Text pt={1.5} fontSize="xs" > Tags missing? Add them </Text>
-              <Link href="https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problem_data.json">
+              <Link href="https://github.com/labs-asterisk/oichecklist/blob/main/src/data/problems">
                 <Text pt={1.5} fontSize="xs" _hover={{ textDecoration: "underline" }}>
                   here.
                 </Text>

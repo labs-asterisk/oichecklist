@@ -1,0 +1,101 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "JOISC_21_01_Aerobatics",
+      "name": "Aerobatics",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_aerobatics",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_02_Event2",
+      "name": "Event 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_event2",
+      "solves": 108,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_03_Navigation2",
+      "name": "Navigation 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_navigation2",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_04_Reporter4",
+      "name": "Reporter 4",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_worst_reporter4",
+      "solves": 84,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_05_Fever",
+      "name": "Fever",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_fever",
+      "solves": 36,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_06_FoodCourt",
+      "name": "Food Court",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_foodcourt",
+      "solves": 115,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_07_EscapeRoute",
+      "name": "Escape Route",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_escape_route",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_08_RoadConstruction",
+      "name": "Road Construction",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_road_construction",
+      "solves": 98,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_09_Shopping",
+      "name": "Shopping",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_shopping",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_10_AncientMachine",
+      "name": "Ancient Machine",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ancient_machine",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_11_Bodyguard",
+      "name": "Bodyguard",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_bodyguard",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_21_12_Meetings2",
+      "name": "Meetings 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_meetings2",
+      "solves": 133,
+      "tags": []
+    }
+  ]
+}

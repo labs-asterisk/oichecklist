@@ -1,0 +1,165 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "COCI_21_01_Ljeto",
+      "name": "Ljeto",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_02_Kamencici",
+      "name": "Kamencici",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_03_Logicari",
+      "name": "Logicari",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_04_Set",
+      "name": "Set",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_05_Volontiranje",
+      "name": "Volontiranje",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_06_Kaucuk",
+      "name": "Kaucuk",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_07_Kutije",
+      "name": "Kutije",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_08_Hiperkocka",
+      "name": "Hiperkocka",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c2p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_09_Magneti",
+      "name": "Magneti",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_10_Osumnjiceni",
+      "name": "Osumnjiceni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_11_Lampice",
+      "name": "Lampice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_12_Cijanobakterije",
+      "name": "Cijanobakterije",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_13_Akcija",
+      "name": "Akcija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_14_Ekoeko",
+      "name": "Ekoeko",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_15_Kucice",
+      "name": "Kucice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_16_Autici",
+      "name": "Autici",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_17_Autobus",
+      "name": "Autobus",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_18_Izbori",
+      "name": "Izbori",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_19_Parkovi",
+      "name": "Parkovi",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_21_20_sarenlist",
+      "name": "Sarenlist",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci21c4p5",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "InfOCup_18_01_Maxcomp",
+      "name": "Maxcomp",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup18_maxcomp",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_18_02_DEL13",
+      "name": "DEL13",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup18_del13",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_18_03_HiddenSequence",
+      "name": "Hidden Sequence",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup18_hidden",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_18_04_BalancedTree",
+      "name": "Balanced Tree",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup18_balancedtree",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

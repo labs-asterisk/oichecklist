@@ -1,0 +1,125 @@
+{
+  "year": 2010,
+  "problems": [
+    {
+      "slug": "POI_10_01_Guilds",
+      "name": "Guilds",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/oTsXNiT3SD45VgVS2zqQWj7F/site/",
+      "solves": 271,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_02_Minima",
+      "name": "Minima",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/3buviDQZWLE83AxVhvJJurgU/site/",
+      "solves": 44,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_03_Lamp",
+      "name": "Lamp",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/WXVRycanis3d1h5p63YZqYKs/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_04_Frog",
+      "name": "Frog",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/qDH9CkBHZKHY4vbKRBlXPrA7/site/",
+      "solves": 29,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_05_Ones",
+      "name": "Ones",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/ttMOxHYN1BPMG8oXYiIzIXB9/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_06_Bridges",
+      "name": "Bridges",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/gh2Yj6Ckrt4Lo_RojONuljuC/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_07_Pilots",
+      "name": "Pilots",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/lcU5m2RAICwNHsdzydb8JTQw/site/",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_08_Railway",
+      "name": "Railway",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/TJVrS_hRC8W5Q6ZBW6mETAIm/site/",
+      "solves": 37,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_09_Beads",
+      "name": "Beads",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/iiSZmNzhLW2p6YVBDu0gIf4G/site/",
+      "solves": 94,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_10_Divisor",
+      "name": "Divisor",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/hOwg83Xw_OnTpfQ9SroS0OJA/site/",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_11_Test",
+      "name": "Test",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Arkza0f7GKKb-m1YZJulnlMk/site/",
+      "solves": 253,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_12_Hamsters",
+      "name": "Hamsters",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/qQGtOc61vnHgCrs01ORC7iD1/site/",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_13_Blocks",
+      "name": "Blocks",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/4BL9eUWjrvT7ecMUJcmSuJI3/site/",
+      "solves": 17,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_14_Sheep",
+      "name": "Sheep",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/YjtAwdQrSiGcE_RLiEJpGiYE/site/",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "POI_10_15_Teleport",
+      "name": "Teleport",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/fKO3YZL0f_UM1nHQNDvw7mku/site/",
+      "solves": 25,
+      "tags": []
+    }
+  ]
+}

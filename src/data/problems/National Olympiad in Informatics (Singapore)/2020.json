@@ -1,0 +1,101 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "NOI_20_01_mountains",
+      "name": "Mountains",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_mountains",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_02_visitingsingapore",
+      "name": "Visiting Singapore",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_visitingsingapore",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_03_solarstorm",
+      "name": "Solar Storm",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_solarstorm",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_04_crypto",
+      "name": "Cryptography",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_crypto",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_05_fuelstation",
+      "name": "Fuel Station",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_fuelstation",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_06_relaymarathon",
+      "name": "Relay Marathon",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_relaymarathon",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_07_firefighting",
+      "name": "Fire Fighting",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_firefighting",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_08_labels",
+      "name": "Labels",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_labels",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_09_discharging",
+      "name": "Discharging",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_discharging",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_10_progression",
+      "name": "Progression",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_progression",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_11_arcade",
+      "name": "Arcade",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_arcade",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_20_12_aesthetic",
+      "name": "Aesthetic",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI20_aesthetic",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

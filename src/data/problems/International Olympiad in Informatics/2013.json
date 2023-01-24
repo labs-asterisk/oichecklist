@@ -1,0 +1,53 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "IOI_13_01_dreaming",
+      "name": "Dreaming",
+      "editorial": "https://github.com/MohamedAhmed04/Competitive-programming/blob/master/IOI/IOI%25202013-Dreaming.cpp",
+      "link": "https://oj.uz/problem/view/IOI13_dreaming",
+      "solves": 94,
+      "tags": []
+    },
+    {
+      "slug": "IOI_13_02_artclass",
+      "name": "Art Class",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IOI13_artclass",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "IOI_13_03_wombats",
+      "name": "Wombats",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-13-wombats.txt",
+      "link": "https://oj.uz/problem/view/IOI13_wombats",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "IOI_13_04_cave",
+      "name": "Cave",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-13-cave.txt",
+      "link": "https://oj.uz/problem/view/IOI13_cave",
+      "solves": 135,
+      "tags": []
+    },
+    {
+      "slug": "IOI_13_05_robots",
+      "name": "Robots",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-13-robots.txt",
+      "link": "https://oj.uz/problem/view/IOI13_robots",
+      "solves": 47,
+      "tags": []
+    },
+    {
+      "slug": "IOI_13_06_game",
+      "name": "Game",
+      "editorial": "http://blog.brucemerry.org.za/2013/07/",
+      "link": "https://oj.uz/problem/view/IOI13_game",
+      "solves": 6,
+      "tags": []
+    }
+  ]
+}

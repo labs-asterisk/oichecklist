@@ -1,0 +1,29 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "APIO_07_01_MOBILE2",
+      "name": "Mobile2",
+      "editorial": "https://github.com/cacophonix/SPOJ/blob/master/MOBILE2.cpp",
+      "link": "https://tlx.toki.id/problems/apio-2007/A",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_07_02_Backup",
+      "name": "Backup",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-07-Backup.txt",
+      "link": "https://tlx.toki.id/problems/apio-2007/B",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_07_03_Zoo",
+      "name": "Zoo",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-07-Zoo.txt",
+      "link": "https://tlx.toki.id/problems/apio-2007/C",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

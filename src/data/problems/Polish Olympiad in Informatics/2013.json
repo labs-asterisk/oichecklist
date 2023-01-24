@@ -1,0 +1,125 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "POI_13_01_Price",
+      "name": "Price",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/FHsx0TDoMNHN-XrWzXtUzzpi/site/",
+      "solves": 60,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_02_Bytecom",
+      "name": "Bytecom",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/i3cF1qQtiXwmwOc_5qRB0ufC/site/",
+      "solves": 57,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_03_Maze",
+      "name": "Maze",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/TE77UNYEUxsFcrRxYRPc99na/site/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_04_Colorful",
+      "name": "Colorful",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/SXtZ8jxPUjMD5cLWqCI1EZLT/site/",
+      "solves": 34,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_05_FindOne",
+      "name": "Find One",
+      "editorial": "",
+      "link": "",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_06_Laser",
+      "name": "Laser",
+      "editorial": "",
+      "link": "",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_07_Polarization",
+      "name": "Polarization",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/3bBT-3VuSu78UsxTQSwaJzVo/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_08_Tapestries",
+      "name": "Tapestries",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/CbSix1QVuALZY5e9SjMRJQFT/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_09_Multidrink",
+      "name": "Multidrink",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/GyDCbdIgFY5FsMa9iIsBl3hf/site/",
+      "solves": 100,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_10_Taxis",
+      "name": "Taxis",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/GRGzS6k4vSCE2YGY9yJQbYIH/site/",
+      "solves": 258,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_11_Takeout",
+      "name": "Takeout",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/CIkclFyMJTBHeEqMEVkkmRGb/site/",
+      "solves": 260,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_12_Inspector",
+      "name": "Inspector",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/BDZCUTwHNdv9gGw5pRznvR_u/site/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_13_Arch",
+      "name": "Arch",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/EVrckwW17xqSd7-gpgE-b8-r/site/",
+      "solves": 43,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_14_Watering",
+      "name": "Watering",
+      "editorial": "",
+      "link": "",
+      "solves": 26,
+      "tags": []
+    },
+    {
+      "slug": "POI_13_15_Seafaring",
+      "name": "Seafaring",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Nb7AGzbCrCTUomWBAtGXEgGJ/site/",
+      "solves": 49,
+      "tags": []
+    }
+  ]
+}

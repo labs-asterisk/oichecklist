@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "JOI_17_01_Foehn",
+      "name": "Foehn",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_foehn_phenomena",
+      "solves": 45,
+      "tags": []
+    },
+    {
+      "slug": "JOI_17_02_Semiexp",
+      "name": "Semiexp",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_semiexpress",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "JOI_17_03_Kingdom",
+      "name": "Kingdom",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_joioi",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "JOI_17_04_Soccer",
+      "name": "Soccer",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_soccer",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOI_17_05_Rope",
+      "name": "Rope",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_rope",
+      "solves": 3,
+      "tags": []
+    }
+  ]
+}

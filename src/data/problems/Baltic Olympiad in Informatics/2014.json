@@ -1,0 +1,53 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "Baltic_14_01_coprobber",
+      "name": "Coprobber",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-14-coprobber.txt",
+      "link": "https://oj.uz/problem/view/BOI14_coprobber",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_14_02_friends",
+      "name": "Friends",
+      "editorial": "https://github.com/SpeedOfMagic/CompetitiveProgramming/blob/master/Baltic/14-friends.cpp",
+      "link": "https://oj.uz/problem/view/BOI14_friends",
+      "solves": 37,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_14_03_sequence",
+      "name": "Sequence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-14-sequence.txt",
+      "link": "https://oj.uz/problem/view/BOI14_sequence",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_14_04_demarcation",
+      "name": "Demarcation",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2014_solutions",
+      "link": "https://oj.uz/problem/view/BOI14_demarcation",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_14_05_portals",
+      "name": "Portals",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/14-Portals.cpp",
+      "link": "https://oj.uz/problem/view/BOI14_portals",
+      "solves": 20,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_14_06_postmen",
+      "name": "Postmen",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-14-postmen.txt",
+      "link": "https://oj.uz/problem/view/BOI14_postmen",
+      "solves": 16,
+      "tags": []
+    }
+  ]
+}

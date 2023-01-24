@@ -1,0 +1,293 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "COCI_16_10_Prosjecni",
+      "name": "Prosjecni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_11_Zamjene",
+      "name": "Zamjene",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_12_Burza",
+      "name": "Burza",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_13_Imena",
+      "name": "Imena",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_14_Pohlepko",
+      "name": "Pohlepko",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_15_Kronican",
+      "name": "Kronican",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_16_Kvalitetni",
+      "name": "Kvalitetni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_17_Zoltan",
+      "name": "Zoltan",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_18_Meksikanac",
+      "name": "Meksikanac",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c3p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_19_Brid\u017e",
+      "name": "Brid\u017e",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_1_Tarifa",
+      "name": "Tarifa",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_20_Kartomat",
+      "name": "Kartomat",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_21_Kas",
+      "name": "Kas",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_22_Rekonstruiraj",
+      "name": "Rekonstruiraj",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_23_Rima",
+      "name": "Rima",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_24_Osmosmjerka",
+      "name": "Osmosmjerka",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c4p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_25_Tuna",
+      "name": "Tuna",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_26_Pareto",
+      "name": "Pareto",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_27_Unija",
+      "name": "Unija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_28_Ronald",
+      "name": "Ronald",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_29_Poklon",
+      "name": "Poklon",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_2_Jetpack",
+      "name": "Jetpack",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_30_Strelice",
+      "name": "Strelice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c5p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_31_H-indeks",
+      "name": "H-indeks",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_32_Telefoni",
+      "name": "Telefoni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_33_Turnir",
+      "name": "Turnir",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_34_SavrSen",
+      "name": "SavrSen",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_35_Sirni",
+      "name": "Sirni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_36_Gauss",
+      "name": "Gauss",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c6p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_3_Cezar",
+      "name": "Cezar",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_4_Mag",
+      "name": "Mag",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_5_Kralj",
+      "name": "Kralj",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_6_VjeStica",
+      "name": "VjeStica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c1p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_7_Go",
+      "name": "Go",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_8_Tavan",
+      "name": "Tavan",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_16_9_Nizin",
+      "name": "Nizin",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci16c2p3",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

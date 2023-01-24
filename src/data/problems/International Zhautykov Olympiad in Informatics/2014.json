@@ -1,0 +1,53 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "IZHO_14_01_Divide",
+      "name": "Divide",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_divide",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_14_02_Bank",
+      "name": "Bank",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_bank",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_14_03_Shymbulak",
+      "name": "Shymbulak",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_shymbulak",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_14_04_UFO",
+      "name": "UFO",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_ufo",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_14_05_Blocks",
+      "name": "Blocks",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_blocks",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_14_06_Marriage",
+      "name": "Marriage",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO14_marriage",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

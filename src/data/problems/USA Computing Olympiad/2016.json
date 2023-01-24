@@ -1,0 +1,101 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "USACO_16_01_MaxFlow",
+      "name": "Max Flow",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=576",
+      "solves": 158,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_02_262144",
+      "name": "262144",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=648",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_03_BCS",
+      "name": "BCS",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=649",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_04_Landscape",
+      "name": "Landscape",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=650",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_05_CardGame",
+      "name": "Card Game",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=577",
+      "solves": 95,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_06_Haybales",
+      "name": "Haybales",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=578",
+      "solves": 200,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_07_FortMoo",
+      "name": "Fort Moo",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=600",
+      "solves": 234,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_08_Mowing",
+      "name": "Mowing",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=601",
+      "solves": 30,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_09_LightsOut",
+      "name": "Lights Out",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=602",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_10_Balancing",
+      "name": "Balancing",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=624",
+      "solves": 119,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_11_FencedIn",
+      "name": "Fenced In",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=625",
+      "solves": 119,
+      "tags": []
+    },
+    {
+      "slug": "USACO_16_12_CBarn",
+      "name": "CBarn",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=626",
+      "solves": 65,
+      "tags": []
+    }
+  ]
+}

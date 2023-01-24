@@ -1,0 +1,53 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "IOI_14_01_rail",
+      "name": "Rail",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-14-rail.txt",
+      "link": "https://oj.uz/problem/view/IOI14_rail",
+      "solves": 17,
+      "tags": []
+    },
+    {
+      "slug": "IOI_14_02_wall",
+      "name": "Wall",
+      "editorial": "http://blog.brucemerry.org.za/2014/07/",
+      "link": "https://oj.uz/problem/view/IOI14_wall",
+      "solves": 82,
+      "tags": []
+    },
+    {
+      "slug": "IOI_14_03_game",
+      "name": "Game",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-14-game.txt",
+      "link": "https://oj.uz/problem/view/IOI14_game",
+      "solves": 71,
+      "tags": []
+    },
+    {
+      "slug": "IOI_14_04_gondola",
+      "name": "Gondola",
+      "editorial": "http://blog.brucemerry.org.za/2014/07/",
+      "link": "https://oj.uz/problem/view/IOI14_gondola",
+      "solves": 114,
+      "tags": []
+    },
+    {
+      "slug": "IOI_14_05_friend",
+      "name": "Friend",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-14-friend.txt",
+      "link": "https://oj.uz/problem/view/IOI14_friend",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "IOI_14_06_holiday",
+      "name": "Holiday",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-14-holiday.txt",
+      "link": "https://oj.uz/problem/view/IOI14_holiday",
+      "solves": 11,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "IZHO_16_01_Volunteers",
+      "name": "Volunteers",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/1-day.-contest-en.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_16_02_Liar",
+      "name": "Liar",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/1-day.-contest-en.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_16_03_Segments",
+      "name": "Segments",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/1-day.-contest-en.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_16_04_Bacteria",
+      "name": "Bacteria",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/2-day.-contest-3568-en.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_16_05_Checkers",
+      "name": "Checkers",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/2-day.-contest-3568-en.pdf",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_16_06_HamiltonCycle",
+      "name": "Hamilton Cycle",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/01/2-day.-contest-3568-en.pdf",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

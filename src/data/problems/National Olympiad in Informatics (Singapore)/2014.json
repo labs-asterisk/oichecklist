@@ -1,0 +1,37 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "NOI_14_01_orchard",
+      "name": "Orchard",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI14_orchard",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_14_02_sightseeing",
+      "name": "Sightseeing",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI14_sightseeing",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_14_03_cats",
+      "name": "Cats",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-14-cats.txt",
+      "link": "https://oj.uz/problem/view/NOI14_cats",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_14_04_obelisk",
+      "name": "Obelisk",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-14-obelisk.txt",
+      "link": "https://oj.uz/problem/view/NOI14_obelisk",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

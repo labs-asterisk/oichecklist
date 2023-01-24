@@ -1,0 +1,37 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "InfOCup_17_01_EasterEggs",
+      "name": "Easter Eggs",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup17_eastereggs",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_17_02_XORSum",
+      "name": "XOR Sum",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup17_xorsum",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_17_03_BinarySubsequences",
+      "name": "Binary Subsequences",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup17_binary",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "InfOCup_17_04_PermutationRecovery",
+      "name": "Permutation Recovery",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/info1cup17_permutation",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

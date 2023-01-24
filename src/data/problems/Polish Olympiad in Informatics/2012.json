@@ -1,0 +1,133 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "POI_12_01_Festival",
+      "name": "Festival",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/p9uJo01RR9ouMLLAYroFuQ-7/site/",
+      "solves": 19,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_02_Fibonacci",
+      "name": "Fibonacci",
+      "editorial": "",
+      "link": "",
+      "solves": 78,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_03_Auction",
+      "name": "Auction",
+      "editorial": "",
+      "link": "",
+      "solves": 28,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_04_Salaries",
+      "name": "Salaries",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/_qn633f6DVAHRkv0OX3LQaph/site/",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_05_Leveling",
+      "name": "Leveling",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/W54iZIwStF1TYWRxa1bdVPQo/site/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_06_Minimalist",
+      "name": "Minimalist",
+      "editorial": "",
+      "link": "",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_07_Warehouse",
+      "name": "Warehouse",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/70gcrAV-ccXlJa6gMBpOqV1u/site/",
+      "solves": 25,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_08_Prefixuffix",
+      "name": "Prefixuffix",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/DkPj-ES6glaEwxppbuaxbOO6/site/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_09_Letter",
+      "name": "Letter",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/7u_14yXL3mR3mO0seZLusF5U/site/",
+      "solves": 342,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_10_Distance",
+      "name": "Distance",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/Phel_x2Ny30OUh7z1RhCtzEG/site/",
+      "solves": 75,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_11_Rendezvous",
+      "name": "Rendezvous",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/MZTXfOVnJmac175TTH5Lr9Q3/site/",
+      "solves": 188,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_12_Well",
+      "name": "Well",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/S-cyTRH8ScRh-XfLPAsXCQ0e/site/",
+      "solves": 87,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_13_Tower",
+      "name": "Tower",
+      "editorial": "",
+      "link": "",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_14_Vouchers",
+      "name": "Vouchers",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/xfTByTABS18uZ1lmg4wQkVf2/site/",
+      "solves": 63,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_15_Cloakroom",
+      "name": "Cloakroom",
+      "editorial": "",
+      "link": "",
+      "solves": 28,
+      "tags": []
+    },
+    {
+      "slug": "POI_12_16_Horrible",
+      "name": "Horrible",
+      "editorial": "",
+      "link": "",
+      "solves": 10,
+      "tags": []
+    }
+  ]
+}

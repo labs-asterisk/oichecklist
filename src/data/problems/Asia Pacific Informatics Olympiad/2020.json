@@ -1,0 +1,29 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "APIO_20_01_walls",
+      "name": "Walls",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO20_paint",
+      "solves": 76,
+      "tags": []
+    },
+    {
+      "slug": "APIO_20_02_cities",
+      "name": "Cities",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO20_swap",
+      "solves": 73,
+      "tags": []
+    },
+    {
+      "slug": "APIO_20_03_fun",
+      "name": "Fun",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/APIO20_fun",
+      "solves": 19,
+      "tags": []
+    }
+  ]
+}

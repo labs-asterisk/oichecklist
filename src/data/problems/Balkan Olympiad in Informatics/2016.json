@@ -1,0 +1,53 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "Balkan_16_01_Conference",
+      "name": "Conference",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-16-Conference.txt",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_16_02_Hacker",
+      "name": "Hacker",
+      "editorial": "",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_16_03_PowerTowers",
+      "name": "Powertowers",
+      "editorial": "https://bytefreaks.net/cyprus-computer-society/tasks-balkan-olympiad-in-informatics-2016",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_16_04_Lefkaritika",
+      "name": "Lefkaritika",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2016",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_16_05_Cruise",
+      "name": "Cruise",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2016",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_16_06_Acrobat",
+      "name": "Acrobat",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2016",
+      "link": "https://www.hackerrank.com/contests/boi-2016/challenges",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

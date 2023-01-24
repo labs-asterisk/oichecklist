@@ -1,0 +1,53 @@
+{
+  "year": 2010,
+  "problems": [
+    {
+      "slug": "Baltic_10_01_Bears",
+      "name": "Bears",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-10-Bears.txt",
+      "link": "https://cses.fi/105/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_10_02_Lego",
+      "name": "Lego",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2010_solutions",
+      "link": "https://cses.fi/105/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_10_03_PCB",
+      "name": "PCB",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-10-PCB.txt",
+      "link": "https://cses.fi/105/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_10_04_Bins",
+      "name": "Bins",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-10-Bins.txt",
+      "link": "https://cses.fi/106/list/",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_10_05_Candies",
+      "name": "Candies",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-10-Candies.txt",
+      "link": "https://cses.fi/106/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_10_06_Mines",
+      "name": "Mines",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2010_solutions",
+      "link": "https://cses.fi/106/list/",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "JOI_14_01_Emblem",
+      "name": "Emblem",
+      "editorial": "",
+      "link": "https://joi2014ho.contest.atcoder.jp/tasks/joi2014ho1",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "JOI_14_02_Manju",
+      "name": "Manju",
+      "editorial": "",
+      "link": "https://joi2014ho.contest.atcoder.jp/tasks/joi2014ho2",
+      "solves": 12,
+      "tags": []
+    },
+    {
+      "slug": "JOI_14_03_Baumkuchen",
+      "name": "Baumkuchen",
+      "editorial": "",
+      "link": "https://joi2014ho.contest.atcoder.jp/tasks/joi2014ho3",
+      "solves": 11,
+      "tags": []
+    },
+    {
+      "slug": "JOI_14_04_Glider",
+      "name": "Glider",
+      "editorial": "",
+      "link": "https://joi2014ho.contest.atcoder.jp/tasks/joi2014ho4",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOI_14_05_Cutting",
+      "name": "Cutting",
+      "editorial": "",
+      "link": "https://joi2014ho.contest.atcoder.jp/tasks/joi2014ho5",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2010,
+  "problems": [
+    {
+      "slug": "CEOI_10_01_Alliances",
+      "name": "Alliances",
+      "editorial": "",
+      "link": "https://cses.fi/197/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_10_02_Rectangle",
+      "name": "Rectangle",
+      "editorial": "",
+      "link": "https://cses.fi/197/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_10_03_Bodyguards",
+      "name": "Bodyguards",
+      "editorial": "",
+      "link": "https://cses.fi/197/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_10_04_MP3",
+      "name": "MP3",
+      "editorial": "",
+      "link": "https://cses.fi/198/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_10_05_PIN",
+      "name": "PIN",
+      "editorial": "",
+      "link": "https://cses.fi/198/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_10_06_Tower",
+      "name": "Tower",
+      "editorial": "",
+      "link": "https://cses.fi/198/list/",
+      "solves": 9,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "APIO_13_01_Robots",
+      "name": "Robots",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-13-Robots.txt",
+      "link": "https://oj.uz/problem/view/APIO13_robots",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_13_02_Toll",
+      "name": "Toll",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/13-Toll.cpp",
+      "link": "https://oj.uz/problem/view/APIO13_toll",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "APIO_13_03_tasksauthor",
+      "name": "Tasksauthor",
+      "editorial": "",
+      "link": "https://dunjudge.me/analysis/problems/437/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

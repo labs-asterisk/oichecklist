@@ -1,0 +1,69 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "IOI_09_01_archery",
+      "name": "Archery",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2009",
+      "link": "https://contest.yandex.ru/ioi/contest/568/enter/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_02_hiring",
+      "name": "Hiring",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2009",
+      "link": "https://contest.yandex.ru/ioi/contest/568/enter/",
+      "solves": 30,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_03_poi",
+      "name": "Poi",
+      "editorial": "https://github.com/updown2/OI-Practice/blob/master/JOI/2018/Stove.cpp",
+      "link": "https://contest.yandex.ru/ioi/contest/568/enter/",
+      "solves": 261,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_04_raisins",
+      "name": "Raisins",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2009",
+      "link": "https://contest.yandex.ru/ioi/contest/568/enter/",
+      "solves": 202,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_05_garage",
+      "name": "Garage",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2009",
+      "link": "https://oj.uz/problem/view/IOI09_garage",
+      "solves": 273,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_06_mecho",
+      "name": "Mecho",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/IOI/09-Mecho.cpp",
+      "link": "https://oj.uz/problem/view/IOI09_mecho",
+      "solves": 58,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_07_regions",
+      "name": "Regions",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-09-regions.txt",
+      "link": "https://oj.uz/problem/view/IOI09_regions",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "IOI_09_08_salesman",
+      "name": "Salesman",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-09-salesman.txt",
+      "link": "https://oj.uz/problem/view/IOI09_salesman",
+      "solves": 22,
+      "tags": []
+    }
+  ]
+}

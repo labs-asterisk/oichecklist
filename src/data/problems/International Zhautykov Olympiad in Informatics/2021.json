@@ -1,0 +1,53 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "IZHO_21_01_Cities",
+      "name": "Cities",
+      "editorial": "https://drive.google.com/file/d/1cY4keiNGtGTKN3ddEv3ga1SFkpSQhqqg/view",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311359/problem/A",
+      "solves": 71,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_21_02_Potatoes",
+      "name": "Potatoes",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311359/problem/B",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_21_03_Chips",
+      "name": "Chips",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311359/problem/C",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_21_04_Unstable",
+      "name": "Unstable",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311770/problem/A",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_21_05_Rooms",
+      "name": "Rooms",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311770/problem/B",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_21_06_Dendrology",
+      "name": "Dendrology",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/311770/problem/C",
+      "solves": 1,
+      "tags": []
+    }
+  ]
+}

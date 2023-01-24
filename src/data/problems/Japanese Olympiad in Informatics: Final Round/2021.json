@@ -1,0 +1,45 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "JOI_21_01_GrowingVegetables4",
+      "name": "Growing Vegetables 4",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ho_t1",
+      "solves": 98,
+      "tags": []
+    },
+    {
+      "slug": "JOI_21_02_Snowball",
+      "name": "Snowball",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ho_t2",
+      "solves": 78,
+      "tags": []
+    },
+    {
+      "slug": "JOI_21_03_GroupPhoto",
+      "name": "Group Photo",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ho_t3",
+      "solves": 53,
+      "tags": []
+    },
+    {
+      "slug": "JOI_21_04_Robot",
+      "name": "Robot",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ho_t4",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "JOI_21_05_Dungeon3",
+      "name": "Dungeon 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_ho_t5",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

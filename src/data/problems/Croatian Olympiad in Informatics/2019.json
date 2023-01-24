@@ -1,0 +1,37 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "COI_19_01_izlet",
+      "name": "Izlet",
+      "editorial": "https://codeforces.com/blog/entry/66506",
+      "link": "https://oj.uz/problem/view/COI19_izlet",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_19_02_ljetopica",
+      "name": "Ljetopica",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-19-ljetopica.txt",
+      "link": "https://oj.uz/problem/view/COI19_ljetopica",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_19_03_segway",
+      "name": "Segway",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-19-segway.txt",
+      "link": "https://oj.uz/problem/view/COI19_segway",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_19_04_tenis",
+      "name": "Tenis",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/COI/COI-19-tenis.txt",
+      "link": "https://oj.uz/problem/view/COI19_tenis",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

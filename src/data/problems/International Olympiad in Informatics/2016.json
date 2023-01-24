@@ -1,0 +1,72 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "IOI_16_01_molecules",
+      "name": "Molecules",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
+      "link": "https://oj.uz/problem/view/IOI16_molecules",
+      "solves": 159,
+      "tags": [
+        "Two Pointers",
+        "Greedy"
+      ]
+    },
+    {
+      "slug": "IOI_16_02_railroad",
+      "name": "Railroad",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
+      "link": "https://oj.uz/problem/view/IOI16_railroad",
+      "solves": 4,
+      "tags": [
+        "Graph",
+        "Minimum Spanning Tree"
+      ]
+    },
+    {
+      "slug": "IOI_16_03_shortcut",
+      "name": "Shortcut",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2016",
+      "link": "https://oj.uz/problem/view/IOI16_shortcut",
+      "solves": 1,
+      "tags": [
+        "Graph",
+        "Data Structures",
+        "Math"
+      ]
+    },
+    {
+      "slug": "IOI_16_04_paint",
+      "name": "Paint",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-paint.txt",
+      "link": "https://oj.uz/problem/view/IOI16_paint",
+      "solves": 91,
+      "tags": [
+        "Dynamic Programming"
+      ]
+    },
+    {
+      "slug": "IOI_16_05_messy",
+      "name": "Messy",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-messy.txt",
+      "link": "https://oj.uz/problem/view/IOI16_messy",
+      "solves": 62,
+      "tags": [
+        "Ad-hoc",
+        "Interactive",
+        "Divide and Conquer",
+        "Bitwise"
+      ]
+    },
+    {
+      "slug": "IOI_16_06_aliens",
+      "name": "Aliens",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-16-aliens.txt",
+      "link": "https://oj.uz/problem/view/IOI16_aliens",
+      "solves": 1,
+      "tags": [
+        "Dynamic Programming"
+      ]
+    }
+  ]
+}

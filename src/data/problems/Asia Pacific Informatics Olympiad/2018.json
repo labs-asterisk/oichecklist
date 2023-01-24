@@ -1,0 +1,41 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "APIO_18_01_newhome",
+      "name": "Newhome",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-18-newhome.txt",
+      "link": "https://oj.uz/problem/view/APIO18_new_home",
+      "solves": 7,
+      "tags": [
+        "Segment Tree",
+        "Divide and Conquer",
+        "Data Structures"
+      ]
+    },
+    {
+      "slug": "APIO_18_02_circleselection",
+      "name": "Circleselection",
+      "editorial": "https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/CircleSelection2018.cpp",
+      "link": "https://oj.uz/problem/view/APIO18_circle_selection",
+      "solves": 1,
+      "tags": [
+        "Geometry",
+        "Sweep Line",
+        "Greedy"
+      ]
+    },
+    {
+      "slug": "APIO_18_03_duathlon",
+      "name": "Duathlon",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-18-duathlon.txt",
+      "link": "https://oj.uz/problem/view/APIO18_duathlon",
+      "solves": 8,
+      "tags": [
+        "Graph",
+        "Centroid",
+        "Strongly Connected Components"
+      ]
+    }
+  ]
+}

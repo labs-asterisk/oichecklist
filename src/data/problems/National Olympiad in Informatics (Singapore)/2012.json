@@ -1,0 +1,37 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "NOI_12_01_modsum",
+      "name": "Modsum",
+      "editorial": "https://github.com/win11905/submission/blob/master/NOI/12/modsum.cpp",
+      "link": "https://oj.uz/problem/view/NOI12_modsum",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_12_02_pancake",
+      "name": "Pancake",
+      "editorial": "https://www.comp.nus.edu.sg/~noi/2012/2012_soln.pdf",
+      "link": "https://oj.uz/problem/view/NOI12_pancake",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_12_03_forensic",
+      "name": "Forensic",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2011.pptx",
+      "link": "https://oj.uz/problem/view/NOI12_forensic",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_12_04_walking",
+      "name": "Walking",
+      "editorial": "https://www.comp.nus.edu.sg/~noi/2012/2012_soln.pdf",
+      "link": "https://oj.uz/problem/view/NOI12_walking",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "Baltic_18_01_LovePolygon",
+      "name": "Love polygon",
+      "editorial": "https://github.com/updown2/OI-Practice/blob/master/BOI/2018/Love%2520Polygon.txt",
+      "link": "https://cses.fi/204/list/",
+      "solves": 54,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_18_02_MartianDNA",
+      "name": "Martian dna",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-18-MartianDNA.txt",
+      "link": "https://cses.fi/204/list/",
+      "solves": 88,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_18_03_Worm",
+      "name": "Worries",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2018_solutions",
+      "link": "https://cses.fi/204/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_18_04_Alternating",
+      "name": "Current",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2018_solutions",
+      "link": "https://cses.fi/205/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_18_05_Genetics",
+      "name": "Genetics",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Baltic/official/boi2018_solutions",
+      "link": "https://cses.fi/205/list/",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_18_06_Paths",
+      "name": "Paths",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-18-Paths.txt",
+      "link": "https://cses.fi/205/list/",
+      "solves": 66,
+      "tags": []
+    }
+  ]
+}

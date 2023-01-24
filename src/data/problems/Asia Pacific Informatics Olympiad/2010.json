@@ -1,0 +1,29 @@
+{
+  "year": 2010,
+  "problems": [
+    {
+      "slug": "APIO_10_01_Commando",
+      "name": "Commando",
+      "editorial": "https://github.com/timpostuvan/CompetitiveProgramming/blob/master/Olympiad/APIO/Commando2010.cpp",
+      "link": "https://dmoj.ca/problem/apio10p1",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "APIO_10_02_Patrol",
+      "name": "Patrol",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-10-Patrol.txt",
+      "link": "https://dmoj.ca/problem/apio10p2",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "APIO_10_03_Signaling",
+      "name": "Signaling",
+      "editorial": "https://github.com/shanto86/Training/blob/master/Dmoj/APIO%252010-Signaling.cpp",
+      "link": "https://dmoj.ca/problem/apio10p3",
+      "solves": 1,
+      "tags": []
+    }
+  ]
+}

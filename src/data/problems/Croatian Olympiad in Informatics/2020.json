@@ -1,0 +1,37 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "COI_20_01_paint",
+      "name": "Paint",
+      "editorial": "https://hsin.hr/coci/archive/2019_2020/",
+      "link": "https://oj.uz/problem/view/COI20_paint",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_20_02_pastiri",
+      "name": "Pastiri",
+      "editorial": "https://hsin.hr/coci/archive/2019_2020/",
+      "link": "https://oj.uz/problem/view/COI20_pastiri",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_20_03_semafor",
+      "name": "Semafor",
+      "editorial": "https://hsin.hr/coci/archive/2019_2020/",
+      "link": "https://oj.uz/problem/view/COI20_semafor",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COI_20_04_zagrade",
+      "name": "Zagrade",
+      "editorial": "https://hsin.hr/coci/archive/2019_2020/",
+      "link": "https://oj.uz/problem/view/COI20_zagrade",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

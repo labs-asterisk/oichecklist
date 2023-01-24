@@ -1,0 +1,29 @@
+{
+  "year": 2014,
+  "problems": [
+    {
+      "slug": "APIO_14_01_Palindrome",
+      "name": "Palindrome",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-14-Palindrome.txt",
+      "link": "https://oj.uz/problem/view/APIO14_palindrome",
+      "solves": 10,
+      "tags": []
+    },
+    {
+      "slug": "APIO_14_02_Sequence",
+      "name": "Sequence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/APIO/APIO-14-Sequence.txt",
+      "link": "https://oj.uz/problem/view/APIO14_sequence",
+      "solves": 33,
+      "tags": []
+    },
+    {
+      "slug": "APIO_14_03_Beads",
+      "name": "Beads",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/APIO/14-Beads.cpp",
+      "link": "https://oj.uz/problem/view/APIO14_beads",
+      "solves": 25,
+      "tags": []
+    }
+  ]
+}

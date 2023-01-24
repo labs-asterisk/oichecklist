@@ -1,0 +1,69 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "NOI_18_01_snail",
+      "name": "Snail",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI18_snail",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_02_knapsack",
+      "name": "Knapsack",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI18_knapsack",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_03_island",
+      "name": "Island",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/NOI18_island",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_04_collectmushrooms",
+      "name": "Collectmushrooms",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI18_collectmushrooms",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_05_journey",
+      "name": "Journey",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI18_journey",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_06_lightningrod",
+      "name": "Lightning rod",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI18_lightningrod",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_07_citymapping",
+      "name": "City mapping",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-18-citymapping.txt",
+      "link": "https://oj.uz/problem/view/NOI18_citymapping",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_18_08_safety",
+      "name": "Safety",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI18_safety",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

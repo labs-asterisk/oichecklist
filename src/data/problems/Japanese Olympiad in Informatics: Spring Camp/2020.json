@@ -1,0 +1,101 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "JOISC_20_01_Building4",
+      "name": "Building 4",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_building4",
+      "solves": 430,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_02_CapitalCity",
+      "name": "Capital City",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_capital_city",
+      "solves": 203,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_03_Dango",
+      "name": "Dango",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_dango2",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_04_Treatment",
+      "name": "Treatment",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_treatment",
+      "solves": 43,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_05_HamburgSteak",
+      "name": "Hamburg Steak",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_hamburg",
+      "solves": 75,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_06_Sweeping",
+      "name": "Sweeping",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_sweeping",
+      "solves": 23,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_07_Chameleon",
+      "name": "Chameleon",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_chameleon",
+      "solves": 16,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_08_Joitter",
+      "name": "Joitter",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_joitter2",
+      "solves": 61,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_09_Ruins3",
+      "name": "Ruins 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_ruins3",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_10_Constellation3",
+      "name": "Constellation 3",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_constellation3",
+      "solves": 133,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_11_Harvest",
+      "name": "Harvest",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_harvest",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_20_12_StrayCat",
+      "name": "Stray Cat",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI20_stray",
+      "solves": 52,
+      "tags": []
+    }
+  ]
+}

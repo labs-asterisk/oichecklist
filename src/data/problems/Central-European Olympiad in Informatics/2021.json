@@ -1,0 +1,53 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "CEOI_21_01_Diversity",
+      "name": "Diversity",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI21_diversity",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_21_02_Ltriominoes",
+      "name": "L-triominoes",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI21_ltriominoes",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_21_03_newspapers",
+      "name": "Newspapers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI21_newspapers",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_21_04_stones",
+      "name": "Stones",
+      "editorial": "",
+      "link": "",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_21_05_tortoise",
+      "name": "Tortoise",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI21_tortoise",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_21_06_wells",
+      "name": "Wells",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/CEOI21_wells",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

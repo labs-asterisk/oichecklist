@@ -1,0 +1,53 @@
+{
+  "year": 2005,
+  "problems": [
+    {
+      "slug": "IOI_05_01_garden",
+      "name": "Garden",
+      "editorial": "https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 39,
+      "tags": []
+    },
+    {
+      "slug": "IOI_05_02_mean",
+      "name": "Mean",
+      "editorial": "https://www.oi.edu.pl/old/ioi/downloads/ioi2005-tasks-and-solutions-a5.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 101,
+      "tags": []
+    },
+    {
+      "slug": "IOI_05_03_mountains",
+      "name": "Mountains",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-05-mountains.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "IOI_05_04_birthday",
+      "name": "Birthday",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-05-birthday.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 39,
+      "tags": []
+    },
+    {
+      "slug": "IOI_05_05_game",
+      "name": "Game",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-05-game.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 79,
+      "tags": []
+    },
+    {
+      "slug": "IOI_05_06_rivers",
+      "name": "Rivers",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-05-rivers.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/566/enter/",
+      "solves": 27,
+      "tags": []
+    }
+  ]
+}

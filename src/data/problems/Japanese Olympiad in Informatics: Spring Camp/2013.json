@@ -1,0 +1,109 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "JOISC_13_01_BusTour",
+      "name": "Bus Tour",
+      "editorial": "",
+      "link": "https://joisc2013-day1.contest.atcoder.jp/tasks/joisc2013_bustour",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_02_Mountain",
+      "name": "Mountain",
+      "editorial": "",
+      "link": "https://joisc2013-day3.contest.atcoder.jp/tasks/joisc2013_mountain",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_03_Messenger",
+      "name": "Messenger",
+      "editorial": "",
+      "link": "https://joisc2013-day4.contest.atcoder.jp/tasks/joisc2013_messenger",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_04_Presents",
+      "name": "Presents",
+      "editorial": "",
+      "link": "https://joisc2013-day4.contest.atcoder.jp/tasks/joisc2013_presents",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_05_Spaceships",
+      "name": "Spaceships",
+      "editorial": "",
+      "link": "https://joisc2013-day4.contest.atcoder.jp/tasks/joisc2013_spaceships",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_06_Collecting",
+      "name": "Collecting",
+      "editorial": "",
+      "link": "https://joisc2013-day1.contest.atcoder.jp/tasks/joisc2013_collecting",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_07_Jamming",
+      "name": "Jamming",
+      "editorial": "",
+      "link": "https://joisc2013-day1.contest.atcoder.jp/tasks/joisc2013_communication",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_08_Poster",
+      "name": "Poster",
+      "editorial": "",
+      "link": "https://joisc2013-day1.contest.atcoder.jp/tasks/joisc2013_joi_poster",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_09_Construct",
+      "name": "Construct",
+      "editorial": "",
+      "link": "https://joisc2013-day2.contest.atcoder.jp/tasks/joisc2013_construction",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_10_Mascots",
+      "name": "Mascots",
+      "editorial": "",
+      "link": "https://joisc2013-day2.contest.atcoder.jp/tasks/joisc2013_mascots",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_11_Spy",
+      "name": "Spy",
+      "editorial": "",
+      "link": "https://joisc2013-day2.contest.atcoder.jp/tasks/joisc2013_spy",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_12_Cake",
+      "name": "Cake",
+      "editorial": "",
+      "link": "https://joisc2013-day3.contest.atcoder.jp/tasks/joisc2013_cake",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_13_13_Koala",
+      "name": "Koala",
+      "editorial": "",
+      "link": "https://joisc2013-day3.contest.atcoder.jp/tasks/joisc2013_koala",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

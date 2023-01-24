@@ -1,0 +1,73 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "IOI_18_01_combo",
+      "name": "Combo",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Combo.txt",
+      "link": "https://oj.uz/problem/view/IOI18_combo",
+      "solves": 187,
+      "tags": [
+        "Ad-hoc"
+      ]
+    },
+    {
+      "slug": "IOI_18_02_seats",
+      "name": "Seats",
+      "editorial": "https://github.com/nikolapesic2802/Programming-Practice/blob/master/Seats/IOI%25202018%2520Seats.txt",
+      "link": "https://oj.uz/problem/view/IOI18_seats",
+      "solves": 1,
+      "tags": [
+        "Segment Tree",
+        "Implementation"
+      ]
+    },
+    {
+      "slug": "IOI_18_03_werewolf",
+      "name": "Werewolf",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Werewolf.txt",
+      "link": "https://oj.uz/problem/view/IOI18_werewolf",
+      "solves": 17,
+      "tags": [
+        "Graph",
+        "Disjoint Set Union",
+        "Fenwick Tree"
+      ]
+    },
+    {
+      "slug": "IOI_18_04_doll",
+      "name": "Doll",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-Doll.txt",
+      "link": "https://oj.uz/problem/view/IOI18_doll",
+      "solves": 36,
+      "tags": [
+        "Segment Tree",
+        "Constructive",
+        "Simulation"
+      ]
+    },
+    {
+      "slug": "IOI_18_05_highway",
+      "name": "Highway",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2018",
+      "link": "https://oj.uz/problem/view/IOI18_highway",
+      "solves": 1,
+      "tags": [
+        "Graph",
+        "Dijkstra",
+        "Binary Search",
+        "Implementation"
+      ]
+    },
+    {
+      "slug": "IOI_18_06_meetings",
+      "name": "Meetings",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-18-meetings.txt",
+      "link": "https://oj.uz/problem/view/IOI18_meetings",
+      "solves": 0,
+      "tags": [
+        "Segment Tree"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "IZHO_12_01_Train",
+      "name": "Train",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_train",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_02_Beauty",
+      "name": "Beauty",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_beauty",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_03_XOR",
+      "name": "XOR",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_xor",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_04_Biochips",
+      "name": "Biochips",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_biochips",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_05_Ants",
+      "name": "Ants",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_ants",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_06_Apple",
+      "name": "Apple",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_apple",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_07_Route",
+      "name": "Route",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO12_route",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_12_08_Substrings",
+      "name": "Substrings",
+      "editorial": "",
+      "link": "https://izho.kz/wp-content/uploads/2018/12/day2_eng.pdf",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

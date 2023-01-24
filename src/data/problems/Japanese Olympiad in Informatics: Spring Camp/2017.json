@@ -1,0 +1,101 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "JOISC_17_01_Cultivation",
+      "name": "Cultivation",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_cultivation",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_02_Abduction2",
+      "name": "Abduction 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_abduction2",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_03_City",
+      "name": "City",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_city",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_04_Dragon2",
+      "name": "Dragon 2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_dragon2",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_05_PortFacility",
+      "name": "Port Facility",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_port_facility",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_06_Sparklers",
+      "name": "Sparklers",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_sparklers",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_07_Tickets",
+      "name": "Tickets",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_arranging_tickets",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_08_Device",
+      "name": "Device",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_broken_device",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_09_Railway",
+      "name": "Railway",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_railway_trip",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_10_Coach",
+      "name": "Coach",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_coach",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_11_Mansion",
+      "name": "Mansion",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_long_mansion",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "JOISC_17_12_Park",
+      "name": "Park",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI17_park",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

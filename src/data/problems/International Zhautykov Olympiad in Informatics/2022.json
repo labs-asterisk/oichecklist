@@ -1,0 +1,53 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "IZHO_22_01_Legend",
+      "name": "Legend",
+      "editorial": "https://drive.google.com/file/d/16R3PFM7c8P304L4EId-W7FOR4bcQMqPM/view",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369641/problem/A",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_22_02_Zhylanio",
+      "name": "Zhylan.io",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369641/problem/B",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_22_03_Mansur",
+      "name": "Mansur",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369641/problem/C",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_22_04_Kaskelen",
+      "name": "Kaskelen",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369643/problem/A",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_22_05_Challenges",
+      "name": "Challenges",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369643/problem/B",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_22_06_Green",
+      "name": "Green",
+      "editorial": "",
+      "link": "https://codeforces.com/group/Uo1lq8ZyWf/contest/369643/problem/C",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

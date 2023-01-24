@@ -1,0 +1,53 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "Baltic_09_01_Beetles",
+      "name": "Beetles",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-09-Beetles.txt",
+      "link": "https://cses.fi/107/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_09_02_Candy",
+      "name": "Candy",
+      "editorial": "https://github.com/Szawinis/CompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic09-candy.cpp",
+      "link": "https://cses.fi/107/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_09_03_Subway",
+      "name": "Subway",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-09-Subway.txt",
+      "link": "https://cses.fi/107/list/",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_09_04_Rectangle",
+      "name": "Rectangle",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-09-Rectangle.txt",
+      "link": "https://cses.fi/108/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_09_05_Triangulate",
+      "name": "Triangulate",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-09-Triangulate.txt",
+      "link": "https://cses.fi/108/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_09_06_Monument",
+      "name": "Monument",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-09-Monument.txt",
+      "link": "https://cses.fi/108/list/",
+      "solves": 3,
+      "tags": []
+    }
+  ]
+}

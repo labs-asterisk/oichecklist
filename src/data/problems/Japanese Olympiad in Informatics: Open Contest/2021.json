@@ -1,0 +1,29 @@
+{
+  "year": 2021,
+  "problems": [
+    {
+      "slug": "JOIOC_21_01_Crossing",
+      "name": "Crossing",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_crossing",
+      "solves": 88,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_21_02_Financial",
+      "name": "Financial",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_financial",
+      "solves": 82,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_21_03_Monster",
+      "name": "Monster",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI21_monster",
+      "solves": 13,
+      "tags": []
+    }
+  ]
+}

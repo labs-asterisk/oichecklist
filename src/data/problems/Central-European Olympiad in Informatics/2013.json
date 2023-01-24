@@ -1,0 +1,53 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "CEOI_13_01_Treasure",
+      "name": "Treasure",
+      "editorial": "",
+      "link": "https://cses.fi/168/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_13_02_Tram",
+      "name": "Tram",
+      "editorial": "",
+      "link": "https://cses.fi/168/list/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_13_03_Splot",
+      "name": "Splot",
+      "editorial": "",
+      "link": "https://cses.fi/168/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_13_04_Board",
+      "name": "Board",
+      "editorial": "",
+      "link": "https://cses.fi/169/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_13_05_Adriatic",
+      "name": "Adriatic",
+      "editorial": "",
+      "link": "https://cses.fi/169/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_13_06_Watering",
+      "name": "Watering",
+      "editorial": "",
+      "link": "https://cses.fi/169/list/",
+      "solves": 2,
+      "tags": []
+    }
+  ]
+}

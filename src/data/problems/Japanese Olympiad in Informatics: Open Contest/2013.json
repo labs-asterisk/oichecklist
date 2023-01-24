@@ -1,0 +1,29 @@
+{
+  "year": 2013,
+  "problems": [
+    {
+      "slug": "JOIOC_13_01_Disparity",
+      "name": "Disparity",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI13_disparity",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_13_02_Sync",
+      "name": "Sync",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI13_synchronization",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "JOIOC_13_03_Watching",
+      "name": "Watching",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI13_watching",
+      "solves": 46,
+      "tags": []
+    }
+  ]
+}

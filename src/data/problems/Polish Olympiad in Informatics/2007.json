@@ -1,0 +1,117 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "POI_07_01_Tourist",
+      "name": "Tourist",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/_L_YGzT5VYJO9zHTfVRwPjwh/site/",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_02_Pipelines",
+      "name": "Pipelines",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/zWn2E-v-nn-bozeXQrykmCgD/site/",
+      "solves": 18,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_03_Weights",
+      "name": "Weights",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/y7tXjqVq0gPZjc8kPrscs2CJ/site/",
+      "solves": 22,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_04_Driving",
+      "name": "Driving",
+      "editorial": "",
+      "link": "",
+      "solves": 3,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_05_Blocks",
+      "name": "Blocks",
+      "editorial": "",
+      "link": "",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_06_Quaternary",
+      "name": "Quaternary",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/5UgslCU-C5vsermqgJGm_C5A/site/",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_07_Offices",
+      "name": "Offices",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/G-ZVHDa7y3xWk2PQM27uNq3n/site/",
+      "solves": 145,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_08_Trees",
+      "name": "Trees",
+      "editorial": "",
+      "link": "",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_09_Symmetry",
+      "name": "Symmetry",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/ETArorvqQVqRUJRa4kx02f8D/site/",
+      "solves": 167,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_10_Queries",
+      "name": "Queries",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/MVjuhH4JZu17rusHweyEdyJx/site/",
+      "solves": 82,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_11_TheFlood",
+      "name": "The Flood",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/VutzcR1iPvGuYRGZgvNksmV1/site/",
+      "solves": 14,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_12_Rock",
+      "name": "Rock",
+      "editorial": "",
+      "link": "",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_13_Megalopolis",
+      "name": "Megalopolis",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/big2NUEzhdCqgGj0wGBjbw14/site/",
+      "solves": 32,
+      "tags": []
+    },
+    {
+      "slug": "POI_07_14_Tetris",
+      "name": "Tetris",
+      "editorial": "",
+      "link": "https://szkopul.edu.pl/problemset/problem/U6ajLqOdhbPOfK02zqN8MmZf/site/",
+      "solves": 19,
+      "tags": []
+    }
+  ]
+}

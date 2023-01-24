@@ -1,0 +1,53 @@
+{
+  "year": 2003,
+  "problems": [
+    {
+      "slug": "IOI_03_01_maintain",
+      "name": "Maintain",
+      "editorial": "https://github.com/zoooma13/Competitive-Programming/blob/master/trail_maintenance.cpp",
+      "link": "https://contest.yandex.ru/ioi/contest/558/enter/",
+      "solves": 74,
+      "tags": []
+    },
+    {
+      "slug": "IOI_03_02_code",
+      "name": "Code",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-03-code.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/558/problems/B/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "IOI_03_03_reverse",
+      "name": "Reverse",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2003",
+      "link": "https://contest.yandex.ru/ioi/contest/558/enter/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "IOI_03_04_guess",
+      "name": "Guess",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-03-guess.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/558/enter/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_03_05_robots",
+      "name": "Robots",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-03-robots.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/558/enter/",
+      "solves": 7,
+      "tags": []
+    },
+    {
+      "slug": "IOI_03_06_boundary",
+      "name": "Boundary",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2003",
+      "link": "https://contest.yandex.ru/ioi/contest/558/enter/",
+      "solves": 8,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2009,
+  "problems": [
+    {
+      "slug": "CEOI_09_01_Boxes",
+      "name": "Boxes",
+      "editorial": "",
+      "link": "https://cses.fi/179/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_09_02_Harbingers",
+      "name": "Harbingers",
+      "editorial": "",
+      "link": "https://cses.fi/179/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_09_03_Photo",
+      "name": "Photo",
+      "editorial": "",
+      "link": "https://cses.fi/179/list/",
+      "solves": 5,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_09_04_Logs",
+      "name": "Logs",
+      "editorial": "",
+      "link": "https://cses.fi/180/list/",
+      "solves": 13,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_09_05_Sorting",
+      "name": "Sorting",
+      "editorial": "",
+      "link": "https://cses.fi/180/list/",
+      "solves": 2,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_09_06_Tri",
+      "name": "Tri",
+      "editorial": "",
+      "link": "https://cses.fi/180/list/",
+      "solves": 1,
+      "tags": []
+    }
+  ]
+}

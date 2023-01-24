@@ -1,0 +1,53 @@
+{
+  "year": 2006,
+  "problems": [
+    {
+      "slug": "IOI_06_01_writing",
+      "name": "Writing",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_writing_sol.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/A/",
+      "solves": 203,
+      "tags": []
+    },
+    {
+      "slug": "IOI_06_02_pyramid",
+      "name": "Pyramid",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-06-pyramid.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/B/",
+      "solves": 46,
+      "tags": []
+    },
+    {
+      "slug": "IOI_06_03_forbidden",
+      "name": "Forbidden",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_forbidden_sol.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/C/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_06_04_mexico",
+      "name": "Mexico",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_mexico_sol.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/D/",
+      "solves": 79,
+      "tags": []
+    },
+    {
+      "slug": "IOI_06_05_points",
+      "name": "Points",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-06-points.txt",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/E/",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "IOI_06_06_blackbox",
+      "name": "Blackbox",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2006/ioi06_blackbox_sol.pdf",
+      "link": "https://contest.yandex.ru/ioi/contest/562/problems/F/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

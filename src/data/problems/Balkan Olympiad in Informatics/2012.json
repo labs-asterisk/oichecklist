@@ -1,0 +1,53 @@
+{
+  "year": 2012,
+  "problems": [
+    {
+      "slug": "Balkan_12_01_BOI",
+      "name": "Boi",
+      "editorial": "",
+      "link": "https://www.acmicpc.net/problem/5249",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_12_02_ShortestPaths",
+      "name": "Shortest paths",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-12-ShortestPaths.txt",
+      "link": "https://www.acmicpc.net/problem/5250",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_12_03_Spiral",
+      "name": "Spiral",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/Balkan/official/2012",
+      "link": "https://www.acmicpc.net/problem/5251",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_12_04_BestTeams",
+      "name": "Best teams",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-12-BestTeams.txt",
+      "link": "https://www.acmicpc.net/problem/5252",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_12_05_Fan",
+      "name": "Fan",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-12-Fan_Groups.txt",
+      "link": "https://www.acmicpc.net/problem/5253",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "Balkan_12_06_balls",
+      "name": "Balls",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Balkan/Balkan-12-balls.txt",
+      "link": "https://www.acmicpc.net/problem/5254",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

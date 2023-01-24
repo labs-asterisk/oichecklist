@@ -1,0 +1,53 @@
+{
+  "year": 2005,
+  "problems": [
+    {
+      "slug": "CEOI_05_01_Service",
+      "name": "Service",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2005",
+      "link": "https://cses.fi/191/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_05_02_Depot",
+      "name": "Depot",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-05-Depot.txt",
+      "link": "https://cses.fi/191/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_05_03_keys",
+      "name": "Keys",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-05-keys.txt",
+      "link": "https://cses.fi/191/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_05_04_Fence",
+      "name": "Fence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-05-Fence.txt",
+      "link": "https://cses.fi/192/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_05_05_Net",
+      "name": "Net",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-05-Net.txt",
+      "link": "https://cses.fi/192/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_05_06_Ticket",
+      "name": "Ticket",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-05-Ticket.txt",
+      "link": "https://cses.fi/192/list/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

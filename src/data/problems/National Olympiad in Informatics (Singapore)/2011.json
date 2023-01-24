@@ -1,0 +1,45 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "NOI_11_01_change",
+      "name": "Change",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2011.pptx",
+      "link": "https://dunjudge.me/analysis/problems/18/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_11_02_paint",
+      "name": "Paint",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2011.pptx",
+      "link": "https://dunjudge.me/analysis/problems/215/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_11_03_tour",
+      "name": "Tour",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-11-tour.txt",
+      "link": "https://dunjudge.me/analysis/problems/28/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_11_04_tutor",
+      "name": "Tutor",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2011.pptx",
+      "link": "https://dunjudge.me/analysis/problems/26/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_11_05_sequence",
+      "name": "Sequence",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official/2011.pptx",
+      "link": "https://dunjudge.me/analysis/problems/27/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

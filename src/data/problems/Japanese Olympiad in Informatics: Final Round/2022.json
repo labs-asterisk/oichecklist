@@ -1,0 +1,45 @@
+{
+  "year": 2022,
+  "problems": [
+    {
+      "slug": "JOI_22_01_Intercastellar",
+      "name": "Intercastellar",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_ho_t1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOI_22_02_SelfStudy",
+      "name": "SelfStudy",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_ho_t2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOI_22_03_WinElection",
+      "name": "WinElection",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_ho_t3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOI_22_04_Railway2",
+      "name": "Railway2",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_ho_t4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "JOI_22_05_Sandcastle2",
+      "name": "Sandcastle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/JOI22_ho_t5",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "year": 2016,
+  "problems": [
+    {
+      "slug": "Baltic_16_01_bosses",
+      "name": "Bosses",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-16-bosses.txt",
+      "link": "https://oj.uz/problem/view/BOI16_bosses",
+      "solves": 30,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_16_02_park",
+      "name": "Park",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-16-park.txt",
+      "link": "https://oj.uz/problem/view/BOI16_park",
+      "solves": 15,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_16_03_spiral",
+      "name": "Spiral",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/official/boi2016_solutions",
+      "link": "https://oj.uz/problem/view/BOI16_spiral",
+      "solves": 1,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_16_04_cities",
+      "name": "Cities",
+      "editorial": "https://github.com/tmwilliamlin168/CompetitiveProgramming/blob/master/BtOI/16-Cities.cpp",
+      "link": "https://oj.uz/problem/view/BOI16_cities",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_16_05_maze",
+      "name": "Maze",
+      "editorial": "",
+      "link": "https://cses.fi/88/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "Baltic_16_06_swap",
+      "name": "Swap",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/Baltic/Baltic-16-swap.txt",
+      "link": "https://oj.uz/problem/view/BOI16_swap",
+      "solves": 4,
+      "tags": []
+    }
+  ]
+}

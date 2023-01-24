@@ -1,0 +1,53 @@
+{
+  "year": 2006,
+  "problems": [
+    {
+      "slug": "CEOI_06_01_Antenna",
+      "name": "Antenna",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-06-Antenna.txt",
+      "link": "https://cses.fi/185/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_06_02_Queue",
+      "name": "Queue",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-06-Queue.txt",
+      "link": "https://cses.fi/185/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_06_03_Walk",
+      "name": "Walk",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-06-Walk.txt",
+      "link": "https://cses.fi/185/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_06_04_Connect",
+      "name": "Connect",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-06-Connect.txt",
+      "link": "https://cses.fi/186/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_06_05_Link",
+      "name": "Link",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/tree/master/Olympiad/CEOI/official/2006",
+      "link": "https://cses.fi/186/list/",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_06_06_Meandian",
+      "name": "Meandian",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/CEOI/CEOI-06-Meandian.txt",
+      "link": "https://cses.fi/186/list/",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

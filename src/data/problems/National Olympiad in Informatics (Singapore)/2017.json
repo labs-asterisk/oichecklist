@@ -1,0 +1,45 @@
+{
+  "year": 2017,
+  "problems": [
+    {
+      "slug": "NOI_17_01_best",
+      "name": "Best",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI17_bestplace",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_17_02_roadside",
+      "name": "Roadside",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI17_roadsideadverts",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_17_03_hotspot",
+      "name": "Hotspot",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/official",
+      "link": "https://oj.uz/problem/view/NOI17_hotspot",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_17_04_rmq",
+      "name": "Rmq",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-17-rmq.txt",
+      "link": "https://oj.uz/problem/view/NOI17_rmq",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "NOI_17_05_very",
+      "name": "Pokemon",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/NOI/NOI-17-very_best_pokemon.txt",
+      "link": "https://oj.uz/problem/view/NOI17_pokemonmaster",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

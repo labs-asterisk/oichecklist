@@ -1,0 +1,53 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "CEOI_19_01_Skyscrapers",
+      "name": "Skyscrapers",
+      "editorial": "",
+      "link": "https://cses.fi/311/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_19_02_DynamicDiameter",
+      "name": "Dynamic Diameter",
+      "editorial": "",
+      "link": "https://cses.fi/311/list/",
+      "solves": 4,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_19_03_Cubeword",
+      "name": "Cubeword",
+      "editorial": "",
+      "link": "https://cses.fi/311/list/",
+      "solves": 8,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_19_04_AmusementPark",
+      "name": "Amusement Park",
+      "editorial": "",
+      "link": "https://cses.fi/312/list/",
+      "solves": 0,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_19_05_MagicTree",
+      "name": "Magic Tree",
+      "editorial": "",
+      "link": "https://cses.fi/312/list/",
+      "solves": 9,
+      "tags": []
+    },
+    {
+      "slug": "CEOI_19_06_ScissorsandTape",
+      "name": "Scissors and Tape",
+      "editorial": "",
+      "link": "https://cses.fi/312/list/",
+      "solves": 0,
+      "tags": []
+    }
+  ]
+}

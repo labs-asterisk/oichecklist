@@ -1,0 +1,69 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "IZHO_11_01_Triangle",
+      "name": "Triangle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_triangle",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_02_Hyper",
+      "name": "Hyper",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_hyper",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_03_Turtle",
+      "name": "Turtle",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_turtle",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_04_Stones",
+      "name": "Stones",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_stones",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_05_Odd-even",
+      "name": "Odd-even",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_oddeven",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_06_Skyline",
+      "name": "Skyline",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_skyline",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_07_Collider",
+      "name": "Collider",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_collider",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_11_08_K-thPath",
+      "name": "K-th Path",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO11_kthpath",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

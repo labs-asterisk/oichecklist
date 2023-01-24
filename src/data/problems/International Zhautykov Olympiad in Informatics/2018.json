@@ -1,0 +1,53 @@
+{
+  "year": 2018,
+  "problems": [
+    {
+      "slug": "IZHO_18_01_Chessboard",
+      "name": "Chessboard",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_chessboard",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_18_02_Plan",
+      "name": "Plan",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_plan",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_18_03_Gift",
+      "name": "Gift",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_nicegift",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_18_04_Segments",
+      "name": "Segments",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_segments",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_18_05_Sequence",
+      "name": "Sequence",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_sequence",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "IZHO_18_06_TreeArray",
+      "name": "Tree Array",
+      "editorial": "",
+      "link": "https://oj.uz/problem/view/IZhO18_treearray",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

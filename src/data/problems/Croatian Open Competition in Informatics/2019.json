@@ -1,0 +1,245 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "COCI_19_01_Trol",
+      "name": "Trol",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_02_Lutrija",
+      "name": "Lutrija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_03_Dzumbus",
+      "name": "D\u017eumbus",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_04_Trobojnica",
+      "name": "Trobojnica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_05_Zoo",
+      "name": "Zoo",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_06_ACM",
+      "name": "ACM",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_07_Slagalica",
+      "name": "Slagalica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_08_Checker",
+      "name": "Checker",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c2p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_09_Popcount",
+      "name": "Popcount",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_10_Zvijezda",
+      "name": "Zvijezda",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_11_Preokret",
+      "name": "Preokret",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_12_Grudanje",
+      "name": "Grudanje",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_13_Drvca",
+      "name": "Drvca",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_14_Lampice",
+      "name": "Lampice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_15_Sob",
+      "name": "Sob",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_16_Pod",
+      "name": "Pod",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_17_Spiderman",
+      "name": "Spiderman",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_18_Holding",
+      "name": "Holding",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_19_Klasika",
+      "name": "Klasika",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_20_Nivelle",
+      "name": "Nivelle",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c4p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_21_Emacs",
+      "name": "Emacs",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c5p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_22_Politicari",
+      "name": "Politicari",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c5p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_23_Matching",
+      "name": "Matching",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c5p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_24_Putovanje",
+      "name": "Putovanje",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c5p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_25_Zapina",
+      "name": "Zapina",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c5p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_26_Datum",
+      "name": "Datum",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c6p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_27_Birmingham",
+      "name": "Birmingham",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c6p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_28_Konstrukcija",
+      "name": "Konstrukcija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c6p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_29_Skandi",
+      "name": "Skandi",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c6p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_19_30_Trener",
+      "name": "Trener",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci19c6p5",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

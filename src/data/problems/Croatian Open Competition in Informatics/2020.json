@@ -1,0 +1,245 @@
+{
+  "year": 2020,
+  "problems": [
+    {
+      "slug": "COCI_20_01_Patkice",
+      "name": "Patkice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_02_Bajka",
+      "name": "Bajka",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_03_3D",
+      "name": "3D",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_04_Papricice",
+      "name": "Papricice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_05_Tenis",
+      "name": "Tenis",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_06_Crtanje",
+      "name": "Crtanje",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_07_OdaSiljaci",
+      "name": "OdaSiljaci",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_08_Euklid",
+      "name": "Euklid",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c2p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_09_Sjekira",
+      "name": "Sjekira",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_10_Svjetlo",
+      "name": "Svjetlo",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_11_Knjige",
+      "name": "Knjige",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_12_Vlak",
+      "name": "Vlak",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_13_Sateliti",
+      "name": "Sateliti",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_14_Selotejp",
+      "name": "Selotejp",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_15_Specijacija",
+      "name": "Specijacija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_16_Pizza",
+      "name": "Pizza",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_17_Vepar",
+      "name": "Vepar",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_18_Hop",
+      "name": "Hop",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_19_Janjetina",
+      "name": "Janjetina",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_20_Patkice",
+      "name": "Patkice",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c4p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_21_Sifra",
+      "name": "Sifra",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c5p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_22_Po",
+      "name": "Po",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c5p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_23_Magenta",
+      "name": "Magenta",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c5p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_24_Planine",
+      "name": "Planine",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c5p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_25_Sjeckanje",
+      "name": "Sjeckanje",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c5p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_26_Bold",
+      "name": "Bold",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c6p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_27_Alias",
+      "name": "Alias",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c6p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_28_Anagramistica",
+      "name": "Anagramistica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c6p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_29_Geometrija",
+      "name": "Geometrija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c6p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_20_30_Index",
+      "name": "Index",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci20c6p5",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

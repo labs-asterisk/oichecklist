@@ -1,0 +1,101 @@
+{
+  "year": 2015,
+  "problems": [
+    {
+      "slug": "USACO_15_01_Guard",
+      "name": "Guard",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=494",
+      "solves": 128,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_02_Googol",
+      "name": "Googol",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=552",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_03_Paths",
+      "name": "Paths",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=553",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_04_Trapped",
+      "name": "Trapped",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=554",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_05_Marathon",
+      "name": "Marathon",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=495",
+      "solves": 116,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_06_CowJog",
+      "name": "Cow Jog",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=496",
+      "solves": 108,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_07_CowRect",
+      "name": "Cow Rect",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=514",
+      "solves": 107,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_08_Moovie",
+      "name": "Moovie",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=515",
+      "solves": 99,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_09_Grass",
+      "name": "Grass",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=516",
+      "solves": 74,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_10_Hopscotch",
+      "name": "Hopscotch",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=532",
+      "solves": 68,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_11_Censor",
+      "name": "Censor",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=533",
+      "solves": 46,
+      "tags": []
+    },
+    {
+      "slug": "USACO_15_12_Fencing",
+      "name": "Fencing",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=534",
+      "solves": 9,
+      "tags": []
+    }
+  ]
+}

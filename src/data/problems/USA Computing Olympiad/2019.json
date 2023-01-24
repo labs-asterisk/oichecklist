@@ -1,0 +1,101 @@
+{
+  "year": 2019,
+  "problems": [
+    {
+      "slug": "USACO_19_01_Balance",
+      "name": "Balance",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=864",
+      "solves": 58,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_02_TreeBoxes",
+      "name": "Tree Boxes",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=948",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_03_CompoundEscape",
+      "name": "Compound Escape",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=949",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_04_Valleys",
+      "name": "Valleys",
+      "editorial": "",
+      "link": "http://usaco.org/index.php?page=viewproblem2&cpid=950",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_05_SortOut",
+      "name": "Sort Out",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=865",
+      "solves": 37,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_06_Gathering",
+      "name": "Gathering",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=866",
+      "solves": 21,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_07_Redistricting",
+      "name": "Redistricting",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=900",
+      "solves": 197,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_08_Exercise",
+      "name": "Exercise",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=901",
+      "solves": 54,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_09_Tracking2",
+      "name": "Tracking 2",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=902",
+      "solves": 72,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_10_CowDate",
+      "name": "Cow Date",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=912",
+      "solves": 155,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_11_MoorioKart",
+      "name": "Moorio Kart",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=913",
+      "solves": 68,
+      "tags": []
+    },
+    {
+      "slug": "USACO_19_12_Mowing",
+      "name": "Mowing",
+      "editorial": "",
+      "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=914",
+      "solves": 13,
+      "tags": []
+    }
+  ]
+}

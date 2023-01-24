@@ -1,0 +1,293 @@
+{
+  "year": 2007,
+  "problems": [
+    {
+      "slug": "COCI_07_10_Turbo",
+      "name": "Turbo",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_11_Kemija",
+      "name": "Kemija",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_12_Pravokutni",
+      "name": "Pravokutni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_13_Cetiri",
+      "name": "Cetiri",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_14_Oktalni",
+      "name": "Oktalni",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_15_Tajna",
+      "name": "Tajna",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_16_Dejavu",
+      "name": "Dejavu",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_17_Cudak",
+      "name": "Cudak",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_18_Redoks",
+      "name": "Redoks",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c3p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_19_Vauvau",
+      "name": "Vauvau",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_1_Cetvrta",
+      "name": "Cetvrta",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_20_Veci",
+      "name": "Veci",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_21_Lektira",
+      "name": "Lektira",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_22_Muzicari",
+      "name": "Muzicari",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_23_Poklon",
+      "name": "Poklon",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_24_Kocke",
+      "name": "Kocke",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c4p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_25_Tri",
+      "name": "Tri",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_26_Pascal",
+      "name": "Pascal",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_27_Jabuke",
+      "name": "Jabuke",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_28_Avogadro",
+      "name": "Avogadro",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_29_Barica",
+      "name": "Barica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_2_PEG",
+      "name": "PEG",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_30_Baza",
+      "name": "Baza",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c5p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_31_Parking",
+      "name": "Parking",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_32_Semafori",
+      "name": "Semafori",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_33_Granica",
+      "name": "Granica",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_34_George",
+      "name": "George",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_35_Princeza",
+      "name": "Princeza",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_36_Cestarine",
+      "name": "Cestarine",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c6p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_3_Prinova",
+      "name": "Prinova",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p3",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_4_Zapis",
+      "name": "Zapis",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p4",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_5_Srednji",
+      "name": "Srednji",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p5",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_6_Staza",
+      "name": "Staza",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c1p6",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_7_Bijele",
+      "name": "Bijele",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p1",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_8_Crne",
+      "name": "Crne",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p2",
+      "solves": -1,
+      "tags": []
+    },
+    {
+      "slug": "COCI_07_9_Prva",
+      "name": "Prva",
+      "editorial": "",
+      "link": "https://dmoj.ca/problem/coci07c2p3",
+      "solves": -1,
+      "tags": []
+    }
+  ]
+}

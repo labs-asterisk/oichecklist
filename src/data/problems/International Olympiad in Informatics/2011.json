@@ -1,0 +1,53 @@
+{
+  "year": 2011,
+  "problems": [
+    {
+      "slug": "IOI_11_01_garden",
+      "name": "Garden",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-11-garden.txt",
+      "link": "https://oj.uz/problem/view/IOI11_garden",
+      "solves": 36,
+      "tags": []
+    },
+    {
+      "slug": "IOI_11_02_race",
+      "name": "Race",
+      "editorial": "https://github.com/aviroop123/CompetitiveProgramming/blob/master/Olympiad/IOI/IOI%252011-race.cpp",
+      "link": "https://oj.uz/problem/view/IOI11_race",
+      "solves": 29,
+      "tags": []
+    },
+    {
+      "slug": "IOI_11_03_ricehub",
+      "name": "Ricehub",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/official/2011",
+      "link": "https://oj.uz/problem/view/IOI11_ricehub",
+      "solves": 113,
+      "tags": []
+    },
+    {
+      "slug": "IOI_11_04_crocodile",
+      "name": "Crocodile",
+      "editorial": "http://www.ioi2011.or.th/hsc/tasks/solutions/crocodile.pdf",
+      "link": "https://oj.uz/problem/view/IOI11_crocodile",
+      "solves": 108,
+      "tags": []
+    },
+    {
+      "slug": "IOI_11_05_elephants",
+      "name": "Elephants",
+      "editorial": "https://github.com/mostafa-saad/MyCompetitiveProgramming/blob/master/Olympiad/IOI/IOI-11-elephants.txt",
+      "link": "https://oj.uz/problem/view/IOI11_elephants",
+      "solves": 6,
+      "tags": []
+    },
+    {
+      "slug": "IOI_11_06_parrots",
+      "name": "Parrots",
+      "editorial": "http://www.ioi2011.or.th/hsc/tasks/EN/parrots.pdf",
+      "link": "https://oj.uz/problem/view/IOI11_parrots",
+      "solves": 7,
+      "tags": []
+    }
+  ]
+}
