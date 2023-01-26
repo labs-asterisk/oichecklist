@@ -15,8 +15,24 @@ export async function getPythonAnywhereProblems(url: string) {
 
   return [
     ...$("td").map((i, td) => {
-      if (!$(td).attr("class")?.includes("table-light")) {
-        return $(td).text();
+      let cls = $(td).attr("class");
+
+      if (!cls?.includes("table-light") && !cls?.includes("bg-light")) {
+        return {
+          name: $(td)
+            .text()
+            .replace(/[\r\n\t]+/gm, "")
+            .trim(),
+          status: cls?.includes("table-warning")
+            ? "yellow"
+            : cls?.includes("table-primary")
+            ? "blue"
+            : cls?.includes("table-success")
+            ? "green"
+            : cls?.includes("table-danger")
+            ? "red"
+            : "white",
+        };
       }
     }),
   ];
