@@ -9,33 +9,57 @@ export async function getPythonAnywhereProblems(url: string) {
   const r = await got(url);
   const paHtml = r.body;
   const lines = paHtml.split("\n");
-  let solved = []
-  let trying = []
-  let mindsolved = []
+
+  let solvedProblems = [];
+  let tryingProblems = [];
+  let mindsolvedProblems = [];
+
   for (var i = 0; i < lines.length; i++) {
     if (lines[i]?.includes("var solved_problems")) {
-      solved = lines[i]?.match(/\d+/g) as any;
+      solvedProblems = lines[i]?.match(/\d+/g) as any;
     }
+
     if (lines[i]?.includes("var solving_problems")) {
-      trying = lines[i]?.match(/\d+/g) as any;
+      tryingProblems = lines[i]?.match(/\d+/g) as any;
     }
+
     if (lines[i]?.includes("var known_problems")) {
-      mindsolved = lines[i]?.match(/\d+/g) as any;
-    } 
+      mindsolvedProblems = lines[i]?.match(/\d+/g) as any;
+    }
   }
+
   const freq = new Map();
-  for (var i = 0; i < solved.length; i++) {
-    solved[i] = parseInt(solved[i]);
-    freq.set(solved[i], 2);
-  }
-  for (var i = 0; i < trying.length; i++) {
-    trying[i] = parseInt(trying[i]);
-    freq.set(trying[i], 0);
-  }
-  for (var i = 0; i < mindsolved.length; i++) {
-    mindsolved[i] = parseInt(mindsolved[i]);
-    freq.set(mindsolved[i], 1);
-  }
+
+  // for (var i = 0; i < solved.length; i++) {
+  solvedProblems.forEach((solvedProblem: string, i: number) => {
+    const sProbInt = parseInt(solvedProblem);
+    solvedProblems[i] = sProbInt;
+    freq.set(sProbInt, 2);
+  });
+
+  tryingProblems.forEach((tryingProblem: string, i: number) => {
+    const tProbInt = parseInt(tryingProblem);
+    tryingProblems[i] = tProbInt;
+    freq.set(tProbInt, 0);
+  });
+
+  // for (var i = 0; i < trying.length; i++) {
+  //   trying[i] = parseInt(trying[i]);
+  //   freq.set(trying[i], 0);
+  // }
+
+  mindsolvedProblems.forEach((mindsolvedProblem: string, i: number) => {
+    const msProbInt = parseInt(mindsolvedProblem);
+    mindsolvedProblems[i] = msProbInt;
+    freq.set(msProbInt, 1);
+  });
+
+  // for (var i = 0; i < mindsolved.length; i++) {
+  //   mindsolved[i] = parseInt(mindsolved[i]);
+  //   freq.set(mindsolved[i], 1);
+  // }
+
+  console.log({ solvedProblems, tryingProblems, mindsolvedProblems, freq });
 
   const $ = cheerio.load(paHtml);
 
@@ -54,15 +78,4 @@ export async function getPythonAnywhereProblems(url: string) {
       }
     }),
   ];
-  // tdObjs.map(async (idx, elem) => {
-  //   // console.log(Object.keys(elem));
-
-  //   try {
-  //     console.log(elem.attribs);
-  //   } catch (e) {
-  //     console.error(e);
-  //   }
-  // });
-
-  // return [];
 }
