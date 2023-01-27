@@ -52,15 +52,15 @@ export const importRouter = router({
 
       const freq = new Map();
 
-      solvedProblems.forEach((solvedProblem: string, i: number) => {
+      solved.forEach((solvedProblem: string, i: number) => {
         const sProbInt = parseInt(solvedProblem);
-        solvedProblems[i] = sProbInt;
+        solved[i] = sProbInt;
         freq.set(sProbInt, 2);
       });
 
-      tryingProblems.forEach((tryingProblem: string, i: number) => {
+      trying.forEach((tryingProblem: string, i: number) => {
         const tProbInt = parseInt(tryingProblem);
-        tryingProblems[i] = tProbInt;
+        trying[i] = tProbInt;
         freq.set(tProbInt, 0);
       });
 
@@ -69,9 +69,9 @@ export const importRouter = router({
       //   freq.set(trying[i], 0);
       // }
 
-      mindsolvedProblems.forEach((mindsolvedProblem: string, i: number) => {
+      mindsolved.forEach((mindsolvedProblem: string, i: number) => {
         const msProbInt = parseInt(mindsolvedProblem);
-        mindsolvedProblems[i] = msProbInt;
+        mindsolved[i] = msProbInt;
         freq.set(msProbInt, 1);
       });
 
@@ -89,7 +89,6 @@ export const importRouter = router({
       // }
 
       const $ = cheerio.load(paHtml);
-      console.log($);
       const markedProblems = [
         ...$("td").map((i, td) => {
           let cls = parseInt($(td).attr("id") as string);
@@ -142,8 +141,8 @@ export const importRouter = router({
             status === 0
               ? AttemptingState.Attempting
               : status == 1
-              ? AttemptingState.Unimplemented
-              : AttemptingState.Solved;
+                ? AttemptingState.Unimplemented
+                : AttemptingState.Solved;
           const problemSlug = markedSlugs[slug] as string;
           console.log(markedSlugs[slug], status);
           try {
