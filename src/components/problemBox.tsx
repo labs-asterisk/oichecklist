@@ -65,6 +65,7 @@ const ProblemBox: React.FC<ProblemBoxProps> = ({
         attemptingStates[currentAsIdx - 1]
       } to ${attemptingState}`
     );
+
   };
 
   const bgColor =

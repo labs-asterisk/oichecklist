@@ -1,25 +1,17 @@
 import Link from "next/link";
-
+import React from "react";
 import {
-  Flex,
-  Icon,
-  Text,
-  Button,
-  Box,
-  Image,
-  Input,
-  useClipboard,
+  Box, Button, Flex,
+  Icon, Image,
+  Input, Text, useClipboard
 } from "@chakra-ui/react";
-import { CopyIcon, CheckIcon } from "@chakra-ui/icons";
-
+import { CheckIcon, CopyIcon } from "@chakra-ui/icons";
 import TopicFilterMenu from "./topicFilter";
-
 import { MdNoteAlt } from "react-icons/md";
 import { signIn, signOut, useSession } from "next-auth/react";
-
 import { trpc } from "../utils/trpc";
-
 import _ from "lodash";
+import ImportProblems from "./ImportProblems";
 
 const navItems = [
   {
@@ -28,6 +20,7 @@ const navItems = [
     icon: MdNoteAlt,
   },
 ];
+
 
 const Navbar: React.FC = () => {
   const { data, status } = useSession();
@@ -80,6 +73,8 @@ const Navbar: React.FC = () => {
             </Link>
           ))}
 
+          <ImportProblems />
+
           <Box bgColor="#323e59" p={3} borderRadius="5px">
             <Text fontSize="md" fontWeight="bold">
               Filter
@@ -95,6 +90,7 @@ const Navbar: React.FC = () => {
             </Flex>
           </Box>
         </Flex>
+
 
         <Box width="100%">
           {/* TODO: handle loading state */}
@@ -164,15 +160,15 @@ const Navbar: React.FC = () => {
 
         </Box>
         <Flex
-            flexDir="column"
-            rowGap={2}
-            py={4}
-            width="100%"
-            alignItems="center">
-            <Text>
-              <Link href="https://oichecklist.pythonanywhere.com/">Inspiration</Link> | <Link href="https://github.com/labs-asterisk/oichecklist/">Contribute</Link>
-            </Text>
-          </Flex>
+          flexDir="column"
+          rowGap={2}
+          py={4}
+          width="100%"
+          alignItems="center">
+          <Text>
+            <Link href="https://oichecklist.pythonanywhere.com/">Inspiration</Link> | <Link href="https://github.com/labs-asterisk/oichecklist/">Contribute</Link>
+          </Text>
+        </Flex>
       </Flex>
     </>
   );

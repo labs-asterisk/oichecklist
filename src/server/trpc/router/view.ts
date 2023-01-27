@@ -53,9 +53,8 @@ export const viewRouter = router({
       });
 
       // @ts-ignore
-      const allProbsCount = filteredProbs[0].problems.length;
+      const allProbsCount = filteredProbs[0].years.reduce((acc, { problems }) => acc + problems.length, 0);
 
-      console.log({ allProbsCount, solvingProbsCount, solvedProbsCount });
       return { allProbsCount, solvingProbsCount, solvedProbsCount };
     }),
   getSharingLink: protectedProcedure.query(async ({ ctx }) => {
