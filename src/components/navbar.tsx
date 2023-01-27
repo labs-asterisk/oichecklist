@@ -14,17 +14,13 @@ import {
   Popover,
   PopoverTrigger,
   PopoverContent,
-  PopoverHeader,
-  PopoverBody,
-  PopoverFooter,
   PopoverArrow,
   PopoverCloseButton,
-  PopoverAnchor,
   Stack,
   ButtonGroup,
   FormControl,
   FormLabel,
-  FormHelperText
+  useToast
 
 } from "@chakra-ui/react";
 
@@ -51,6 +47,7 @@ const navItems = [
   },
 ];
 
+
 const Navbar: React.FC = () => {
   const { data, status } = useSession();
   const { onCopy, value, setValue, hasCopied } = useClipboard("");
@@ -63,8 +60,21 @@ const Navbar: React.FC = () => {
   });
 
   const mut = trpc.import.importProblems.useMutation({});
-
+  const toast = useToast();
+  
   const handleImportClick = () => {
+    if (importLink.match(/oichecklist.pythonanywhere.com\/view\/\d*[a-zA-Z][a-zA-Z0-9]*/g)?.length === undefined) {
+      
+      toast({
+        title: 'Invalid input',
+        description: "Please enter a valid link!",
+        status: 'error',
+        duration: 9000,
+        isClosable: true,
+      })
+
+      return;
+    }
     if (mut.isLoading) return;
     mut.mutate({
       link: importLink
@@ -116,54 +126,55 @@ const Navbar: React.FC = () => {
           ))}
 
 
-          
-          <Popover
-            isOpen={isOpen}
-            initialFocusRef={firstFieldRef}
-            onOpen={onOpen}
-            onClose={onClose}
-            placement='right'
-            closeOnBlur={false}
-          >
-            <PopoverTrigger>
-              <Link href="/">
-                <Flex
-                  mb={3}
-                  p={3}
-                  borderRadius="5px"
-                  alignItems="center"
-                  transition="all 0.2s ease-in-out"
-                  _hover={{ bg: "rgba(221,226,255, 0.08)" }}
-                >
-                  <Icon boxSize={7} as={CiImport} />
-                  <Text ml={3} fontSize="16px">
-                    Import Progress
-                  </Text>
-                </Flex>
-              </Link>
-            </PopoverTrigger>
-            <PopoverContent p={5}>
-              <FocusLock returnFocus persistentFocus={false}>
-                <PopoverArrow />
-                <PopoverCloseButton color="black"/>
-                <Stack spacing={4}>
-                  <FormControl>
-                    <FormLabel fontWeight="bold" color="black">Existing Link</FormLabel>
-                    <Input type="text" size="md" placeholder="enter your checklist link!" color="black" onChange={(e) => setImportLink(e.target.value)} />
-                  </FormControl>
-                  <ButtonGroup display='flex' justifyContent='flex-end'>
-                    <Button variant='outline' onClick={onClose} textColor="black">
-                      Cancel
-                    </Button>
-                    <Button colorScheme='teal' onClick={() => handleImportClick()} isLoading={mut.isLoading}>
-                      Import
-                    </Button>
-                  </ButtonGroup>
-              </Stack>
-              </FocusLock>
-            </PopoverContent>
-          </Popover>
-
+          {status === "authenticated" ? (
+            <Popover
+              isOpen={isOpen}
+              initialFocusRef={firstFieldRef}
+              onOpen={onOpen}
+              onClose={onClose}
+              placement='right'
+              closeOnBlur={false}
+            >
+              <PopoverTrigger>
+                <Link href="/">
+                  <Flex
+                    mb={3}
+                    p={3}
+                    borderRadius="5px"
+                    alignItems="center"
+                    transition="all 0.2s ease-in-out"
+                    _hover={{ bg: "rgba(221,226,255, 0.08)" }}
+                  >
+                    <Icon boxSize={7} as={CiImport} />
+                    <Text ml={3} fontSize="16px">
+                      Import Progress
+                    </Text>
+                  </Flex>
+                </Link>
+              </PopoverTrigger>
+              <PopoverContent p={5}>
+                <FocusLock returnFocus persistentFocus={false}>
+                  <PopoverArrow />
+                  <PopoverCloseButton color="black"/>
+                  <Stack spacing={4}>
+                    <FormControl>
+                      <FormLabel fontWeight="bold" color="black">Existing Link</FormLabel>
+                      <Input type="text" size="md" placeholder="enter your checklist link!" color="black" onChange={(e) => setImportLink(e.target.value)} />
+                    </FormControl>
+                    <ButtonGroup display='flex' justifyContent='flex-end'>
+                      <Button variant='outline' onClick={onClose} textColor="black">
+                        Cancel
+                      </Button>
+                      <Button colorScheme='teal' onClick={() => handleImportClick()} isLoading={mut.isLoading}>
+                        Import
+                      </Button>
+                    </ButtonGroup>
+                </Stack>
+                </FocusLock>
+              </PopoverContent>
+            </Popover>
+            ) : <></>
+          }
 
           <Box bgColor="#323e59" p={3} borderRadius="5px">
             <Text fontSize="md" fontWeight="bold">
