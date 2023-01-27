@@ -145,7 +145,7 @@ const Navbar: React.FC = () => {
             <PopoverContent p={5}>
               <FocusLock returnFocus persistentFocus={false}>
                 <PopoverArrow />
-                <PopoverCloseButton />
+                <PopoverCloseButton color="black"/>
                 <Stack spacing={4}>
                   <FormControl>
                     <FormLabel fontWeight="bold" color="black">Existing Link</FormLabel>

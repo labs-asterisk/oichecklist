@@ -21,9 +21,14 @@ export const importRouter = router({
     let { link: checklistLink } = input;
     const { id: userId } = ctx.session.user;
 
-    if (!checklistLink.startsWith("https")) {
-      checklistLink = "https://" + checklistLink.split("//")[-1];
+    if (checklistLink.startsWith("http://")) {
+      checklistLink = "https://" + checklistLink.split("//")[1];
     }
+    
+    if (!checklistLink.startsWith("http")) {
+      checklistLink = "https://" + checklistLink;
+    }
+    
     const r = await got(checklistLink);
     const paHtml = r.body;
     const lines = paHtml.split("\n");
@@ -56,6 +61,7 @@ export const importRouter = router({
     }
 
     const $ = cheerio.load(paHtml);
+    console.log($);
     const markedProblems = [
       ...$("td").map((i, td) => {
         let cls = parseInt($(td).attr("id") as string);
@@ -66,7 +72,7 @@ export const importRouter = router({
               .replace(/[\r\n\t]+/gm, "")
               .trim(),
             olympiadName: $(td).attr("data-title")?.split(" ")[0],
-            year: $(td).attr("data-title")?.split(" ")[1]?.slice(-2),
+            year: $(td).attr("data-title")?.split(" ")[1]?.slice(2, 4),
             status: freq.get(cls),
           };
         }
@@ -80,14 +86,18 @@ export const importRouter = router({
     );
     markedSlugs = [].concat.apply([], markedSlugs);
     markedSlugs = [].concat.apply([], markedSlugs);
-
+    console.log(markedProblems);
+    console.log(markedSlugs);
     for (let slug = 0; slug < markedSlugs.length; slug++) {
       let status = -1;
       for (let p = 0; p < markedProblems.length; p++) {
         const problem = markedProblems[p];
-        if (markedSlugs[slug]?.toLowerCase().includes(problem["olympiadName"].toLowerCase()) && 
-            markedSlugs[slug]?.toLowerCase().includes(problem["name"].toLowerCase()) && 
-            markedSlugs[slug]?.toLowerCase().includes(problem["year"].toLowerCase())) {
+        if (problem["olympiadName"] === "BOI") {
+          problem["olympiadName"] = "Baltic";
+        }
+        if (markedSlugs[slug]?.toLowerCase().includes(problem["olympiadName"].toLowerCase().replace(/\s/g, '')) && 
+            markedSlugs[slug]?.toLowerCase().includes(problem["name"].toLowerCase().replace(/\s/g, '')) && 
+            markedSlugs[slug]?.toLowerCase().includes(problem["year"].toLowerCase().replace(/\s/g, ''))) {
           status = problem["status"];
         }
       }
