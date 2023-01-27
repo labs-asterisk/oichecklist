@@ -8,30 +8,48 @@ export async function getPythonAnywhereProblems(url: string) {
 
   const r = await got(url);
   const paHtml = r.body;
-
-  // console.log(paHtml);
+  const lines = paHtml.split("\n");
+  let solved = []
+  let trying = []
+  let mindsolved = []
+  for (var i = 0; i < lines.length; i++) {
+    if (lines[i]?.includes("var solved_problems")) {
+      solved = lines[i]?.match(/\d+/g) as any;
+    }
+    if (lines[i]?.includes("var solving_problems")) {
+      trying = lines[i]?.match(/\d+/g) as any;
+    }
+    if (lines[i]?.includes("var known_problems")) {
+      mindsolved = lines[i]?.match(/\d+/g) as any;
+    } 
+  }
+  const freq = new Map();
+  for (var i = 0; i < solved.length; i++) {
+    solved[i] = parseInt(solved[i]);
+    freq.set(solved[i], 2);
+  }
+  for (var i = 0; i < trying.length; i++) {
+    trying[i] = parseInt(trying[i]);
+    freq.set(trying[i], 0);
+  }
+  for (var i = 0; i < mindsolved.length; i++) {
+    mindsolved[i] = parseInt(mindsolved[i]);
+    freq.set(mindsolved[i], 1);
+  }
 
   const $ = cheerio.load(paHtml);
 
   return [
     ...$("td").map((i, td) => {
-      let cls = $(td).attr("class");
-
-      if (!cls?.includes("table-light") && !cls?.includes("bg-light")) {
+      let cls = parseInt($(td).attr("id") as string);
+      if (freq.has(cls)) {
         return {
           name: $(td)
             .text()
             .replace(/[\r\n\t]+/gm, "")
             .trim(),
-          status: cls?.includes("table-warning")
-            ? "yellow"
-            : cls?.includes("table-primary")
-            ? "blue"
-            : cls?.includes("table-success")
-            ? "green"
-            : cls?.includes("table-danger")
-            ? "red"
-            : "white",
+          id: $(td).attr("data-title"),
+          status: freq.get(cls),
         };
       }
     }),

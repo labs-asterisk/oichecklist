@@ -1,4 +1,5 @@
 import Link from "next/link";
+import React, {useState} from "react";
 
 import {
   Flex,
@@ -9,12 +10,33 @@ import {
   Image,
   Input,
   useClipboard,
+  useDisclosure,
+  Popover,
+  PopoverTrigger,
+  PopoverContent,
+  PopoverHeader,
+  PopoverBody,
+  PopoverFooter,
+  PopoverArrow,
+  PopoverCloseButton,
+  PopoverAnchor,
+  Stack,
+  ButtonGroup,
+  FormControl,
+  FormLabel,
+  FormHelperText
+
 } from "@chakra-ui/react";
+
+import FocusLock from "react-focus-lock"
+
 import { CopyIcon, CheckIcon } from "@chakra-ui/icons";
 
 import TopicFilterMenu from "./topicFilter";
 
 import { MdNoteAlt } from "react-icons/md";
+import { CiImport } from "react-icons/ci"
+
 import { signIn, signOut, useSession } from "next-auth/react";
 
 import { trpc } from "../utils/trpc";
@@ -32,10 +54,23 @@ const navItems = [
 const Navbar: React.FC = () => {
   const { data, status } = useSession();
   const { onCopy, value, setValue, hasCopied } = useClipboard("");
+  const { isOpen, onOpen, onClose } = useDisclosure()
+  const firstFieldRef = React.useRef(null)
+  const [importLink, setImportLink] = useState("");
 
   const { data: sharingLink } = trpc.view.getSharingLink.useQuery(undefined, {
     enabled: status === "authenticated",
   });
+
+  const mut = trpc.import.importProblems.useMutation({});
+
+  const handleImportClick = () => {
+    if (mut.isLoading) return;
+    mut.mutate({
+      link: importLink
+    });
+
+  };
 
   return (
     <>
@@ -80,6 +115,56 @@ const Navbar: React.FC = () => {
             </Link>
           ))}
 
+
+          
+          <Popover
+            isOpen={isOpen}
+            initialFocusRef={firstFieldRef}
+            onOpen={onOpen}
+            onClose={onClose}
+            placement='right'
+            closeOnBlur={false}
+          >
+            <PopoverTrigger>
+              <Link href="/">
+                <Flex
+                  mb={3}
+                  p={3}
+                  borderRadius="5px"
+                  alignItems="center"
+                  transition="all 0.2s ease-in-out"
+                  _hover={{ bg: "rgba(221,226,255, 0.08)" }}
+                >
+                  <Icon boxSize={7} as={CiImport} />
+                  <Text ml={3} fontSize="16px">
+                    Import Progress
+                  </Text>
+                </Flex>
+              </Link>
+            </PopoverTrigger>
+            <PopoverContent p={5}>
+              <FocusLock returnFocus persistentFocus={false}>
+                <PopoverArrow />
+                <PopoverCloseButton />
+                <Stack spacing={4}>
+                  <FormControl>
+                    <FormLabel fontWeight="bold" color="black">Existing Link</FormLabel>
+                    <Input type="text" size="md" placeholder="enter your checklist link!" color="black" onChange={(e) => setImportLink(e.target.value)} />
+                  </FormControl>
+                  <ButtonGroup display='flex' justifyContent='flex-end'>
+                    <Button variant='outline' onClick={onClose} textColor="black">
+                      Cancel
+                    </Button>
+                    <Button colorScheme='teal' onClick={() => handleImportClick()} isLoading={mut.isLoading}>
+                      Import
+                    </Button>
+                  </ButtonGroup>
+              </Stack>
+              </FocusLock>
+            </PopoverContent>
+          </Popover>
+
+
           <Box bgColor="#323e59" p={3} borderRadius="5px">
             <Text fontSize="md" fontWeight="bold">
               Filter
@@ -95,6 +180,7 @@ const Navbar: React.FC = () => {
             </Flex>
           </Box>
         </Flex>
+      
 
         <Box width="100%">
           {/* TODO: handle loading state */}

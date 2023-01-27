@@ -4,7 +4,7 @@ import { getPythonAnywhereProblems } from "../../server/common/pa-import";
 
 const paImportMock = async (req: NextApiRequest, res: NextApiResponse) => {
   const url =
-    "oichecklist.pythonanywhere.com/view/27fad9750e8ef51312f80d05e4d260bc904c1a9a";
+    "oichecklist.pythonanywhere.com/view/4c47fbe2fda9f464a8e57b895b0dc36574000586";
 
   const paProblems = await getPythonAnywhereProblems(url);
 
