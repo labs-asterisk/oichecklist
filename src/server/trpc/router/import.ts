@@ -12,7 +12,7 @@ export const importRouter = router({
   importProblems: protectedProcedure
     .input(
       z.object({
-        link: z.string(),
+        link: z.string().url(),
       })
     )
     .mutation(async ({ ctx, input }) => {
